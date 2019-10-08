@@ -1,0 +1,351 @@
+a:9:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.30";s:10:"yiiVersion";s:6:"2.0.11";s:11:"application";a:5:{s:3:"yii";s:6:"2.0.11";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.30";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:6:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:74:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:72:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:68:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:66:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:68:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2-faker";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:70:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2-imagine";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:9:{s:4:"host";s:17:"new.korinf.com.ua";s:15:"x-forwarded-for";s:12:"37.9.113.166";s:17:"x-forwarded-proto";s:4:"http";s:9:"x-real-ip";s:12:"37.9.113.166";s:10:"connection";s:5:"close";s:10:"user-agent";s:64:"Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)";s:4:"from";s:24:"support@search.yandex.ru";s:15:"accept-encoding";s:12:"gzip,deflate";s:6:"accept";s:3:"*/*";}s:15:"responseHeaders";a:3:{s:12:"X-Powered-By";s:10:"PHP/5.6.30";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:10:"Set-Cookie";s:209:"_csrf-frontend=f75a4a6051ca27c5cd2f26c5af13b09d79f1a01e45385e0c17dc58ad609958d9a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22oL9PfeZ_O7sSsXuMSKfpdHHWPIJPPZlU%22%3B%7D; path=/; httponly";}s:5:"route";s:9:"site/stat";s:6:"action";s:49:"frontend\controllers\SiteController::actionStat()";s:12:"actionParams";a:1:{i:0;s:10:"tv-synt-ax";}s:11:"requestBody";a:0:{}s:6:"SERVER";a:41:{s:42:"REDIRECT_REDIRECT_REDIRECT_REDIRECT_STATUS";s:3:"200";s:33:"REDIRECT_REDIRECT_REDIRECT_STATUS";s:3:"200";s:24:"REDIRECT_REDIRECT_STATUS";s:3:"200";s:16:"REDIRECT_HANDLER";s:7:"php-cgi";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:17:"new.korinf.com.ua";s:20:"HTTP_X_FORWARDED_FOR";s:12:"37.9.113.166";s:22:"HTTP_X_FORWARDED_PROTO";s:4:"http";s:14:"HTTP_X_REAL_IP";s:12:"37.9.113.166";s:15:"HTTP_CONNECTION";s:5:"close";s:15:"HTTP_USER_AGENT";s:64:"Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)";s:9:"HTTP_FROM";s:24:"support@search.yandex.ru";s:20:"HTTP_ACCEPT_ENCODING";s:12:"gzip,deflate";s:11:"HTTP_ACCEPT";s:3:"*/*";s:4:"PATH";s:28:"/usr/local/bin:/usr/bin:/bin";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:6:"Apache";s:11:"SERVER_NAME";s:17:"new.korinf.com.ua";s:11:"SERVER_ADDR";s:13:"91.234.33.240";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:12:"37.9.113.166";s:13:"DOCUMENT_ROOT";s:38:"/var/www/korinf/data/www/korinf.com.ua";s:12:"SERVER_ADMIN";s:18:"vlad@korinf.com.ua";s:15:"SCRIPT_FILENAME";s:65:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/web/index.php";s:11:"REMOTE_PORT";s:5:"56348";s:12:"REDIRECT_URL";s:24:"/frontend/web/index.php/";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.0";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:21:"/stat/tv-synt-ax.html";s:11:"SCRIPT_NAME";s:23:"/frontend/web/index.php";s:9:"PATH_INFO";s:1:"/";s:15:"PATH_TRANSLATED";s:39:"/var/www/korinf/data/www/korinf.com.ua/";s:14:"ORIG_PATH_INFO";s:24:"/frontend/web/index.php/";s:16:"ORIG_SCRIPT_NAME";s:12:"/php-bin/php";s:20:"ORIG_SCRIPT_FILENAME";s:27:"/var/www/php-bin/korinf/php";s:20:"ORIG_PATH_TRANSLATED";s:66:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/web/index.php/";s:8:"PHP_SELF";s:24:"/frontend/web/index.php/";s:18:"REQUEST_TIME_FLOAT";d:1503459903.7728679;s:12:"REQUEST_TIME";i:1503459903;}s:3:"GET";a:1:{s:3:"sef";s:10:"tv-synt-ax";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:43:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1503459903.90675;i:4;a:0:{}i:5;i:1214320;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1503459903.9068;i:4;a:0:{}i:5;i:1217288;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1503459903.9131379;i:4;a:0:{}i:5;i:1477712;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1503459903.918189;i:4;a:0:{}i:5;i:1625656;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1503459903.9187169;i:4;a:0:{}i:5;i:1661168;}i:5;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.9226229;i:4;a:0:{}i:5;i:1788416;}i:6;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.9226561;i:4;a:0:{}i:5;i:1790232;}i:7;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.9226811;i:4;a:0:{}i:5;i:1792080;}i:8;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.9226999;i:4;a:0:{}i:5;i:1793896;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.92272;i:4;a:0:{}i:5;i:1795808;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:1:"/";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.9227381;i:4;a:0:{}i:5;i:1797624;}i:11;a:6:{i:0;a:3:{s:4:"rule";s:52:"<action:index|equipment|events|contacts|page|signup>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.9227581;i:4;a:0:{}i:5;i:1799480;}i:12;a:6:{i:0;s:54:"Request parsed with URL rule: <action>/<sef:[\w_\/-]+>";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1503459903.922806;i:4;a:0:{}i:5;i:1804168;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:24:"<action>/<sef:[\w_\/-]+>";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503459903.922821;i:4;a:0:{}i:5;i:1803504;}i:14;a:6:{i:0;s:28:"Route requested: 'site/stat'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1503459903.9228361;i:4;a:0:{}i:5;i:1801944;}i:15;a:6:{i:0;s:23:"Route to run: site/stat";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1503459903.9258831;i:4;a:0:{}i:5;i:1913120;}i:16;a:6:{i:0;s:65:"Running action: frontend\controllers\SiteController::actionStat()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1503459903.92905;i:4;a:0:{}i:5;i:2035480;}i:17;a:6:{i:0;s:54:"Opening DB connection: mysql:host=localhost;dbname=new";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1503459903.9550271;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2749768;}i:20;a:6:{i:0;s:45:"SELECT * FROM `item` WHERE `sef`='tv-synt-ax'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9555459;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2758120;}i:23;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `item`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.974674;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2802440;}i:26;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item' AND kcu.table_name = 'item'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9770279;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2840352;}i:29;a:6:{i:0;s:42:"SELECT * FROM `images` WHERE `id_item`=366";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9778881;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2894912;}i:32;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `images`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.991406;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2913448;}i:35;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'images' AND kcu.table_name = 'images'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.992543;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2927784;}i:38;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=141";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.993314;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2978368;}i:41;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `item_category`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0237601;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2997200;}i:44;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item_category' AND kcu.table_name = 'item_category'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0253799;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3017944;}i:47;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=135";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025923;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3018648;}i:50;a:6:{i:0;s:43:"SELECT * FROM `item_category` WHERE `id`=12";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.026304;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3027168;}i:53;a:6:{i:0;s:42:"SELECT * FROM `item_category` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.048203;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3039592;}i:56;a:6:{i:0;s:46:"SELECT * FROM `tag_linked` WHERE `id_item`=366";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.056447;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3097896;}i:59;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `tag_linked`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.057595;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3121856;}i:62;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tag_linked' AND kcu.table_name = 'tag_linked'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0589471;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3136984;}i:65;a:6:{i:0;s:49:"SELECT * FROM `tags` WHERE id IN(1,4,5,7,513,517)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.059823;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3188288;}i:68;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `tags`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0719979;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3211312;}i:71;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tags' AND kcu.table_name = 'tags'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.073746;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3224488;}i:74;a:6:{i:0;s:92:"Rendering view file: /var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503459904.0766621;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3251088;}i:75;a:6:{i:0;s:20:"SELECT * FROM `tags`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0779531;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/components/Search.php";s:4:"line";i:15;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";s:4:"line";i:21;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3356216;}i:78;a:6:{i:0;s:100:"Rendering view file: /var/www/korinf/data/www/new.korinf.com.ua/frontend/components/views/search.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503459904.0937099;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/components/Search.php";s:4:"line";i:28;s:8:"function";s:6:"render";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";s:4:"line";i:21;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3497904;}i:79;a:6:{i:0;s:98:"Rendering view file: /var/www/korinf/data/www/new.korinf.com.ua/frontend/components/views/tags.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503459904.099786;i:4;a:3:{i:0;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/components/Tags.php";s:4:"line";i:17;s:8:"function";s:6:"render";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";s:4:"line";i:54;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3582336;}i:80;a:6:{i:0;s:95:"Rendering view file: /var/www/korinf/data/www/new.korinf.com.ua/frontend/views/layouts/main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503459904.1003399;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3558288;}i:81;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 37.9.113.166";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1503459904.105032;i:4;a:2:{i:0;a:5:{s:4:"file";s:74:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/layouts/main.php";s:4:"line";i:95;s:8:"function";s:7:"endBody";s:5:"class";s:12:"yii\web\View";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3805008;}i:82;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 37.9.113.166";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1503459904.106056;i:4;a:0:{}i:5;i:3702208;}}}s:9:"profiling";a:3:{s:6:"memory";i:4393528;s:4:"time";d:0.25482892990112305;s:8:"messages";a:40:{i:18;a:6:{i:0;s:54:"Opening DB connection: mysql:host=localhost;dbname=new";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1503459903.9550779;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2752312;}i:19;a:6:{i:0;s:54:"Opening DB connection: mysql:host=localhost;dbname=new";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1503459903.955482;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2763264;}i:21;a:6:{i:0;s:45:"SELECT * FROM `item` WHERE `sef`='tv-synt-ax'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9555931;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2761984;}i:22;a:6:{i:0;s:45:"SELECT * FROM `item` WHERE `sef`='tv-synt-ax'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9740829;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2780920;}i:24;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `item`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9747379;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2805680;}i:25;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `item`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.976167;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2832472;}i:27;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item' AND kcu.table_name = 'item'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.977078;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2844168;}i:28;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item' AND kcu.table_name = 'item'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9773741;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2847152;}i:30;a:6:{i:0;s:42:"SELECT * FROM `images` WHERE `id_item`=366";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9779229;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2898048;}i:31;a:6:{i:0;s:42:"SELECT * FROM `images` WHERE `id_item`=366";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9913061;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2901824;}i:33;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `images`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.991451;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2916848;}i:34;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `images`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.992353;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2926080;}i:36;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'images' AND kcu.table_name = 'images'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.992588;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2931864;}i:37;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'images' AND kcu.table_name = 'images'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9928091;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2934864;}i:39;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=141";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9933479;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2981552;}i:40;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=141";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0235989;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2987232;}i:42;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `item_category`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0238161;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3000472;}i:43;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `item_category`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025018;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3023400;}i:45;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item_category' AND kcu.table_name = 'item_category'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025425;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3021968;}i:46;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item_category' AND kcu.table_name = 'item_category'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025672;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3025008;}i:48;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=135";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025955;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3021840;}i:49;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=135";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0260849;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3027272;}i:51;a:6:{i:0;s:43:"SELECT * FROM `item_category` WHERE `id`=12";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0263369;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3030352;}i:52;a:6:{i:0;s:43:"SELECT * FROM `item_category` WHERE `id`=12";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.047864;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3039536;}i:54;a:6:{i:0;s:42:"SELECT * FROM `item_category` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0482509;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3042776;}i:55;a:6:{i:0;s:42:"SELECT * FROM `item_category` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.055871;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3048408;}i:57;a:6:{i:0;s:46:"SELECT * FROM `tag_linked` WHERE `id_item`=366";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0564871;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3101080;}i:58;a:6:{i:0;s:46:"SELECT * FROM `tag_linked` WHERE `id_item`=366";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0574999;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3110016;}i:60;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `tag_linked`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0576389;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3125112;}i:61;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `tag_linked`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0587211;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3136272;}i:63;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tag_linked' AND kcu.table_name = 'tag_linked'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.058989;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3140984;}i:64;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tag_linked' AND kcu.table_name = 'tag_linked'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.059236;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3143968;}i:66;a:6:{i:0;s:49:"SELECT * FROM `tags` WHERE id IN(1,4,5,7,513,517)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0598531;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3191552;}i:67;a:6:{i:0;s:49:"SELECT * FROM `tags` WHERE id IN(1,4,5,7,513,517)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.071821;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3198520;}i:69;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `tags`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.072068;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3214512;}i:70;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `tags`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0735121;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3221848;}i:72;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tags' AND kcu.table_name = 'tags'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0737951;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3228544;}i:73;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tags' AND kcu.table_name = 'tags'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0741401;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3231528;}i:76;a:6:{i:0;s:20:"SELECT * FROM `tags`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.078002;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/components/Search.php";s:4:"line";i:15;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";s:4:"line";i:21;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3361496;}i:77;a:6:{i:0;s:20:"SELECT * FROM `tags`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.078711;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/components/Search.php";s:4:"line";i:15;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";s:4:"line";i:21;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3713360;}}}s:2:"db";a:1:{s:8:"messages";a:38:{i:21;a:6:{i:0;s:45:"SELECT * FROM `item` WHERE `sef`='tv-synt-ax'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9555931;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2761984;}i:22;a:6:{i:0;s:45:"SELECT * FROM `item` WHERE `sef`='tv-synt-ax'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9740829;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2780920;}i:24;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `item`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9747379;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2805680;}i:25;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `item`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.976167;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2832472;}i:27;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item' AND kcu.table_name = 'item'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.977078;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2844168;}i:28;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item' AND kcu.table_name = 'item'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9773741;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:362;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2847152;}i:30;a:6:{i:0;s:42:"SELECT * FROM `images` WHERE `id_item`=366";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9779229;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2898048;}i:31;a:6:{i:0;s:42:"SELECT * FROM `images` WHERE `id_item`=366";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9913061;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2901824;}i:33;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `images`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.991451;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2916848;}i:34;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `images`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.992353;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2926080;}i:36;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'images' AND kcu.table_name = 'images'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.992588;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2931864;}i:37;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'images' AND kcu.table_name = 'images'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9928091;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:374;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2934864;}i:39;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=141";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459903.9933479;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2981552;}i:40;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=141";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0235989;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2987232;}i:42;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `item_category`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0238161;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3000472;}i:43;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `item_category`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025018;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3023400;}i:45;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item_category' AND kcu.table_name = 'item_category'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025425;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3021968;}i:46;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'item_category' AND kcu.table_name = 'item_category'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025672;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3025008;}i:48;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=135";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.025955;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3021840;}i:49;a:6:{i:0;s:44:"SELECT * FROM `item_category` WHERE `id`=135";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0260849;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3027272;}i:51;a:6:{i:0;s:43:"SELECT * FROM `item_category` WHERE `id`=12";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0263369;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3030352;}i:52;a:6:{i:0;s:43:"SELECT * FROM `item_category` WHERE `id`=12";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.047864;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3039536;}i:54;a:6:{i:0;s:42:"SELECT * FROM `item_category` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0482509;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3042776;}i:55;a:6:{i:0;s:42:"SELECT * FROM `item_category` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.055871;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3048408;}i:57;a:6:{i:0;s:46:"SELECT * FROM `tag_linked` WHERE `id_item`=366";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0564871;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3101080;}i:58;a:6:{i:0;s:46:"SELECT * FROM `tag_linked` WHERE `id_item`=366";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0574999;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3110016;}i:60;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `tag_linked`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0576389;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3125112;}i:61;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `tag_linked`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0587211;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3136272;}i:63;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tag_linked' AND kcu.table_name = 'tag_linked'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.058989;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3140984;}i:64;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tag_linked' AND kcu.table_name = 'tag_linked'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.059236;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:399;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3143968;}i:66;a:6:{i:0;s:49:"SELECT * FROM `tags` WHERE id IN(1,4,5,7,513,517)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0598531;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3191552;}i:67;a:6:{i:0;s:49:"SELECT * FROM `tags` WHERE id IN(1,4,5,7,513,517)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.071821;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3198520;}i:69;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `tags`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.072068;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3214512;}i:70;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `tags`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0735121;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3221848;}i:72;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tags' AND kcu.table_name = 'tags'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0737951;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3228544;}i:73;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tags' AND kcu.table_name = 'tags'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.0741401;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:412;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:3231528;}i:76;a:6:{i:0;s:20:"SELECT * FROM `tags`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.078002;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/components/Search.php";s:4:"line";i:15;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";s:4:"line";i:21;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3361496;}i:77;a:6:{i:0;s:20:"SELECT * FROM `tags`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503459904.078711;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/components/Search.php";s:4:"line";i:15;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/views/site/item.php";s:4:"line";i:21;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:82:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/controllers/SiteController.php";s:4:"line";i:429;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:3713360;}}}s:6:"assets";a:4:{s:27:"yii\widgets\ActiveFormAsset";a:9:{s:10:"sourcePath";s:69:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:17:"yii.activeForm.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/web/assets/1d60084e";s:7:"baseUrl";s:16:"/assets/1d60084e";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:69:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/web/assets/1d60084e";s:7:"baseUrl";s:16:"/assets/1d60084e";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:67:"/var/www/korinf/data/www/new.korinf.com.ua/vendor/bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:71:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/web/assets/83bbd3c3";s:7:"baseUrl";s:16:"/assets/83bbd3c3";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:24:"frontend\assets\AppAsset";a:9:{s:8:"basePath";s:55:"/var/www/korinf/data/www/new.korinf.com.ua/frontend/web";s:7:"baseUrl";s:0:"";s:3:"css";a:4:{i:0;s:122:"https://fonts.googleapis.com/css?family=Exo+2:400,600,700|Roboto:300,400,700|Open+Sans+Condensed:300,700|Open+Sans:400,700";i:1;s:13:"css/style.css";i:2;s:14:"css/slider.css";i:3;s:17:"css/typeahead.css";}s:2:"js";a:4:{i:0;s:43:"https://code.jquery.com/jquery-3.2.0.min.js";i:1;s:12:"js/korinf.js";i:2;s:19:"js/typeahead.min.js";i:3;s:28:"js/jquery.maskedinput.min.js";}s:7:"depends";a:0:{}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}s:4:"mail";a:0:{}s:8:"timeline";a:2:{s:5:"start";d:1503459903.865526;s:3:"end";d:1503459904.120424;}s:7:"summary";a:9:{s:3:"tag";s:13:"599cfa3fdf136";s:3:"url";s:45:"http://new.korinf.com.ua/stat/tv-synt-ax.html";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:12:"37.9.113.166";s:4:"time";i:1503459904;s:10:"statusCode";i:200;s:8:"sqlCount";i:19;s:9:"mailCount";i:0;}}
