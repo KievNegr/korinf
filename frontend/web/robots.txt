@@ -1,0 +1,7 @@
+Sitemap: https://korinf-group.com/sitemap.xml
+User-agent: *
+Disallow: /admin
+Allow: /images
+Allow: /style
+Allow: /js
+host: korinf-group.com

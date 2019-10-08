@@ -1,0 +1,1200 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.korinf-group.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2684                
+POS_VISITOR 17950               
+POS_DAY 33817               
+POS_DOMAIN 3622                
+POS_LOGIN 3856                
+POS_ROBOT 4011                
+POS_WORMS 4773                
+POS_EMAILSENDER 4904                
+POS_EMAILRECEIVER 5047                
+POS_SESSION 34127               
+POS_SIDER 34337               
+POS_FILETYPES 5182                
+POS_DOWNLOADS 5356                
+POS_OS 5430                
+POS_BROWSER 5592                
+POS_SCREENSIZE 7501                
+POS_UNKNOWNREFERER 7575                
+POS_UNKNOWNREFERERBROWSER 8265                
+POS_ORIGIN 8477                
+POS_SEREFERRALS 8623                
+POS_PAGEREFS 8804                
+POS_SEARCHWORDS 9704                
+POS_KEYWORDS 9856                
+POS_MISC 2346                
+POS_ERRORS 9915                
+POS_CLUSTER 3712                
+POS_SIDER_404 10051               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190909041806 2750 651056 13016427484104
+FirstTime 20190901003427
+LastTime 20190908235845
+LastUpdate 20190909041833 2750 0 2750 0 0
+TotalVisits 368                 
+TotalUnique 323                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 427                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 315 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 272 4162245 471 636 4976159
+1 1 50 639933 374 524 3330640
+2 16 119 1751138 420 603 3051584
+3 6 10 415593 386 508 3188813
+4 4 49 735121 319 1069 10855175
+5 3 63 1316887 309 492 3186115
+6 10 117 1609022 250 414 2822892
+7 11 123 1780782 340 502 3965950
+8 31 449 5595858 264 398 2981192
+9 49 1007 12546662 325 452 2528422
+10 54 1725 20759823 294 457 3178538
+11 78 2131 29279083 369 520 2990697
+12 78 2039 24231121 295 432 2336021
+13 72 1606 19021333 342 485 2717963
+14 43 1516 19252910 323 494 3396126
+15 94 2196 29666859 407 621 4301376
+16 25 796 9658948 443 596 4226821
+17 18 390 4647262 351 475 3330735
+18 20 341 5072104 340 500 3542342
+19 32 513 6458269 366 506 3401438
+20 31 709 8623120 343 474 3935812
+21 7 146 3433892 308 480 3406126
+22 28 795 10431814 369 556 4136795
+23 11 165 2182756 382 531 3810755
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 739 17327 223272535
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+bot[\s_+:,\.\;\/\\-] 5545 54094321 20190909041806 1021
+yandex 1097 7711798 20190909040209 183
+googlebot 754 9809139 20190909041527 24
+robot 408 5005187 20190909032557 31
+mail\.ru 189 1494751 20190905092624 42
+infobot 161 1634844 20190907233453 29
+seznambot 76 541620 20190908204105 37
+crawl 53 106457 20190907023229 2
+facebook 22 400510 20190908192444 0
+favicon 18 294242 20190908092950 0
+no_user_agent 5 341913 20190904153913 0
+spider 9 166292 20190909031824 0
+unknown 9 3765 20190908004142 9
+python 2 18900 20190906001646 1
+cfnetwork 5 29103 20190905150018 0
+netcraft 3 287094 20190906203930 0
+sogou 12 203665 20190909021437 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 1406 2785809 0 0
+png 3290 35189085 0 0
+html 739 13682925 0 0
+js 1676 11587093 0 0
+jpg 10216 160027623 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 1380 0 580048
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+linuxandroid 4618
+winxp 110
+winnt 3716
+linuxubuntu 62
+linux 1335
+winvista 924
+win7 4611
+macosx 1878
+win2003 37
+Unknown 36
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 95
+firefox66.0 30
+msie6.0 2
+chrome40.0.2214.115 1
+chrome50.0.2661.89 92
+chrome28.0.1500.94 65
+chrome39.0.2171.95 48
+curl 1
+chrome74.0.3729.157 106
+chrome58.0.3029.110 3
+chrome75.0.3770.143 165
+msie8.0 71
+chrome27.0.1453.93 1
+msie7.0 1
+chrome70.0.3538.80 37
+chrome71.0.3578.141 131
+chrome66.0.3359.181 16
+chrome76.0.3809.89 71
+chrome49.0.2623.112 81
+chrome73.0.3683.103 1
+firefox50.0 36
+chrome72.0.3626.105 244
+chrome55.0.2883.87 1
+chrome78.0.3895.5 127
+chrome58.0.3029.83 40
+chrome34.0.1847.131 2
+chrome76.0.3809.132 6220
+chrome68.0.3440.106 3
+chrome74.0.3729.136 35
+safari13.0 1
+safari12.1 45
+chrome75.0.3770.89 1
+firefox47.0 1
+chrome60.0.3112.113 3
+chrome54.0.2840.71 1
+firefox68.0 1221
+chrome47.0.2526.106 1
+firefox25.0 1
+mozilla 817
+safari12.1.1 134
+chrome68.0.3440.84 2
+firefox60.0 33
+chrome44.0.2403.89 1
+chrome44.0.2403.147 1
+safari12.1.2 849
+chrome51.0.2704.91 1
+chrome61.0.3163.98 30
+chrome73.0.3683.90 175
+safari11.1.2 144
+firefox35.0 1
+safari 294
+chrome67.0.3396.87 184
+safari11.0 177
+chrome75.0.3770.101 180
+chrome55.0.2883.91 3
+chrome67.0.3396.79 1
+firefox52.0 91
+safari12.0 81
+chrome56.0.2924.87 1
+chrome71.0.3578.98 70
+chrome26.0.1410.33 45
+firefox63.0 89
+chrome57.0.2987.108 36
+iphone 2
+firefox62.0 2
+chrome47.0.2526.111 1
+chrome40.0.2214.85 1
+chrome53.0.2785.116 85
+chrome71.0.3578.99 31
+chrome74.0.3729.169 8
+chrome66.0.3359.158 1
+chrome75.0.3770.142 885
+Unknown 18
+firefox11.0 2
+chrome72.0.3626.109 57
+chrome57.0.2987.132 67
+chrome58.5.3029.81 1
+chrome63.0.3239.111 91
+chrome22.0.1207.1 1
+safari10.0 32
+chrome76.0.3809.100 1215
+firefox69.0 245
+chrome73.0.3683.86 1
+chrome41.0.2272.118 475
+firefox56.0 269
+chrome74.0.3729.131 42
+chrome45.0.2454.94 67
+chrome67.0.3396.99 7
+chrome45.0.2454.101 3
+chrome19.0.1084.5409 1
+chrome68.0.3440.91 36
+msie10.0 75
+chrome76.0.3809.111 570
+chrome61.0.3163.69 30
+chrome66.0.3359.170 5
+chrome75.0.3770.100 655
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+curl/7.29.0 20190903212358
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20190906073121
+SeopultContentAnalyzer/1.0 20190908022408
+Mozilla/4.0_(compatible;_ms-office;_MSOffice_16) 20190901212449
+adreview/1.0 20190902143425
+cortex/1.0 20190902143426
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190907083719
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20190908004144
+Go-http-client/1.1 20190907113242
+com.google.GoogleMobile/42.0.0_iPhone/9.3.1_hw/iPhone6_1 20190904130951
+Mozilla/5.0_Firefox/35.0 20190902091400
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+SeopultContentAnalyzer/1.0 20190908022408
+adreview/1.0 20190902143425
+Go-http-client/1.1 20190907113242
+cortex/1.0 20190902143426
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 176 442
+From1 6 6
+From2 221 311
+From3 17 26
+From4 319 16542
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 200 279
+bing 1 1
+yandex 20 31
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+http://m.facebook.com 4 4
+http://bmt/main/ 3 3
+http://www.konditerka.biz/oborudovanie/oookorinf-inzhiniring/6-72/ 2 2
+http://www.yaxyusutz.com/blog/56614558/ 2 2
+https://yandex.kz 1 1
+https://yandex.ua/clck/jsredir 1 1
+http://datadepths.com/profile.php 1 1
+https://91.234.33.240:443 1 1
+https://www.ua-region.com.ua/kved/45.2 1 1
+https://internet-start.net 1 1
+http://www.agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-variant-detail.html 0 2
+http://betylu.hunycixa.ru.net/pazuvis.php 0 3
+https://yandex.ua/images/search 0 1
+https://go.mail.ru 0 1
+https://b24-ktglwy.bitrix24.ru/workgroups/group/86/ 0 1
+https://yandex.kz/images/touch/search 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 223 71157
+206 19 292986
+404 386 5131038
+301 3414 1605270
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 197
+/stat/indukcionnaya-nastolnaya-plita-resto-line-easy-line.html 1 -
+/stat/konf-forms-selmi.html 1 -
+/ua/makaron.html 2 -
+/catalog/ 4 -
+/ua/canol-line.html 2 http://korinf-group.com/ua/canol-line.html
+/images/upload/device_aladin.jpeg 3 -
+/stat/korn-thermostar.html 1 -
+/stat/dozator-selmi.html 1 -
+/ua/ap250.html 2 -
+/site/expo-iffip-2017.html 2 -
+/admin.php 2 -
+/stat/stol-morozilnyiy-resto-line-ect703btal.html 1 -
+/stat/color-selmi.html 5 -
+/stat/stol-holodilnyiy-resto-line-ect704al.html 1 -
+/equipment/tun-selmi.html 5 -
+/stat/bread-slicer.html 1 -
+/images/logo_korinf.png 8 -
+/stat/ap250.html 2 -
+/wp1/wp-login.php 1 http://korinf-group.com/wp1/wp-login.php
+/backup_2019.zip 2 http://korinf-group.com/backup_2019.zip
+/images/upload/classic1.jpg 4 -
+/skin/frontend/smartwave/default/blog/css/style.css 2 https://korinf-group.com/skin/frontend/smartwave/default/blog/css/style.css
+/adminer-4.6.2.php 1 -
+/stat/ledogenerator-resto-line-sl-35-a.html 1 -
+/stat/contacts.html 8 -
+/ua/forni-pod.html 3 -
+/stat/tilting-head-oem.html 1 -
+/images/upload/classic3.jpg 4 -
+/stat/page/revent-technology.html 1 -
+/images/upload/aladin4.jpg 1 -
+/adminer-4.6.1.php 1 -
+/backup-2017.zip 1 http://korinf-group.com/backup-2017.zip
+/magmi/web/magmi.php 4 https://korinf-group.com/magmi/web/magmi.php
+/user/register 1 -
+/backup017.zip 1 http://korinf-group.com/backup017.zip
+/stat/other-selmi.html 1 -
+/ua/formovochnie-mashina-fr4cinox.html 1 -
+/ua/baranki.html 2 -
+/stat/pelmeni.html 1 -
+/stat/equipment.html 1 -
+/stat/milk-mixer.html 1 -
+/images/upload/tipoc4.jpg 1 -
+/backup18.zip 1 http://korinf-group.com/backup18.zip
+/wp-login.php 9 -
+/stat/pech-parokonvekcionnaja-resto-line-12a.html 1 -
+/stat/forni-oem.html 4 -
+/images/upload/smazka.jpeg 3 -
+/store/ 4 -
+/ua/auto-bread-slicer-macpan-mtp-aut.html 1 -
+/stat/posudomoechnaya-mashina-resto-line-4000-st.html 2 -
+/stat/kamery-predvaritelnoi-rasstoyki-macpan.html 2 -
+/images/upload/aladin3.jpg 1 -
+/stat/stol-holodilnyiy-resto-line-ect702al.html 1 -
+/site/news-expo-iffip-2017.html 2 -
+/images/forni_equipment.png 1 http://korinf-group.com/images/forni_equipment.png
+/shop/ 4 -
+/images/upload/725.jpg 1 -
+/maged.php 1 -
+/stat/freezing-table-resto-line-gn.html 1 -
+/ua/delitel-okruglitel.html 3 -
+/backup019.zip 1 http://korinf-group.com/backup019.zip
+/stat/vodoohladiteli.html 1 -
+/images/upload/twiny5.jpg 2 -
+/checkout/ 8 -
+/skin/frontend/h-tune/v6/js/digitalpianism/js.php 1 -
+/cart/ 4 -
+/ua/deliteli-okrugliteli.html 2 -
+/stat/pechi-polin.html 1 -
+/_adminer.php 1 -
+/stat/pech-parokonvekcionnaja-resto-line-16ac.html 4 -
+/stat/tank-selmi.html 3 -
+/equipment/electrical-oven-oem.html 1 -
+/images/upload/twiny4.jpg 2 -
+/ads.txt 18 -
+/cfgs.php 1 -
+/otkryitie-lviv-croissants-g-kiev-ul-e-sverstyuka-19.html 1 -
+/equipment/other-selmi.html 2 -
+/backup2k18.zip 1 http://korinf-group.com/backup2k18.zip
+/backup-2018.zip 1 http://korinf-group.com/backup-2018.zip
+/images/upload/aladin_cake.jpg 7 -
+/administrator/index.php 2 -
+/images/upload/variant7.jpg 1 http://www.agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-variant-detail.html
+/backup2k17.zip 1 http://korinf-group.com/backup2k17.zip
+/stat/pech-parokonvekcionnaja-resto-line-10a.html 2 -
+/images/upload/tipoc3.jpg 1 -
+/stat/table-selmi.html 2 -
+/stat/filter-for-water.html 1 -
+/images/upload/classic4.jpg 4 -
+/bitrix/admin/ 2 -
+/images/upload/aladin1.jpg 1 -
+/stat/temp-selmi.html 1 -
+/images/upload/makaron.jpg 4 -
+/lib/upil.php 1 -
+/stat/testoraskatki-dlja-pizza-roll.html 2 -
+/images/upload/rezka-aladin.jpeg 3 -
+/stat/smesiteli.html 1 -
+/wso.php 1 -
+/ua/campagnolo.html 2 -
+// 1 http://korinf-group.com//
+/stat/polin.html 1 -
+/images/upload/724.jpg 3 http://kolobok30.ru/id-2494.html
+/stat/formovochnie-mashinu.html 2 -
+/images/upload/classic2.jpg 4 -
+/equipment/selmi.html 5 -
+/stat/top-selmi.html 2 -
+/admin/index.php 2 -
+/stat/pech-parokonvekcionnaja-resto-line-523a.html 3 -
+/stat/pech-parokonvekcionnaja-resto-line-6a.html 2 -
+/stat/canol-manual.html 2 -
+/stat/pech-parokonvekcionnaja-resto-line-5a.html 1 -
+/stat/testomesu-polin.html 2 -
+/backupkorinf-group2019.zip 1 http://korinf-group.com/backupkorinf-group2019.zip
+/stat/plus-selmi.html 3 -
+/site/expo-iffip-2018.html 1 -
+/site/expo-iffip-2018-report.html 2 -
+/stat/vibro-selmi.html 3 -
+/magmi.php 1 -
+/ua/color-selmi.html 2 -
+/stat/futura-selmi.html 1 -
+/stat/article.html 1 -
+/ua/bread-slicer.html 2 -
+/stat/izdelia-canol.html 1 -
+/stat/zagruzchik-selmi.html 1 -
+/stat/testomesy-resto-line-sn.html 2 -
+/ua/partners.html 1 -
+/sucuri.php 1 -
+/backup.tar.gz 1 http://korinf-group.com/backup.tar.gz
+/korinf-groupbackup2017.zip 1 http://korinf-group.com/korinf-groupbackup2017.zip
+/blog/wp-login.php 1 http://korinf-group.com/blog/wp-login.php
+/stat/tunnel-forni.html 1 -
+/stat/hlebopekarnoe.html 1 -
+/images/upload/twiny3.jpg 2 -
+/manager 2 -
+/stat/pizza-ovens-resto-line.html 1 -
+/stat/comfit-selmi.html 1 -
+/stat/selmi.html 1 -
+/stat/roto-forni-polin.html 1 -
+/stat/expositions.html 1 -
+/stat/pizza.html 1 -
+/stat/testomesy-sn.html 1 -
+/apple-touch-icon.png 2 -
+/stat/konditerskoe.html 3 -
+/stat/ledogenerator-resto-line-sl.html 1 -
+/stat/forni-pod.html 1 -
+/images/upload/tipoc1.jpg 1 -
+/ua/semplice.html 1 -
+/stat/formatrici.html 1 -
+/stat/agriflex.html 1 -
+/stat/pech-parokonvekcionnaja-resto-line-4a.html 3 -
+/stat/tun-selmi.html 1 -
+/korinf-groupbackup2019.zip 1 http://korinf-group.com/korinf-groupbackup2019.zip
+/images/upload/aladin_instrument1.jpeg 3 -
+/backup2019korinf-group.zip 1 http://korinf-group.com/backup2019korinf-group.zip
+/js/tinybox/index.php 1 -
+/images/upload/twiny6.jpg 2 -
+/images/upload/aladin2.jpg 1 -
+/errors/log.php 1 -
+/stat/croissants.html 1 -
+/backup2k19.zip 1 http://korinf-group.com/backup2k19.zip
+/images/upload/prijim.jpeg 3 -
+/wp/wp-login.php 1 http://korinf-group.com/wp/wp-login.php
+/stat/r-200-selmi.html 3 -
+/stat/posudomoechnaya-mashina-resto-line-5000-st.html 1 -
+/stat/tun300-selmi.html 3 -
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop.html 2 -
+/equipment/temp-selmi.html 1 -
+/stat/mukoproseivateli-macpan.html 2 -
+/ua/kornfeil.html 1 -
+/apple-touch-icon-precomposed.png 7 -
+/backup0119.zip 1 http://korinf-group.com/backup0119.zip
+/backup2017.zip 2 http://korinf-group.com/backup2017.zip
+/stat/stol-morozilnyiy-resto-line-ect702btal.html 1 -
+/stat/pech-parokonvekcionnaja-resto-line-7a.html 2 -
+/user/ 2 -
+/images/upload/variant3.jpg 1 http://www.agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-variant-detail.html
+/stat/kontaktnyj-gril-pg.html 2 -
+/stat/bunker-dlya-lda-resto-line-bin-t420.html 1 -
+/ua/konvekcionnaya-pech-polin-unico-6040-100.html 2 -
+/ua/c2p.html 2 -
+/magmi-importer/web/magmi.php 1 https://korinf-group.com/magmi-importer/web/magmi.php
+/stat/pech-na-drevesnom-ugle-josper-hjx38sp.html 1 -
+/korinf-groupbackup.zip 1 http://korinf-group.com/korinf-groupbackup.zip
+/backup-2019.zip 1 http://korinf-group.com/backup-2019.zip
+/stat/pech-parokonvekcionnaja-resto-line-20ac.html 2 -
+/files/cat_prosp.pdf 2 -
+/ua/kondplitochnaya-zamorozka.html 1 http://korinf-group.com/ua/kondplitochnaya-zamorozka.html
+/ua/press-dlya-gear.html 2 -
+/images/upload/tipoc2.jpg 1 -
+/stat/blenderyi-fr.html 3 -
+/stat/slajsera-lusso-22gl-25gl-275a-300sl.html 1 -
+/index.php 1 -
+/mage-.php 1 -
+/stat/partners.html 2 -
+/backup018.zip 1 http://korinf-group.com/backup018.zip
+/stat/kamery-predvaritelnoi-rasstoyki.html 2 -
+/apple-app-site-association 1 -
+/ua/pack-horizontal.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 427
+31.128.72.110 72 987 14308979 20190906152443
+80.91.189.131 22 182 2041131 20190906154046
+188.163.45.132 19 233 2912277 20190901205632
+95.104.112.10 17 185 2192885 20190905160456
+47.75.179.98 16 253 2922017 20190906084738
+185.93.184.62 11 163 1899176 20190905135620
+77.120.177.144 11 129 1344901 20190901200539
+91.124.143.52 11 208 4816905 20190906130643
+46.175.254.26 9 183 2220607 20190905225817
+193.228.162.243 8 379 5293207 20190904152045
+176.110.134.2 1 1 95698 20190904224145
+80.84.57.96 1 1 95698 20190904004210
+194.79.23.2 1 26 297436 20190902125735
+94.124.164.106 1 42 395289 20190904141602
+79.171.123.76 3 110 1382774 20190905104127
+46.20.83.236 3 73 1000119 20190906091759
+183.25.132.226 4 4 191756 20190902075516
+91.232.158.124 4 159 2393305 20190905115519
+185.163.26.151 0 1 11578 
+213.129.115.50 1 31 341404 20190902165629
+188.130.177.235 2 35 411326 20190907134531
+138.246.253.5 1 1 403 20190904174318
+128.124.240.199 1 45 444211 20190906113209
+77.111.244.42 0 1 11110 
+172.111.183.59 4 4 300228 20190907005955
+46.211.120.111 1 31 361867 20190903120251
+109.172.72.158 1 35 406688 20190904175839
+77.111.244.87 1 42 398097 20190904123802
+188.163.24.117 1 54 866316 20190901003427
+31.43.34.138 1 67 670787 20190903124459
+77.109.20.158 1 71 963161 20190904110754
+66.102.7.35 6 164 2404056 20190904225616
+31.173.120.13 0 1 53641 
+175.145.61.43 1 1 2466 20190904062540
+37.73.196.93 1 31 361865 20190905122737
+190.166.145.88 1 1 2467 20190902222436
+156.109.18.122 1 62 604102 20190902211608
+46.211.223.136 1 6 358933 20190906205257
+46.133.227.150 1 31 361867 20190905141414
+46.133.140.204 0 2 26501 
+89.19.108.139 2 44 421457 20190904102743
+194.39.227.53 2 93 1347499 20190903125856
+40.77.190.102 0 1 1378 
+46.211.112.132 2 91 1029322 20190902091603
+194.28.103.210 1 35 400356 20190906133650
+50.7.93.27 1 45 444213 20190903135420
+40.77.189.86 0 1 8741 
+87.244.176.99 1 34 396336 20190903094624
+37.57.24.62 2 36 411797 20190905131954
+159.69.64.154 0 50 569508 
+213.3.29.239 1 1 56445 20190907064513
+31.134.127.210 1 45 444209 20190902115943
+88.206.36.146 2 31 379084 20190904130956
+178.133.151.90 4 52 507139 20190904133527
+109.63.219.209 0 1 4441 
+52.11.221.220 2 2 36951 20190901183541
+62.152.189.242 3 76 1070322 20190904122130
+46.133.13.175 5 159 3052345 20190904125103
+46.211.222.164 1 66 403563 20190905115446
+34.223.224.120 1 1 18473 20190906234924
+194.246.74.89 1 67 670788 20190905131632
+40.77.188.110 0 1 2214 
+89.185.0.163 1 45 444213 20190906110150
+31.128.101.52 1 29 341033 20190904165229
+91.135.206.78 0 1 6133 
+46.211.51.93 0 1 9936 
+213.87.158.239 0 1 15258 
+5.18.215.210 0 1 16376 
+193.26.13.132 4 37 440379 20190903150616
+80.84.57.115 1 1 95698 20190904004157
+46.211.246.148 2 36 383369 20190907103305
+37.73.241.81 1 45 444212 20190902110825
+91.225.165.69 3 73 992847 20190905133519
+34.219.94.105 2 2 36950 20190905080901
+192.162.133.27 0 1 15258 
+173.252.127.24 0 1 27746 
+178.140.234.130 0 1 14844 
+128.74.163.149 1 12 63859 20190907105823
+95.134.189.9 1 45 444211 20190905120730
+46.211.110.107 6 70 869999 20190904112502
+195.43.148.67 0 1 22884 
+40.77.190.197 0 1 2214 
+195.34.207.80 0 1 22356 
+190.113.208.26 1 44 1165264 20190903055804
+85.238.101.65 0 1 15315 
+46.96.8.78 2 88 1337589 20190906111258
+104.227.246.106 2 2 191396 20190905215213
+66.220.149.28 0 17 141882 
+78.26.151.237 1 42 395288 20190901191100
+188.163.114.9 4 65 885035 20190902142514
+5.3.145.209 1 41 494773 20190901193039
+46.42.136.11 1 12 63181 20190902050503
+5.129.118.247 0 1 13352 
+66.246.224.13 1 1 18477 20190904062818
+93.126.86.122 3 83 1058643 20190904173507
+93.157.106.112 1 1 14990 20190902023741
+66.220.149.42 0 25 374951 
+94.242.62.112 1 1 95475 20190905032021
+94.246.147.145 1 71 963160 20190902163032
+46.200.72.98 1 45 444210 20190902145759
+78.56.99.216 0 1 9852 
+185.23.79.177 1 1 18477 20190901020649
+46.211.82.207 1 44 442906 20190903121657
+46.133.1.199 1 34 404595 20190903135257
+176.121.224.113 2 39 450432 20190904234345
+128.124.15.22 2 73 715087 20190904072331
+66.102.7.39 2 159 2365297 20190904225551
+5.183.176.62 3 40 510843 20190903041954
+46.133.193.59 1 31 371534 20190903125416
+40.77.188.47 0 1 1048 
+37.52.9.116 1 43 400620 20190904122601
+83.149.45.6 0 1 45656 
+176.98.80.126 0 3 89427 
+80.77.32.248 1 55 600689 20190905143724
+66.249.81.35 0 1 10197 
+40.77.188.108 0 2 12266 
+46.211.206.58 1 37 191145 20190904120438
+38.99.62.94 4 4 73907 20190906073121
+37.53.183.214 1 34 396337 20190905205837
+176.59.116.210 1 36 416283 20190903065242
+31.204.181.238 2 2 109055 20190907072457
+176.59.71.214 2 38 458232 20190904160043
+91.193.112.184 1 1 18480 20190908022408
+40.77.191.52 0 2 10544 
+213.109.135.83 0 1 49524 
+217.77.216.134 1 26 297432 20190908000826
+91.79.16.77 1 1 95698 20190901075204
+173.252.127.31 0 1 27746 
+52.32.19.118 2 2 36954 20190904100059
+95.158.20.175 2 62 726662 20190907020105
+188.235.136.213 0 1 28934 
+46.20.197.213 1 5 98861 20190901213608
+37.203.21.26 2 52 504529 20190903113003
+40.77.191.39 0 1 24966 
+176.121.12.6 2 244 2650093 20190906120407
+217.175.82.169 1 33 348819 20190906160035
+91.211.12.72 1 31 361865 20190902145100
+213.160.158.80 3 64 613279 20190906120959
+188.92.162.64 1 1 18475 20190906101855
+176.193.43.181 1 12 63733 20190905161041
+89.107.139.6 1 31 361867 20190902122720
+185.132.1.22 1 32 367198 20190905134123
+40.77.189.67 0 1 85858 
+5.196.132.125 1 1 18477 20190908195207
+77.234.8.142 2 52 1247668 20190907180248
+193.24.30.168 1 55 600687 20190902094918
+40.77.190.151 0 1 1378 
+188.92.72.129 1 1 18475 20190902141519
+40.77.190.94 0 1 1378 
+94.27.59.226 4 216 2912605 20190904102912
+31.13.127.11 0 1 18059 
+95.67.78.214 1 35 368217 20190905115038
+40.77.191.76 0 1 5388 
+46.42.2.105 0 2 186727 
+217.18.61.8 1 1 18476 20190903022344
+40.77.188.90 0 2 2426 
+40.77.190.211 0 1 85858 
+195.230.130.119 2 93 1321105 20190902153329
+40.77.189.151 0 1 85858 
+95.46.140.140 1 39 499952 20190903183809
+46.200.15.153 1 31 361866 20190903113844
+40.77.190.70 0 1 7359 
+46.211.101.49 2 43 410451 20190902102946
+128.68.131.157 0 1 4441 
+94.139.140.95 0 1 55056 
+40.77.188.4 0 1 5388 
+195.191.104.65 1 45 444214 20190905142201
+195.201.149.255 1 37 382066 20190902141606
+46.172.87.67 1 42 395291 20190903144301
+217.18.62.186 1 1 18476 20190906022359
+84.234.52.117 2 32 373388 20190905120907
+212.82.193.54 4 74 997250 20190906154851
+178.217.208.2 3 135 1786351 20190902181306
+175.42.86.16 3 3 132433 20190903180356
+95.57.235.246 1 1 18478 20190906024438
+148.251.127.113 2 122 1544328 20190906154841
+188.32.4.61 1 12 65380 20190902205025
+185.23.78.5 1 1 18481 20190907022404
+37.73.254.33 0 1 17208 
+91.192.45.244 4 49 576930 20190906161159
+80.84.57.117 1 1 95698 20190904004140
+46.191.191.222 0 1 0 
+40.77.189.40 0 2 3262 
+87.117.181.124 1 28 320233 20190903084606
+37.73.192.229 1 86 1265336 20190906110836
+95.69.248.222 4 50 559772 20190906104038
+37.115.222.205 6 6 450342 20190905023219
+188.163.26.229 2 35 1917850 20190905051546
+46.96.33.178 2 33 396099 20190905134939
+93.72.67.101 1 1 16417 20190906200748
+94.179.162.10 2 36 396724 20190906182847
+46.211.208.28 1 38 419168 20190905102448
+77.121.125.191 0 1 23373 
+193.106.185.12 3 65 729110 20190902150009
+151.249.100.50 1 45 444214 20190903131949
+195.189.196.42 3 124 1429582 20190906200338
+188.93.56.216 0 48 1002721 
+176.120.118.216 1 26 297434 20190903142453
+37.24.114.154 6 183 2218258 20190906112412
+77.52.199.210 2 91 1193425 20190904103020
+213.160.158.192 1 39 435234 20190902133300
+212.3.121.42 1 67 670789 20190906093742
+37.57.124.34 1 65 873223 20190902140712
+128.124.173.245 0 1 19911 
+93.183.204.98 1 32 366238 20190902125933
+95.67.121.18 1 35 368215 20190902130258
+83.218.236.6 1 42 395292 20190902110310
+178.121.194.55 0 1 13352 
+78.111.190.1 0 2 43230 
+46.211.36.204 1 33 395031 20190905194229
+80.246.137.168 3 53 1262758 20190905092356
+128.124.5.5 2 40 527481 20190906201816
+194.44.47.59 0 1 62822 
+95.220.15.197 1 36 448503 20190904015622
+37.73.232.72 3 49 497445 20190905094745
+91.202.147.112 2 80 1243984 20190902135947
+176.98.73.242 1 39 433742 20190906141520
+128.124.167.207 4 71 733403 20190906110839
+85.113.34.88 0 1 45656 
+91.200.53.66 1 29 335368 20190903134455
+31.202.123.126 1 31 361865 20190902123138
+37.204.201.114 0 1 9728 
+46.133.169.110 3 72 752920 20190903093509
+109.75.42.92 1 34 348776 20190902173546
+46.133.235.191 1 42 395289 20190905092130
+46.98.159.200 1 27 316303 20190903153819
+46.133.176.238 0 2 10662 
+128.124.229.23 2 37 422668 20190905151048
+193.150.59.130 1 42 395289 20190902092252
+93.75.195.166 3 69 931452 20190903205616
+176.121.5.200 1 71 963157 20190906143033
+193.151.240.56 1 55 600689 20190906104529
+40.77.189.253 0 3 39095 
+195.225.48.38 2 36 398319 20190907150246
+40.77.189.98 0 1 85858 
+46.175.164.92 1 55 600687 20190904133830
+217.117.75.167 1 72 968490 20190903122255
+185.11.29.188 1 45 444210 20190903123832
+80.84.57.98 1 1 95698 20190904004123
+176.59.72.151 2 32 441149 20190902183859
+5.153.178.35 2 2 117335 20190907093726
+46.211.152.123 2 32 394767 20190903120047
+40.77.188.92 0 1 8741 
+194.88.150.2 1 41 400139 20190902101255
+77.222.148.147 0 1 10722 
+46.96.52.99 4 178 1912587 20190905113820
+179.61.186.53 1 1 18476 20190905085921
+77.93.54.199 1 67 670789 20190906105717
+93.171.235.69 2 48 588910 20190906170211
+212.90.172.226 1 35 414064 20190904112024
+67.182.114.129 0 25 284754 
+34.222.57.3 2 2 36956 20190906182927
+46.56.206.208 1 38 462916 20190904113312
+94.19.138.69 1 37 471322 20190901212217
+217.18.61.120 1 1 15944 20190907030607
+46.211.109.131 0 1 12870 
+93.74.145.182 1 29 339848 20190902170039
+46.211.68.33 1 45 444210 20190902102214
+95.158.49.204 2 22 748876 20190901113255
+5.105.155.33 2 124 1379832 20190905162234
+80.254.98.77 2 54 631896 20190905153317
+91.221.199.72 1 85 1197370 20190901161012
+46.211.136.230 2 57 628867 20190902145648
+34.217.180.11 2 2 36947 20190908221344
+176.104.184.200 0 1 94855 
+217.196.172.12 0 1 22036 
+46.211.75.63 1 1 11743 20190903134025
+46.211.222.132 1 31 361867 20190905094809
+91.247.58.121 1 30 347366 20190907121255
+194.146.231.149 7 290 3562453 20190906172337
+40.77.188.3 0 1 2214 
+91.214.84.64 1 72 968492 20190905162529
+138.201.119.222 1 62 604107 20190905164040
+37.204.255.13 1 30 333770 20190905155139
+176.122.117.169 2 127 1519773 20190902222459
+37.73.226.106 1 39 499950 20190905112650
+62.133.54.245 1 1 18481 20190905022354
+46.211.104.101 1 42 395289 20190906092138
+31.134.127.150 0 1 10780 
+178.89.221.157 2 2 36957 20190904002758
+178.35.233.233 1 1 18479 20190905124320
+92.52.158.182 1 29 345555 20190901192733
+109.230.148.203 1 30 341471 20190908005839
+40.77.189.190 0 1 7359 
+195.149.70.22 2 27 308872 20190904131439
+82.202.161.133 1 1 18475 20190904201820
+195.201.13.103 2 97 1259578 20190906154634
+95.28.190.165 1 12 61998 20190908235845
+78.31.204.22 1 35 400355 20190905155320
+176.105.42.218 2 51 649510 20190902102414
+62.80.174.130 1 45 444209 20190905123607
+188.163.34.207 1 1 69927 20190904195236
+213.110.153.114 0 1 38250 
+176.193.74.207 0 4 289615 
+91.202.72.196 5 168 2092826 20190906150549
+46.211.1.171 2 35 406723 20190905125003
+83.99.195.165 1 32 432563 20190901060127
+37.110.215.87 0 2 26044 
+185.220.101.44 2 2 36731 20190901142340
+46.211.233.200 0 2 28604 
+86.57.217.89 1 31 405012 20190904164650
+176.117.82.26 1 1 12351 20190904123736
+91.197.220.76 4 167 2073979 20190904131247
+188.0.128.27 1 35 406269 20190902130838
+85.117.101.165 1 71 963163 20190903080202
+194.44.199.43 1 30 360561 20190904101005
+37.73.132.140 1 14 184189 20190906112058
+34.223.4.231 1 1 18483 20190907113242
+91.196.159.197 5 116 1352797 20190904144520
+34.222.108.38 1 1 18475 20190906085842
+94.153.177.210 3 46 447563 20190904114704
+46.211.143.115 1 31 361866 20190906115835
+176.125.57.13 1 35 406464 20190908163113
+80.95.44.9 1 1 95698 20190908133254
+91.202.160.117 1 86 1265336 20190906094016
+185.109.54.250 1 45 444214 20190902125945
+109.63.157.189 0 1 5769 
+125.18.48.78 8 8 147813 20190908114201
+194.62.135.104 1 1 13973 20190902023713
+54.185.10.110 2 2 36956 20190907194044
+176.126.60.239 0 20 0 
+188.170.198.64 3 29 342251 20190902130312
+89.215.145.79 1 35 376784 20190905204516
+217.118.81.249 1 35 408687 20190904201011
+178.22.170.86 0 1 13352 
+91.235.227.101 1 45 444211 20190903131156
+113.35.251.98 1 1 18476 20190903212358
+5.3.128.38 1 30 361717 20190905141054
+188.226.86.2 1 35 406272 20190905145945
+204.246.159.170 1 1 85637 20190904153914
+199.193.248.144 1 1 18478 20190905180239
+91.225.166.70 2 2 109278 20190904190035
+93.125.100.241 0 1 15258 
+66.102.7.41 5 152 1631017 20190904225602
+185.23.78.163 1 1 18473 20190904022347
+40.77.188.131 0 11 50540 
+46.211.141.57 1 67 670787 20190904132806
+159.224.243.194 5 76 741300 20190905132159
+51.68.152.26 2 2 21053 20190904091703
+65.155.30.101 1 71 963162 20190901024056
+104.248.24.252 1 34 423818 20190905123938
+212.8.50.247 2 62 751729 20190904125735
+46.211.88.144 0 1 12716 
+40.77.191.67 0 1 4907 
+173.252.127.32 0 1 27746 
+91.201.177.216 4 42 450933 20190904125346
+40.77.188.167 0 1 5388 
+178.154.148.77 0 1 0 
+185.191.178.18 1 42 395289 20190903113130
+203.133.170.54 7 13 545608 20190908004144
+212.96.71.71 1 34 366499 20190901133557
+194.44.177.10 1 71 963158 20190905153918
+31.134.127.201 1 71 963230 20190906144252
+2.86.185.203 0 1 9825 
+178.90.128.234 0 1 11578 
+109.172.58.149 0 2 26287 
+194.76.124.9 1 1 13314 20190903024656
+109.162.69.97 0 1 26505 
+37.78.65.79 1 35 408686 20190905061902
+213.159.238.143 0 1 14412 
+130.180.210.31 1 30 341472 20190906231533
+91.122.59.90 6 6 327611 20190908112957
+85.237.57.9 1 71 963159 20190905155944
+37.55.28.100 1 118 1358011 20190906005046
+195.20.125.5 1 39 594478 20190901231551
+91.202.145.29 1 38 593173 20190907073857
+193.106.59.73 4 287 4139877 20190902140434
+176.59.71.217 2 70 817365 20190905102951
+40.77.189.29 0 1 2214 
+5.248.116.159 3 82 1073237 20190906082056
+46.160.79.222 1 1 13250 20190908230039
+83.220.238.102 0 1 21606 
+137.226.113.26 1 1 18479 20190907083719
+95.47.56.89 6 76 806083 20190903163239
+95.24.31.67 6 59 704450 20190908122206
+193.0.204.100 2 37 408634 20190907232220
+40.77.188.219 0 1 7359 
+46.133.168.14 1 45 444212 20190905204314
+46.211.111.200 1 86 1265336 20190906105105
+185.244.140.225 1 86 1265336 20190905142631
+46.211.6.248 1 55 600687 20190903122423
+212.112.119.91 0 1 13352 
+45.32.130.173 1 1 95698 20190902043023
+77.122.73.224 0 1 18190 
+31.133.53.31 1 42 395289 20190903134409
+60.191.38.77 1 1 95698 20190908000621
+92.52.138.35 3 37 411359 20190905134440
+94.153.116.171 2 88 1294347 20190903132704
+124.206.180.180 1 1 95698 20190902091400
+40.77.191.62 0 1 4907 
+128.124.63.67 1 21 236373 20190904095314
+31.173.84.92 1 1 18472 20190902080457
+79.35.148.125 0 6 64785 
+185.191.178.234 1 26 297434 20190904104651
+40.77.188.129 0 2 3181 
+185.22.16.228 0 1 33172 
+195.24.132.84 4 36 403581 20190903145316
+194.156.251.110 3 184 2266461 20190905203424
+31.43.156.233 1 85 1264034 20190904090356
+62.133.52.203 1 1 18474 20190902022333
+185.183.93.163 1 28 335729 20190905124504
+46.211.133.97 1 54 599384 20190905112538
+37.204.94.180 1 12 63709 20190902100207
+178.140.104.173 0 1 12301 
+31.43.91.254 1 1 15313 20190905142017
+195.170.179.121 1 38 419169 20190903110647
+158.255.248.77 0 1 11185 
+213.184.225.115 1 34 357263 20190903095934
+46.211.110.177 1 55 600690 20190904103153
+66.220.149.38 1 29 446394 20190902143358
+149.28.121.6 1 1 18472 20190904175640
+195.80.165.122 1 35 382683 20190902124141
+77.50.253.4 2 2 109055 20190904035610
+62.80.183.217 1 71 963163 20190903090154
+46.238.213.110 2 78 990700 20190905170004
+178.163.85.228 0 2 28919 
+91.201.226.61 1 45 444211 20190906092135
+40.77.190.201 0 1 1378 
+37.57.70.11 3 92 1211684 20190904141802
+176.193.229.250 1 1 18474 20190903080142
+37.110.210.53 1 40 1033576 20190903151345
+40.77.189.155 0 1 1048 
+94.233.231.182 2 67 776078 20190905114145
+46.211.200.140 1 31 361865 20190902113554
+37.26.51.167 4 129 1498906 20190901195202
+46.160.119.41 1 86 1265335 20190906115518
+66.102.9.99 0 1 21069 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20190901 62 1027 13782280 26
+20190902 84 2568 31184776 59
+20190903 76 1995 25091326 50
+20190904 138 3536 47269675 68
+20190905 147 3719 45061736 72
+20190906 183 3911 52536185 59
+20190907 29 356 5512738 20
+20190908 20 185 2489245 14
+20190909 0 30 344574 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 14
+0s-30s 299
+30s-2mn 27
+2mn-5mn 17
+15mn-30mn 5
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 176
+/ 145 4240630 114 93
+/contacts.html 37 1199698 14 25
+/equipment/testomesy.html 27 409783 23 20
+/equipment/slajsera.html 27 321793 22 19
+/equipment/oborudovanie-dlya-horeca.html 24 343967 9 9
+/equipment/hlebopekarnoe.html 23 651126 8 6
+/curr.html 18 190164 7 3
+/equipment/shkafy-holodilnye-i-morozilnye.html 16 197414 15 12
+/stat/kornfeil-tunnel-forni.html 16 238919 10 7
+/equipment/parokonvekcionnye-pechi.html 13 244343 11 6
+/equipment/otsadka.html 2 23293 0 0
+/stat/pech-parokonvekcionnaja-resto-line-bravo-m.html 1 12818 0 1
+/equipment/holodilnoe-oborudovanie-horeca.html 2 32612 1 2
+/stat/rotacionnaya-pech-revent-703.html 2 28879 1 0
+/stat/testomes-pizza-group-ifm10.html 1 13408 0 1
+/equipment/deliteli-okrugliteli.html 3 36214 0 1
+/stat/rotacionnaya-pech-revent-723.html 5 70706 3 2
+/stat/formovochnaya-mashina-iz-odnogo-lista-testa-a540.html 2 26051 2 2
+/equipment/testoraskatki-dlja-pizza.html 1 13976 0 1
+/stat/lamination-lines-padovani.html 2 29426 1 2
+/stat/vodoohladiteli-macpan.html 2 25676 1 1
+/equipment/ovoshherezki.html 2 25804 0 0
+/stat/silos-aisi-outdoor.html 3 36864 0 0
+/stat/rotacionnaya-pech-polin-avant.html 3 49495 1 3
+/equipment/pack-horizontal.html 1 11435 1 0
+/equipment/pizza-equipment.html 7 85215 0 2
+/stat/semi-auto-bread-slicer-macpan-mpta.html 1 12787 0 0
+/stat/ice-generator-ice-tech-sk80.html 1 13345 0 0
+/equipment/barnoe-oborudovanie.html 4 68723 1 1
+/stat/lamination-line.html 3 41016 2 2
+/stat/slicer-resto-line-luxury-22gl-r.html 1 12941 1 1
+/stat/apparat-shokovoy-zamorozki-resto-line-bc511.html 1 13141 0 1
+/stat/pech-parokonvekcionnaja-resto-line-bravo-d.html 1 12964 0 1
+/equipment/apparaty-shokovoj-zamorozki.html 1 15944 1 1
+/stat/trexbunkernaya-mashina-aladin-s-otsadkoy-na-pod.html 1 12792 0 0
+/stat/electrical-oven-oem-energy.html 1 14840 1 1
+/stat/pizza-delitel-okruglitel-oem.html 1 13824 1 1
+/equipment/kontaktnyj-gril.html 2 26086 0 0
+/equipment/frosting-equipments.html 3 32147 0 0
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-twiny.html 2 26527 2 2
+/stat/kornfeil-thermostar.html 2 34992 2 2
+/stat/rotacionnaya-pech-revent-725.html 4 55660 3 3
+/stat/drago-895.html 1 13460 1 1
+/stat/proofing-cameras-b.html 1 12800 0 0
+/equipment/kuttery.html 2 27699 0 0
+/equipment/ledogeneratoru.html 13 209591 11 8
+/stat/canolino.html 2 75833 2 1
+/stat/trexbunkernaya-mashina-aladin-600.html 3 41554 1 1
+/stat/apparat-shokovoy-zamorozki-resto-line-bc10116470.html 1 13206 1 0
+/stat/svch-resto-line-easyline-mf914.html 1 60199 1 1
+/stat/pech-parokonvekcionnaja-resto-line-7d.html 1 13050 0 1
+/equipment/indukcionnye-nastolnye-plity.html 3 41581 0 0
+/stat/gsp75evo.html 2 25622 0 0
+/equipment/konditerskoe.html 13 156579 0 3
+/stat/silos-trevira.html 3 36916 1 1
+/stat/stol-morozilnyiy-resto-line-gn2100bt-fc.html 1 12758 0 0
+/stat/shkaf-rasstoechnyiy-resto-line-l9.html 1 12812 0 1
+/stat/apparat-shokovoy-zamorozki-resto-line-bc311.html 1 13133 1 1
+/stat/you-tube-mignon.html 7 89210 5 5
+/equipment/mjasorubki.html 2 26719 0 0
+/stat/ice-generator-resto-line-sl-260a.html 1 13082 0 0
+/equipment/rotacionnie-pechi-polin.html 1 13550 1 0
+/equipment/kamery-predvaritelnoi-rasstoyki.html 1 11458 1 1
+/equipment/vakuumnye-upakovshhiki.html 4 56970 0 0
+/equipment/testomesu-polin.html 2 23796 0 0
+/equipment/ledokroshiteli.html 1 13250 1 1
+/stat/rotornaya-mashina-dlya-pechenia-seriya-r.html 1 13194 0 0
+/equipment/meat-processing.html 8 159471 1 3
+/equipment/form-pelmeni-odnolistovie.html 1 11177 0 0
+/equipment/posudomoechnoe-oborudovanie.html 3 41573 0 0
+/equipment/parokonvekcionnye-pechi-resto-line.html 1 17135 0 0
+/equipment/pizza-resto-line-equipment.html 12 213782 7 6
+/stat/deliteli-okrugliteli-ram-model-sp.html 1 12912 0 1
+/stat/rotacionnaya-pech-revent-724.html 3 41974 2 2
+/stat/deliteli-okrugliteli-ram-model-s.html 1 12870 0 0
+/equipment/rotacionnie-pechi-revent.html 2 32337 1 1
+/stat/ice-generator-resto-line-sl-50a.html 1 13064 0 1
+/stat/testomes-polin-start-plus.html 1 13447 1 1
+/stat/baza-resto-line.html 1 12657 1 0
+/stat/testomes-agnelli.html 1 11773 0 1
+/stat/washing-active-cleaner.html 1 12585 1 1
+/stat/kornfeil-k-market.html 1 13266 1 1
+/stat/formovochnaya-mashina-iz-dvuh-listov-testa-a540.html 2 25839 1 1
+/stat/rotacionnaya-pech-revent-726.html 3 42374 1 1
+/stat/frityurnica-fr4.html 1 12748 0 1
+/stat/ice-generator-ice-tech-sk60.html 1 13342 0 1
+/stat/rotacionnaya-pech-polin-4676.html 1 13321 1 1
+/stat/planetarniy-mixer-s-aeraciey-mr-150-800-litrov.html 9 118970 6 5
+/stat/ice-generator-ice-tech-sk35.html 1 13351 0 0
+/stat/pizza-testomes-oem-fx-rb-rve.html 2 26627 2 2
+/stat/electric-oven-stratos-polin.html 1 13193 1 1
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-junior.html 1 12851 0 0
+/stat/rotacionnaya-pech-polin-classic.html 7 106757 5 4
+/equipment/pechi-konvekcionnye.html 1 15793 0 0
+/equipment/sterilizator-nozhej.html 2 25323 0 0
+/stat/bunker-for-ice-resto-line-bin-1200-dd.html 1 12570 0 0
+/equipment/tunnel-forni.html 3 33565 0 1
+/equipment/bread-slicer.html 2 67880 1 1
+/stat/gsp45evo.html 2 25636 0 1
+/equipment/silos-system.html 5 54966 0 0
+/equipment.html 6 64444 0 1
+/equipment/vodoohladiteli.html 1 11079 0 0
+/equipment/fritjurnicy-nastolnye.html 1 13352 0 0
+/stat/makaronovarka-el-resto-line-d99ec98sc.html 1 13010 1 1
+/stat/slicer-resto-line-lusso-275a.html 1 12662 0 1
+/stat/pizza-oven-with-double-camera-pizza-group-six-m8.html 1 12834 0 0
+/equipment/packing.html 8 87565 0 0
+/stat/konvekcionnaya-pech-polin-wind-4060-5-a.html 1 13142 1 1
+/equipment/forni-pod-kornfeil.html 1 13254 1 1
+/stat/korzina-dlya-makaronovarki-resto-line.html 1 12803 1 1
+/stat/shkaf-rasstoechniy-retigo-dp16m.html 1 13169 1 1
+/stat/planetarniy-mixer-tekno.html 2 26896 2 2
+/stat/ice-generator-resto-line-sl-180a.html 1 13077 0 0
+/stat/pizza-oven-with-double-camera-resto-line-f2-60xaps.html 1 12845 0 0
+/equipment/mashini-dlya-krekerov-i-galet.html 1 11074 0 0
+/stat/shkaf-morozilnyiy-resto-line-ecc1400bt.html 1 13042 1 1
+/equipment/electro-mehanicheskoe-oborudovanie.html 8 128631 0 0
+/equipment/planetarnye-mixers.html 2 22874 0 0
+/equipment/holod.html 8 86559 0 1
+/stat/mixer-planetarniy-sl-b-7.html 2 25735 0 0
+/stat/revent-oxladitel.html 1 14638 1 1
+/equipment/canol-manual.html 2 22667 1 0
+/stat/c2p.html 1 12936 0 1
+/stat/kuttery-mainca-cm-41.html 3 39272 2 2
+/search.html 5 130637 1 3
+/equipment/roto-forni.html 1 13903 1 1
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-classic.html 4 52019 1 1
+/stat/kuttery-mainca-cm-21.html 1 12942 0 0
+/stat/testomesy-resto-line-sn-18.html 1 13241 0 0
+/equipment/stoly-holodilnye-i-morozilnye.html 7 94322 5 5
+/stat/refrigeration-wardrobes-resto-line-gn1410tn-fc.html 1 12964 0 1
+/equipment/stoly-morozilnye-resto-line.html 1 13546 0 0
+/stat/planetarniy-mixer-pl-150-800-litrov.html 2 25974 0 1
+/stat/gsp65evobb.html 2 26780 2 1
+/equipment/kuttery-mainca.html 1 11213 0 0
+/stat/stol-morozilnyiy-resto-line-ect702bt.html 1 12868 0 1
+/stat/semi-auto-bread-slicer-macpan-mini.html 2 25567 0 1
+/stat/multiextrusion-s-otsadkoi-na-pod.html 1 14173 0 1
+/equipment/svch.html 2 24727 0 0
+/stat/formovochnaya-mashina-iz-dvuh-listov-testa-a250.html 1 12763 0 0
+/equipment/morozilnue-shkafy.html 3 100249 2 3
+/equipment/besstressovie-testodeliteli.html 1 11601 0 0
+/stat/slicer-resto-line-lusso-300sl.html 1 12688 0 1
+/stat/testomes-pizza-group-ifm22.html 1 13436 0 1
+/stat/thermomax-oven.html 1 13973 1 1
+/equipment/canol.html 3 79814 1 1
+/equipment/pelmeni.html 8 88861 1 3
+/stat/kotletnue-apparatu-mh-ma.html 8 105158 4 3
+/stat/trexbunkernaya-mashina-mini-aladin.html 4 54993 2 2
+/stat/c45.html 2 27043 2 0
+/equipment/forni-pod.html 1 14840 0 0
+/equipment/form-pelmeni.html 1 11231 0 0
+/stat/testomes-polin-hsm.html 1 12770 1 1
+/equipment/pizza-oem-equipment.html 3 41233 0 1
+/stat/gsp55evobb.html 1 12742 0 1
+/stat/ice-generator-resto-line-slf190a.html 1 12766 0 1
+/stat/planetarniy-mixer-ram-evo-40-60-80-litrov.html 1 13130 1 1
+/stat/multiextrusion-s-otsadkoi-na-protivni.html 8 109618 1 1
+/equipment/pechi-polin.html 3 49290 1 2
+/stat/spiral.html 5 65872 1 1
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-c.html 1 13121 1 1
+/equipment/teplovoe-oborudovanie.html 7 148203 1 0
+/stat/formovochnaya-mashina-iz-odnogo-lista-testa-a250.html 1 12806 0 0
+/equipment/forni-pod-polin.html 1 15023 1 1
+/stat/pech-parokonvekcionnaja-resto-line-523d.html 2 26104 0 2
+/stat/avtomat-testoraskatki.html 2 28158 1 2
+/stat/kornfeil-variant.html 1 16914 1 1
+/stat/kalibrators-canol.html 1 12641 1 1
+/stat/pizza-oven-with-double-camera-pizza-group-entry-max-m8.html 1 12811 0 1
+/stat/elettrodrago-elektros.html 1 13997 1 1
+/stat/silos-fiberglass-indoor.html 1 12541 0 0
+/stat/testomes-pizza-group-ifm7.html 1 13410 0 0
+/admin/login.html 3 7511 2 3
+/stat/freezing-fridge-cb114-s.html 1 13068 1 1
+/stat/ice-generator-ice-tech-sk25.html 1 13336 0 1
+/equipment/mikser-planetarnyj.html 2 26185 0 0
+END_SIDER

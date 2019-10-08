@@ -1,0 +1,3299 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201710 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.korinf-group.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2684                
+POS_VISITOR 48748               
+POS_DAY 106300              
+POS_DOMAIN 3730                
+POS_LOGIN 3966                
+POS_ROBOT 4121                
+POS_WORMS 5314                
+POS_EMAILSENDER 5445                
+POS_EMAILRECEIVER 5588                
+POS_SESSION 107269              
+POS_SIDER 107483              
+POS_FILETYPES 5723                
+POS_DOWNLOADS 5939                
+POS_OS 6013                
+POS_BROWSER 6235                
+POS_SCREENSIZE 9423                
+POS_UNKNOWNREFERER 9497                
+POS_UNKNOWNREFERERBROWSER 11106               
+POS_ORIGIN 11704               
+POS_SEREFERRALS 11858               
+POS_PAGEREFS 12054               
+POS_SEARCHWORDS 20682               
+POS_KEYWORDS 20930               
+POS_MISC 2346                
+POS_ERRORS 21091               
+POS_CLUSTER 3822                
+POS_SIDER_404 21247               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171101000347 2674 691044 11584846581756
+FirstTime 20171001003511
+LastTime 20171031235609
+LastUpdate 20171101042432 2674 0 2673 0 0
+TotalVisits 1745                
+TotalUnique 1172                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1569                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 804 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 125 927 25366796 767 903 28737703
+1 67 313 7663667 1188 1350 45195985
+2 53 431 11008183 973 1157 37518681
+3 72 185 5736936 699 928 27080502
+4 151 396 13689269 608 821 23221961
+5 261 934 28433130 391 606 16338369
+6 49 383 10852073 2822 2999 107941771
+7 60 820 22794585 1271 1604 47535278
+8 197 1692 46562728 1634 2006 64603694
+9 243 3701 93258620 926 1229 35009565
+10 364 4626 106123890 1369 1680 52944124
+11 621 6943 185453641 1969 3526 81827143
+12 415 4919 112528122 1937 2337 74897173
+13 405 4548 108292277 2143 2415 81588855
+14 485 5735 141567014 1627 1884 60168025
+15 329 3550 81417971 665 1065 25827894
+16 318 4518 102956672 664 963 24756568
+17 313 3928 93819598 474 877 21037942
+18 106 1756 47929413 867 1049 34692185
+19 117 1225 32202614 1233 1392 45301913
+20 109 1486 38417751 704 950 27158846
+21 175 2592 64157408 657 960 26239839
+22 115 952 26359758 1864 2038 70058670
+23 77 565 15573188 1023 1221 32641396
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 5227 57125 1422165304
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 28
+yandex 21254 728638088 20171031225439 405
+googlebot 5309 126438348 20171031222120 55
+bot[\s_+:,\.\;\/\\-] 2581 66078658 20171031214833 150
+crawl 1274 46339006 20171027194153 4
+mail\.ru 686 6377598 20171031221346 259
+turnitinbot 186 3152342 20171025235104 1
+ia_archiver 168 4614774 20171029002039 46
+phantom 117 2290584 20171012083850 0
+baiduspider 113 5176890 20171031085314 0
+archive\.org_bot 106 2755743 20171027230601 11
+aport 6 321942 20171031122215 0
+no_user_agent 35 1381011 20171031024827 2
+exabot 3 44464 20171016205444 2
+spider 60 3216159 20171031085707 0
+libwww 2 87745 20171022222551 0
+java\/[0-9] 1 53740 20171012155451 0
+[\s_+:,\.\;\/\\-]bot 2 107219 20171029100554 0
+slurp 7 188456 20171012050115 3
+unknown 94 31230 20171031172553 94
+robot 27 1016092 20171026180910 3
+python 19 97336 20171028181757 2
+surveybot 6 214880 20171019041947 2
+favicon 16 856905 20171031151831 0
+discovery 3 107433 20171031165709 0
+checker 22 782585 20171022071535 1
+cfnetwork 16 396431 20171030104115 0
+netcraft 2 54120 20171011004851 0
+sogou 12 4164 20171025054745 12
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 1 53364 0 0
+css 3948 35464832 0 0
+png 13080 169039006 0 0
+html 5222 210014737 0 0
+jpg 28989 709679853 0 0
+js 5881 297887096 0 0
+Unknown 4 26416 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 1048 0 363656
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 15
+linuxandroid 4998
+winlong 148
+winxp 1739
+symbian 114
+win2000 1
+winnt 10123
+linuxubuntu 8
+winvista 3879
+linux 11083
+win7 20394
+macosx 4104
+winunknown 4
+j2me 71
+win2003 30
+Unknown 429
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 165
+chrome37.0.2062.117 1
+chrome52.0.2743.116 1093
+chrome12.0.742.100 250
+chrome34.0.1847.137 3
+chrome10.0.611.0 1
+firefox2.0.0.1 1
+firefox54.0 332
+chrome31.0.1650.57 1
+chrome63.0.3223.8 95
+safari9.1.2 23
+firefox49.0 4
+msie8.0 532
+chrome60.0.3112.78 122
+chrome11.0.696.34 93
+chrome39.0.2171.65 2
+chrome27.0.1453.93 1
+msie7.0 81
+chrome57.5.0322.5694 1
+msie10.6 1
+chrome31.0.1650.59 18
+firefox50.0 12
+firefox38.0 25
+firefox7.0.1 4
+chrome51.0.2704.103 15
+chrome54.0.2840.71 196
+firefox25.0 3
+chrome26.0.1410.64 1
+netscape5.0 17
+chrome44.0.2403.89 3
+chrome52.0.2743.98 130
+chrome59.0.3071.109 1
+chrome41.0.2228.0 7
+chrome60.0.3112.90 530
+chrome11.0.696.71 1
+firefox36.0 2
+safari 696
+chrome34.0.1847.76 2
+safari7.0 1194
+safari11.0 315
+safari10.1 16
+chrome41.0.2225.0 2
+chrome43.0.2327.5 1
+android 811
+chrome10.0.612.3 1
+firefox52.0 1031
+chrome22.0.1229.79 1
+chrome36.0.1985.125 154
+firefox24.0 1
+chrome57.0.2987.98 19
+opera9.80 225
+chrome39.0.0.0 16
+iphone 11
+chrome61.0.3163.100 28355
+chrome26.0.1410.65 3
+firefox3.5.8 1
+chrome60.0.3150.1 193
+chrome38.0.2125.122 19
+chrome62.0.3202.62 1327
+chrome34.0.1847.116 1
+chrome58.0.3029.96 34
+chrome11.0.696.3 250
+chrome61.0.3163.91 379
+msie5.0 2
+firefox3.6.10 1
+msie9.0 317
+chrome60.0.3112.116 327
+chrome59.0.3071.115 89
+chrome53.0.2785.143 22
+chrome41.0.2272.172 1
+chrome51.0.2704.79 104
+firefox56.0 2238
+chrome38.0.2125.102 22
+chrome22.0.1104.222 84
+chrome61.0.3163.79 239
+nokia 40
+chrome45.0.2454.94 176
+chrome51.0.2704.106 65
+firefox22.0 176
+firefox3.6.28 1
+firefox51.0 9
+chrome23.0.1271.97 120
+konqueror4.3 2
+msie6.0 54
+chrome40.0.2214.115 1
+chrome18.0.1025.308 18
+safari10.1.2 275
+chrome11.0.654.0 1
+firefox18.0 2
+safari4.0.5 14
+chrome38.0.2125.111 33
+curl 10
+firefox34.0 2
+chrome58.0.3029.110 403
+chrome51.0.2704.81 49
+chrome57.0.2987.110 4
+chrome53.0.2785.146 36
+chrome42.0.2311.90 2
+chrome63.0.3218.0 16
+firefox43.0 178
+chrome50.0.2661.102 349
+chrome37.0.2062.120 7
+firefox40.1 3
+firefox41.0 200
+chrome49.0.2623.112 814
+chrome10.0.648.134 1
+firefox48.0 24
+firefox53.0 37
+chrome55.0.2883.87 19
+chrome56.0.1750.154 1
+firefox42.0 1
+chrome58.0.3029.83 29
+firefox55.0 714
+wap 11
+chrome34.0.1847.131 1
+firefox21.0 1
+chrome60.0.3112.107 141
+firefox29.0 8
+safari6.0 2
+firefox220 6
+chrome14.0.803.0 1
+chrome53.0.2785.148 2
+chrome49.0.2623.75 3
+firefox45.0 121
+firefox47.0 157
+chrome60.0.3112.113 2125
+mozilla 2043
+chrome40.0.2214.89 14
+chrome57.0.2987.133 109
+chrome46.0.2486.0 43
+chrome40.0.2214.93 2
+chrome61.0.3163.98 2343
+chrome62.0.3202.75 46
+chrome59.0.3071.86 244
+chrome55.0.2883.91 34
+chrome58.0.3029.81 166
+chrome56.0.2924.122 4
+chrome56.0.2924.87 274
+chrome12.0.742.112 2
+firefox6.0.2 30
+chrome55.0.2883.75 3
+chrome10.0.648.204 1
+chrome33.0.1750.154 1
+safari8.0 17
+firefox27.0 10
+chrome48.0.2536.0 96
+Unknown 280
+chrome57.0.2987.137 34
+chrome30.0.0.0 26
+chrome47.5.2526.115 23
+safari10.0 806
+chrome14.0.797.0 18
+chrome41.0.2272.118 569
+safari10.0.3 2
+chrome10.0.613.0 1
+chrome36.0.1985.67 1
+chrome49.0.2623.108 1
+chrome59.0.3071.125 411
+chrome36.0.1985.135 48
+safari9.0 55
+chrome19.0.1084.5409 3
+chrome45.0.2454.101 154
+firefox37.0 91
+msie10.0 511
+chrome54.0.2840.85 37
+chrome50.0.2661.240 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 24
+Ruby 20171020195756
+panscient.com 20171008115850
+Xenu_Link_Sleuth/1.3.8 20171003112038
+Opera/9.80_(Android;_Opera_Mini/5.1.21126/28.2794;_U;_ru)_Presto/2.8.119_Version/11.10 20171005082008
+com.google.GoogleMobile/38.0.0_iPhone/11.0.3_hw/iPhone8_1 20171031223502
+M 20171003185739
+Mozilla/5.0_(compatible;_Wappalyzer;__https://github.com/AliasIO/Wappalyzer) 20171014090325
+5636 20171004185458
+Opera/9.80_(Android;_Opera_Mini/19.0.2254/73.112;_U;_ru)_Presto/2.12.423_Version/12.16 20171020012851
+com.google.GoogleMobile/36.0.0_iPad/10.3.1_hw/iPad5_3 20171010143340
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20171001172601
+Opera/9.80_(Android;_Opera_Mini/18.0.2254/73.132;_U;_ru)_Presto/2.12.423_Version/12.16 20171030152752
+PycURL/7.43.0_libcurl/7.38.0_OpenSSL/1.0.1_zlib/1.2.3.4_c-ares/1.7.5_libidn/1.23_libssh2/1.2.8_librtmp/2.3 20171031011541
+Go_1.1_package_http 20171007102535
+Mozilla/5.0_(compatible;_ips-agent) 20171021001404
+com.google.GoogleMobile/37.1.0_iPhone/11.0.3_hw/iPhone7_2 20171028000600
+Mozilla/5.0 20171027165036
+Validator.nu/LV_http://validator.w3.org/services 20171005111540
+Opera/9.80_(Android;_Opera_Mini/6.5.29194/28.2647;_U;_ru)_Presto/2.8.119_Version/11.10 20171009094253
+Go-http-client/1.1 20171026194100
+Opera/9.80_(Android;_Opera_Mini/7.0.29703/28.2725;_U;_ru)_Presto/2.8.119_Version/11.10 20171022124910
+DowntimeDetector/1.0_(_http://downforeveryoneorjustme.com) 20171027080025
+Magic_Browser 20171031144221
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20171009195500
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 13
+5636 20171004185458
+Ruby 20171020195756
+com.google.GoogleMobile/36.0.0_iPad/10.3.1_hw/iPad5_3 20171010143340
+panscient.com 20171008115850
+Xenu_Link_Sleuth/1.3.8 20171003112038
+Go_1.1_package_http 20171007102535
+Validator.nu/LV_http://validator.w3.org/services 20171005111540
+M 20171003185739
+Go-http-client/1.1 20171026194100
+Microsoft_Office_Excel_2013 20171010181424
+DowntimeDetector/1.0_(_http://downforeveryoneorjustme.com) 20171027080025
+Magic_Browser 20171031144221
+Microsoft_Office_Excel_2014 20171023115257
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2005 3278
+From1 54 54
+From2 683 1020
+From3 213 322
+From4 2272 52451
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 442 772
+rambler 1 1
+yandex 239 246
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 109
+http://go.mail.ru 36 36
+http://www.rest-hotel.kiev.ua/ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE-%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%BD%D0%BE-%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0-%D0%B8-%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%B0-forech-2017.html 27 27
+https://yandex.ua/clck/jsredir 14 14
+http://korinf.com.ua 10 10
+http://burger-imperia.com 6 6
+http://go.mail.ru 6 6
+http://away.vk.com/away.php 3 3
+http://porno.simple-image.com.ua 3 3
+http://www.rest-hotel.kiev.ua/exhibitors-list-2017 3 3
+http://master.1cbit.net/xrumer.php 3 3
+https://yandex.by/clck/jsredir 1 1
+http://fit.net.ua 0 1
+http://korinf 1 1
+http://1541.ru 2 2
+http://xn-----flcbgbhbt2af4bs0i4bzd.su/%D1%88%D0%B0%D1%80%D0%B8%D0%BA%D0%B8/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D1%88%D0%B0%D1%80%D0%B8%D0%BA-4-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3 1 1
+https://alfa-coffee.com.ua/p491946271-banka-kruglaya-rajskie.html 1 1
+http://glory-tube.sexblog.pw 1 1
+http://ru-far.helpstoyak.life/dzhenerik-kupit/sialis-kupit-v-apteke-kazan-kazan.php 1 1
+http://spb-ed.edspbonli.men/vardenafil-v-apteke/nabor-probnikov-corsar-test-pask.php 1 1
+http://vigra.onlinemensbest.bid/nizkaya-tsena-sialis/tsena-na-lekarstvo-dapoksetin.php 1 1
+http://blondinki.besplatno.xblog.in 1 1
+https://www.yandex.ua/clck/jsredir 1 1
+http://ru-far.helpstoyak.life/kupit-dapoksetin-deshevo/sialis-eli-lilly-kupit-v-apteke.php 1 1
+https://2gis.ru 1 1
+http://restoran.onlinewebshop.net 1 1
+http://spb-ed.edspbonli.men/sildenafil-pri-gipertenzii/kupit-dzhenerik-viagri-s-dostavkoy.php 1 1
+http://sexy-stockings.tobuy.in 1 1
+http://go.mail.ru/redir 1 1
+http://hied.edspbonli.men/kak-povisit-erektilnuyu-funktsiyu/pitanie-dlya-uluchsheniya-erektilnoy.php 1 1
+http://kiev.org24.biz/industry 1 1
+http://ws.onlinemensbest.men/kak-zhenshine-pomoch-muzhchine-vosstanovit-erektilnuyu-funktsiyu/tabletki-dlya-erektilnoy-funktsii-v-apteke-tsena.php 1 1
+http://selfies.hourly.erolove.top 1 1
+http://edmensru.vsedliavas.life/kupit-v-internete-sialis-tsena/sialis-tsena-v-magnitogorske.php 1 1
+http://aksonural.ru 1 1
+http://porno.simple-image.com.ua/hudye-telochki/ 1 1
+http://rubiz.edspbonli.men/pomosh-pri-erektilnoy-disfunktsii/lekarstvennie-preparati-dlya-lecheniya-erektilnoy-disfunktsii.php 1 1
+http://spb-ed.edspbonli.men/sildenafil-pri-gipertenzii/kto-polzovalsya-viagroy.php 1 1
+http://asianlesbians.xblog.in 1 1
+http://yandex.ua/clck/jsredir 1 1
+http://rubiz.edspbonli.men/narodnie-sredstva/ochen-bistroe-semyaizverzhenie.php 1 1
+http://sexy.pornstar.galleries.besttorrents.top 1 1
+http://edruuv.helpstoyak.life/levitra-original/sialis-original-i-poddelka.php 1 1
+http://onlied-ru.edspbonli.men/luchshiy-dzhenerik-sialis-kupit/sialis-samson-farma-zhulebino.php 1 1
+https://edu-paper.com 1 1
+http://18.onlinemensbest.bid/dzhenerik-ili-original-levitri/kupit-dzhenerik-levitra-60.php 1 1
+http://kiev.goldenpages.ua/details/403344/67/%D0%BA%D0%BE%D1%80%D0%B8%D0%BD%D1%84-%D1%81%D1%82%D1%80%D0%BE%D0%B9-%D1%8D%D0%B9%D1%80-%D0%BE%D0%BE%D0%BE 1 1
+http://brazil-galleries.twiclub.in 1 1
+http://ru-far.helpstoyak.life/gde-kupit-viagru/sildenafil-kupit-v-gomele.php 1 1
+http://sibtest.ru/youtube.html 1 1
+http://onliru.edspbonli.men/levitra-kupit/levitra-habarovsk-na.php 1 1
+http://edmensru.vsedliavas.life/tabletki-sialis-tadalafil-5-mg/dapoksetinom-instruktsiya-otzivi.php 1 1
+http://cpbedrum.helpstoyak.life/dapoksetin-kupit-v-kostrome-apteki/apteka-stolichka-viagra.php 1 1
+http://ddo.com.ua/web/5916036/ 2 2
+http://www.agentlotto1.com 1 1
+http://asian.sex.twiclub.in 1 1
+http://edrufu.edspbonli.men/lechenie-erektilnoy-disfunktsii/medikamentoznoe-lechenie-erektilnih-disfunktsiy.php 1 1
+http://spb-ed.edspbonli.men/dapoksetin-v-moskve/dapoksetin-otzivi-vrachey.php 1 1
+http://pizza-tycoon.com 1 1
+http://beta.screenqueri.es 1 1
+http://ru-far.helpstoyak.life/meditsinskie-preparati/deystvie-po-vremeni-sildenafil.php 1 1
+https://www.yandex.ua 1 1
+https://prime-pharmacy.com 1 1
+http://hied.edspbonli.men/meditsinskie-preparati/nastupayut-problemi-potentsiey.php 1 1
+http://rubiz.edspbonli.men/sialis-tsena-v-internete/prodayu-sialis-tabletki.php 1 1
+http://eed.onlineedspb.men/otzivi-pro-dapoksetin/sialis-soft-otzivi-tsena-nefti.php 1 1
+http://www.agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-thermostar-classic-detail.html 0 2
+http://link.2gis.ru/A51DC084/v4-android/20171001/kiev/70000001021377047 1 1
+http://www.rest-hotel.kiev.ua/ru/\xd0\xbd\xd0\xbe\xd0\xb2\xd0\xbe\xd1\x81\xd1\x82\xd0\xb8-\xd0\xb2\xd1\x8b\xd1\x81\xd1\x82\xd0\xb0\xd0\xb2\xd0\xba\xd0\xb8/\xd1\x81\xd0\xbf\xd0\xb8\xd1\x81\xd0\xbe\xd0\xba-\xd1\x83\xd1\x87\xd0\xb0\xd1\x81\xd1\x82\xd0\xbd\xd0\xb8\xd0\xba\xd0\xbe\xd0\xb2-\xd0\xbc\xd0\xb5\xd0\xb6\xd0\xb4\xd1\x83\xd0\xbd\xd0\xb0\xd1\x80\xd0\xbe\xd0\xb4\xd0\xbd\xd0\xbe\xd0\xb3\xd0\xbe-\xd1\x8d\xd0\xba\xd1\x81\xd0\xbf\xd0\xbe\xd1\x84\xd0\xbe\xd1\x80\xd1\x83\xd0\xbc\xd0\xb0-\xd1\x80\xd0\xb5\xd1\x81\xd1\x82\xd0\xbe\xd1\x80\xd0\xb0\xd0\xbd\xd0\xbd\xd0\xbe-\xd0\xbe\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c\xd0\xbd\xd0\xbe\xd0\xb3\xd0\xbe-\xd0\xb1\xd0\xb8\xd0\xb7\xd0\xbd\xd0\xb5\xd1\x81\xd0\xb0-\xd0\xb8-\xd0\xba\xd0\xbb\xd0\xb8\xd0\xbd\xd0\xb8\xd0\xbd\xd0\xb3\xd0\xb0-forech-2017.html 1 1
+http://65.55.108.4/proxy.ashx 0 95
+http://amateur-boobs1.sexblog.top 1 1
+http://eed.onlineedspb.men/zhenskaya-viagra/zhenskiy-sialis-kupit.php 1 1
+http://onliru.edspbonli.men/gde-kupit-viagru/viagra-tabletki-kupit-v-apteke-chay.php 1 1
+http://rederu.onlineedspb.men/otzivi-pro-dapoksetin/dapoksetin-kemerovo.php 1 1
+http://www.korinf.com.ua 3 3
+http://siall.onlinemensbest.bid/gde-kuplyu-levitra/otziv-super-levitra.php 1 1
+http://bmt/main/ 3 3
+http://www.konditerka.biz/oborudovanie/oookorinf-inzhiniring/6-72/ 1 1
+http://ed.onlinemensbest.bid/levitra-po-aktsii/levitra-i-viagra-forum.php 1 1
+http://vigra.onlinemensbest.bid/kupit-dzhenerik-peterburge/dzhenerik-levitri-40.php 1 1
+http://agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-thermostar-classic-detail.html 0 4
+http://zakazed.edspbonli.men/levitra-original/levitra-maksimalnaya-doza.php 1 1
+http://onlied-ru.edspbonli.men/sildenafil-tsena-v-apteke-instruktsiya/sialis-tsena-nizhniy-novgorod-foto.php 1 1
+http://ruspb.onlinemensbest.men/dzhenerik-sialisa-kupit-v-apteke-tsena/lekarstvo-ot-impotentsii-sialis-tsena.php 1 1
+http://www.oborud.info/catalog/resume3.php 2 2
+http://cfnm.sexblog.pw 1 1
+http://mmedru.helpstoyak.life/http-dzhenerik-kupit-rf/kupit-tadalafil-podolsk.php 1 1
+http://yandex.by/clck/jsredir 1 1
+http://siall.onlinemensbest.bid/tabletki-ot-bistroy-eyakulyatsii/dapoxetine-v-finlyandii.php 1 1
+http://ruspb.onlinemensbest.men/pochemu-ot-sialisa-bolit-golova/sialis-v-stavropole.php 1 1
+http://cuckold.posts.sexgalleries.top 1 1
+http://ruspb.onlinemensbest.men/sildenafil-ot-legochnoy-gipertenzii/dapoksetin-srok-godnosti.php 1 1
+http://pornstars-blog.hotblog.top 1 1
+http://youtu.be/dnxmoWu8tEY 2 2
+https://www.yandex.by/clck/jsredir 1 1
+https://anegdotybloga.blogspot.ru 1 1
+http://agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-variant-detail.html 0 6
+http://edrufu.edspbonli.men/otzivi-pro-dapoksetin/dzhenerik-sialis-soft-forum-otzivi.php 1 1
+http://besq.ru 0 1
+http://kiev.link.ua/profile/2452/ 1 1
+http://edruuv.helpstoyak.life/viagra-v-internet-aptekah/on-silno-vozbuzhdaetsya-pri-potselue.php 1 1
+http://ru-ed.helpstoyak.life/sialis-tsena-v-internete/sialis-dzhenerik-nabor.php 1 1
+http://www.1541.ru/cms/part.php 1 1
+http://parsinfo.ru 2 2
+https://yandex.kz/clck/jsredir 1 1
+http://edrufu.edspbonli.men/sildenafil-tsitrat-kupit/kupit-sildenafil-v-yakutske.php 1 1
+http://onliru.edspbonli.men/sialis-tsena-v-internete/dlya-chego-nuzhni-tabletki-sialis-aptekah.php 1 1
+http://edrufu.edspbonli.men/kupit-dzhenerik/dzheneriki-krasnodar.php 1 1
+https://duckduckgo.com 1 1
+http://vigra.onlinemensbest.bid/bistraya-eyakulyatsiya-u-muzhchin/vitamini-dlya-muzhchin-otzivi.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+%d0%bf%d0%b5%d1%87%d1%8c+%d0%b4%d0%bb%d1%8f+%d0%bf%d0%b8%d1%86%d1%86%d1%8b+%d0%be%d0%b5%d0%bc 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+%d0%b4%d0%bb%d1%8f 1
+%d0%bf%d0%b8%d1%86%d1%86%d1%8b 1
+%d0%be%d0%b5%d0%bc 1
+%d0%bf%d0%b5%d1%87%d1%8c 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 371
+503 107 49402
+206 25 1351839
+500 31 546051
+301 2 948
+404 2861 89104479
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 639
+/blog/wp-includes/wlwmanifest.xml 1 -
+/images/upload/device_aladin.jpeg 12 -
+/ua/table-selmi.html 2 -
+/ua/gsp65evo.html 3 -
+/ua/testomes-oem.html 3 -
+/ua/rotacionnaya-pech-polin-classic.html 6 -
+/ua/otsadochnie-mashini-dlya-pechenia-multidrop-c.html 7 -
+/ua/baranki-perekl.html 3 -
+/images/upload/ldogenerator-gran.jpg 1 http://go.mail.ru/search_images
+/ua/%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B8-predvaritelnoi-rasstoyki.html 1 -
+/images/upload/agnelli.png 2 http://go.mail.ru/search_images
+/images/upload/revent-oxladitel.jpg 2 http://go.mail.ru/search_images
+/images/upload/futura.png 1 http://go.mail.ru/search_images
+/images/upload/tilting-head-oem.png 1 http://go.mail.ru/search_images
+/images/upload/macpanlogo.png 1 http://go.mail.ru/search_images
+/ua/article.html 4 -
+/images/upload/color.png 1 http://go.mail.ru/search_images
+/images/upload/polin_pel10.jpg 1 -
+/images/upload/bravo.jpg 8 -
+/xmlrpc.php 8 -
+/images/upload/top.jpg 1 -
+/images/upload/plit_horizontal.png 1 http://go.mail.ru/search_images
+/ua/forni-pod.html 20 -
+/ua/ldogeneratoru.html 4 -
+/ua/semi-auto-bread-slicer-macpan-op.html 1 -
+/images/upload/md_classic.png 1 http://go.mail.ru/search_images
+/ua/formovochnie-mashina-macpanfr2c.html 1 -
+/ua/packing.html 5 -
+/images/item/canolino.png 1 http://go.mail.ru/search_images
+/images/upload/item/gallery/596e01432e086.jpg 8 -
+/search 2 -
+/ua/iba2018.html 2 -
+/root/.ssh/id_dsa 4 -
+/images/upload/pf.gif 1 -
+/ua/semi-auto-bread-slicer-macpan-mpta.html 1 -
+/images/forni/scooter.png 1 http://go.mail.ru/search_images
+/ua/canolino.html 2 -
+/images/upload/bm2as.jpg 1 -
+/images/upload/sg-modul-big.jpg 1 -
+/ua/testo-pizza.html 4 -
+/images/upload/millenium-dig.jpg 1 -
+/ua/testomes-polin-start.html 2 -
+/administrator/ 2 -
+/ua/zenith-oem.html 4 -
+/images/polinforni.jpg 1 -
+/images/upload/formatrici.jpg 1 http://go.mail.ru/search_images
+/id_rsa 4 -
+/dumper.php 1 -
+/images/upload/makaron-big.jpg 1 -
+/ua/auto-bread-slicer-macpan-mtp-aut.html 1 -
+/images/upload/mf-split-max.jpg 1 -
+/images/upload/scooter-big.jpg 1 -
+/images/upload/normale.jpg 1 -
+/ua/work-table-options-canol.html 2 -
+/ua/tank-selmi.html 1 -
+/krd.txt 2 -
+/ua/vertikal-plitochnue-apparaty.html 2 -
+/ua/kornfeil-k-market.html 1 -
+/images/upload/twiny5.jpg 11 -
+/ua/kornfeil-variant.html 1 -
+/images/upload/revent_index.jpg 3 http://go.mail.ru/search_images
+/images/gsp_min.png 1 http://go.mail.ru/search_images
+/stat 1 -
+/images/upload/futura.jpg 1 https://go.mail.ru/
+/images/upload/konus.png 1 http://go.mail.ru/search_images
+/images/upload/ukladchik-big.jpg 1 -
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/stat/rotacionnaya-pech-revent-724.html%4010 1 http://korinf-group.com/stat/rotacionnaya-pech-revent-724.html%4010
+/ua/kruassan-polin-avant.html 1 -
+/ua/hlebopekarnoe.html 13 -
+/ua/semi-auto-bread-slicer-macpan-mpt.html 1 -
+/ua/agnelli.html 3 -
+/images/upload/fr2cf-min.jpg 1 -
+/ua/gsp65evobb.html 4 -
+/images/upload/dozator_selmi.jpg 2 https://go.mail.ru/
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/images/upload/polin_pel9.jpg 1 -
+/images/upload/fr2c-tth.jpg 1 -
+/images/upload/tipoc3.jpg 10 http://korinf-group.com/stat/otsadochnie-mashini-dlya-pechenia-multidrop-c.html
+/ua/otsadochnie-mashini-dlya-pechenia-multidrop-junior.html 5 -
+/images/logo_korinf_ua.png 2 -
+/images/upload/3_bears.jpg 3 -
+/ua/index.html 1 http://korinf-group.com/ua/rotacionnaya-pech-na-pelletah.html
+/ua/testomes-polin-asm-rs.html 4 -
+/vacancies.html 36 http://korinf-group.com/contacts.html
+/images/upload/pasta-index.jpg 2 -
+/images/upload/asm-rb.png 3 -
+/ua/optymo-oem.html 4 -
+/images/upload/macpansv-tth.jpg 1 -
+/images/upload/domitor.jpg 1 -
+/ua/pasta-technology.html 3 -
+/ua/18-hlebopechenie.html 2 -
+/images/upload/kforms.png 1 http://go.mail.ru/search_images
+/images/upload/ase.jpg 1 https://www.google.com.ua/
+/images/upload/726.jpg 3 -
+/ua/oborudovanie-dlya-trexcvetnogo-pechenia-aladin.html 4 -
+/images/upload/avant_size.jpg 3 -
+/ua/holod.html 3 -
+/images/upload/mf3.jpg 1 -
+/images/upload/selmi.jpg 1 -
+/ua/smesiteli.html 4 -
+/ua/dozator-selmi.html 6 -
+/ua/selmi.html 5 -
+/downloader/ 1 -
+/images/upload/manuale-tower660.jpg 1 -
+/ua/pizza-press.html 3 -
+/ua/formovochnie-mashinu-chiabatta.html 1 -
+/images/upload/bravo_size.jpg 1 -
+/ua/rotacionnaya-pech-polin-avant.html 5 -
+/skin/Signedint.php 1 -
+/ua/canol.html 5 -
+/ua/testodeliteli-macpan-model-sv.html 3 -
+/ua/vakuum-oxladitel.html 3 -
+/ua/konf-forms-selmi.html 3 -
+/ua/oem.html 4 -
+/images/item/revent.png 1 http://go.mail.ru/search_images
+/images/upload/lam.png 1 http://go.mail.ru/search_images
+/ua/okrugliteli-macpan-model-mpc.html 3 -
+/images/upload/plus.png 1 http://go.mail.ru/search_images
+/images/upload/pasta2.jpg 1 -
+/ua/partners.html 7 -
+/images/forni/bravo.png 1 http://go.mail.ru/search_images
+/ua/temp-top-selmi.html 1 -
+/images/upload/inprodmash-logo.jpeg 1 -
+/images/upload/tekno_min.png 1 -
+/images/upload/auto-slicer-mtp-aut-dual-min.jpg 1 -
+/images/upload/classic-big.jpg 1 -
+/apple-touch-icon.png 6 -
+/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/ua/round-oven-revent.html 7 -
+/images/item/hleb.png 1 http://go.mail.ru/search_images
+/ua/testomes-polin-asm-rb.html 4 -
+/ua/gsp55evo.html 3 -
+/images/upload/domitor.png 1 -
+/images/upload/sarp2015_3.jpg 1 https://www.google.ru/
+/images/upload/item/59ass979e0b56a.jpg 1 http://korinf-group.com/stat/semiavtomat-testoraskatki.html
+/ua/padovani.html 4 -
+/ua/deliteli-okrugliteli-ram-model-sph.html 2 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/images/upload/gas-single.jpg 1 https://www.google.ru/
+/wp/ 4 -
+/ua/ldogenerator-kubik.html 3 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/images/upload/prijim.jpeg 12 -
+/images/upload/teknostamap.png 1 -
+/images/upload/asr.png 1 http://go.mail.ru/search_images
+/ua/rotornaya-mashina-dlya-pechenia-seriya-rfn.html 5 -
+/images/upload/reich.png 3 http://go.mail.ru/search_images
+/ua/revent-technology.html 7 -
+/apple-touch-icon-precomposed.png 6 -
+/images/upload/eve-scotsman-max.jpg 1 -
+/images/forni/konv.png 1 -
+/ua/rotacionnaya-pech-polin-bravo.html 7 -
+/ua/rotacionnaya-pech-na-pelletah.html 8 -
+/images/upload/testomes_pelmeni.png 1 http://go.mail.ru/search_images
+/ua/kalibrators-canol.html 4 -
+/ua/ukladchiki-canol.html 3 -
+/ua/kazakhstan-2012.html 2 -
+/ua/trexbunkernaya-mashina-mini-aladin.html 4 -
+/images/upload/testomes-big.jpg 1 -
+/ua/ovens-gas-single-tunel-oem.html 5 -
+/images/upload/campagnolo.png 2 -
+/ua/konvekcionnaya-pech-polin-wind-4080-16.html 3 -
+/images/upload/qmt670.jpg 1 -
+/ua/tilting-head-with-bowl-oem.html 3 -
+/images/revent_min.png 1 http://go.mail.ru/search_images
+/images/upload/auto-slicer-self-service-shop-min.jpg 1 -
+/ua/formovochnie-mashina-macpanfr2cf.html 2 -
+/ua/podovaya-pech-polin-stratos-classic.html 7 -
+/images/upload/filonatrice-avant-big.jpg 1 -
+/images/upload/filer-big.jpg 1 -
+/ua/show.html 2 -
+/images/upload/industria_april_2012.jpg 1 http://go.mail.ru/search_images
+/ua/meat_eq.html 2 -
+/images/upload/ase.png 1 -
+/ua/gsp.html 3 -
+/ua/roto-forni-polin.html 9 -
+/images/upload/semi-auto-slicer-op.jpg 1 -
+/ua/testoraskatka-agnelli.html 7 -
+/images/upload/table.jpg 1 -
+/ua/ap250.html 37 -
+/images/upload/15062015.jpg 1 -
+/ua/contacts1.html 1 -
+/images/logo_korinf.png 41 -
+/images/upload/twolist.png 1 -
+/images/upload/reventholod1.jpg 1 -
+/images/upload/revent_sert2_prew.jpg 1 -
+/ua/revent.html 2 -
+/ua/tun-selmi.html 6 -
+/joomla/robots.txt 3 -
+/images/map.png 2 -
+/images/upload/testomes_pizza.png 1 http://go.mail.ru/search_images
+/ua/hlebexpo2012_report.html 2 -
+/images/item/selmi.png 1 http://go.mail.ru/search_images
+/images/upload/q600.jpg 1 -
+/images/upload/multiextrusion-protiven.png 1 -
+/ua/you-tube-mignon.html 4 -
+/ua/rotornaya-mashina-dlya-pechenia-seriya-rdz.html 7 -
+/ua/rotacionnaya-pech-revent-724.html 11 -
+/images/upload/asm-rs.png 1 http://go.mail.ru/search_images
+/images/upload/semplice-big.jpg 1 -
+/images/upload/aladin4.jpg 3 -
+/images/upload/c45.jpg 2 http://go.mail.ru/search_images
+/user/register 1 -
+/ua/formovochnie-mashina-fr4cinox.html 2 -
+/images/upload/optymo.png 1 http://go.mail.ru/search_images
+/images/upload/semi-auto-slicer-mpta-tth.jpg 1 -
+/images/upload/ram.png 1 http://go.mail.ru/search_images
+/ua/planetarniy-mixer-s-aeraciey-mr-150-800-litrov.html 3 -
+/images/revent_eq.png 3 -
+/ua/formatrici.html 4 -
+/images/upload/asm.png 1 -
+/images/upload/domix-big.jpg 1 -
+/ua/formovochnie-mashina-mba.html 2 -
+/ua/miniforni-revent-s-rasstoikoi.html 1 -
+/.ssh/id_rsa 4 -
+/images/hlebopek.jpg 1 http://go.mail.ru/search_images
+/images/upload/exposition.png 1 -
+/ua/testodeliteli-ram-model-dss.html 2 -
+/ua/equipment.html 13 -
+/ua/plus-selmi.html 4 -
+/images/upload/dozator-big.jpg 1 -
+/ua/zagruzchik-selmi.html 2 -
+/images/upload/iba2018.png 2 -
+/images/upload/rotor.png 1 http://go.mail.ru/search_images
+/wp-admin/admin-ajax.php 2 -
+/images/forni/tunel.png 1 -
+/images/upload/auto-slicer-mtp-aut-dual-tth.jpg 1 -
+/images/upload/forum-2012-logo.png 4 -
+/ua/newequipment2015.html 1 -
+/images/upload/revent_eq.png 2 -
+/ua/otsadochnie-mashini-dlya-pechenia-multidrop-twiny.html 5 -
+/images/upload/twiny4.jpg 11 http://korinf-group.com/stat/otsadochnie-mashini-dlya-pechenia-multidrop-twiny.html
+/blog/administrator/index.php 3 -
+/images/upload/asm_rs_size.jpeg 2 -
+/images/upload/rotor.jpg 1 http://kuzelga.ru/%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%BF%D0%B5%D1%87%D0%B5%D0%BD/
+/images/upload/mukoproseivatel.jpg 2 -
+/images/upload/spiral3.jpg 1 -
+/images/upload/semi-auto-slicer-op-tth.jpg 1 https://www.bing.com/
+/images/upload/variant7.jpg 15 http://agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-variant-detail.html
+/images/upload/oxladiteli.png 1 http://go.mail.ru/search_images
+/images/upload/pocket-big.jpg 1 -
+/images/upload/revent_krug3.jpg 2 -
+/ua/gsp55evobb.html 5 -
+/ua/baranki-mak.html 3 -
+/ua/rotacionnaya-pech-revent-703.html 9 http://korinf-group.com/ua/rotacionnaya-pech-revent-703.html
+/ua/kruassan-canol-croma.html 4 -
+/images/upload/aladin.jpg 2 -
+/images/upload/twiny_size.jpeg 1 -
+/ua/planetarniy-mixer-c-line.html 2 -
+/images/campagnolo_min.png 1 http://go.mail.ru/search_images
+/ua/spiral.html 6 -
+/sitemap.xml 5 -
+/images/upload/ramKbig.jpg 1 -
+/ua/testomes-polin-ase.html 3 -
+/ua/oborudovanie-dlya-pechenia-multiextrusion.html 4 -
+/images/upload/oem.png 2 -
+/ua/campagnolo.html 3 -
+/ua/futura-selmi.html 3 -
+/uploadify/uploadify.php 1 http://korinf-group.com/wp-admin/
+/images/item/pelmeni.png 1 -
+/ua/selmi-srl.html 3 -
+/images/upload/polin_pel6.jpg 1 http://go.mail.ru/search_images
+/images/upload/round-big.jpg 1 -
+/images/upload/polin_pel_roto.jpg 1 -
+/images/upload/twiny.png 1 http://go.mail.ru/search_images
+/images/upload/thermostar5.jpg 1 https://go.mail.ru/
+/images/upload/reventholod4.jpg 2 http://logistik-xxi.ru/23/konig-vakuumnoe-ohlajdenie-hleba-76.html
+/browserconfig.xml 1 http://google.com
+/ua/dosators-canol.html 3 -
+/images/upload/s30.jpg 1 http://go.mail.ru/search_images
+/ua/konvekcionnaya-pech-polin-wind-6040-5.html 7 -
+/images/upload/comfit-big.jpg 1 -
+/ua/planetarniy-mixer-ram-40-60-80-100-litrov.html 1 -
+/ua/deliteli-okrugliteli-ram-model-sp.html 3 -
+/images/upload/ap250.jpg 15 -
+/ua/rotornie-mashini-dlya-pechenia.html 4 -
+/images/upload/pf.png 1 http://go.mail.ru/search_images
+/modules/filesupload/upload.php 1 http://korinf-group.com/modules/filesupload/upload.php
+/ua/konvekcionnaya-pech-polin-wind-gas-4060-8.html 5 -
+/root/.ssh/id_rsa 4 -
+/ua/vibro-selmi.html 2 -
+/images/polin_min.png 1 http://go.mail.ru/search_images
+/apple-touch-icon-120x120.png 2 -
+//korinf-group.com/stat 1 -
+/ua/multiextrusion-s-otsadkoi-na-protivni.html 3 -
+/images/upload/item/gallery/596e01432e087.jpg 5 http://korinf-group.com/stat/hand-testoraskatki.html
+/ua/formovochnie-mashinu.html 4 -
+/images/upload/comfit.jpg 2 -
+/images/forni/classic.png 1 http://go.mail.ru/search_images
+/images/upload/odinlist.png 2 -
+/ua/testodeliteli-macpan-model-sv-es.html 2 -
+/ua/hlebexpo2013_report.html 5 -
+/ua/temp-futura-selmi.html 1 -
+/images/upload/thermoroll2.jpg 2 -
+/images/upload/mf.png 1 http://go.mail.ru/search_images
+/images/upload/15062015_2.jpg 1 -
+/images/upload/rdz.png 1 http://go.mail.ru/search_images
+/frontend/web/images/upload/item/gallery/596e01432e086.jpg 2 -
+/images/oem_min.png 1 http://go.mail.ru/search_images
+/https://fonts.googleapis.com/css 1 -
+/images/upload/aladin600.jpg 1 -
+//korinf-group.com/stat/ 31 http://porno.simple-image.com.ua/
+/ua/ovens-gas-konv-oem.html 7 -
+/images/upload/voltaire-big.jpg 1 -
+/images/upload/aladin2.jpg 5 -
+/ua/testodeliteli-ram-model-dsa.html 3 -
+/ua/canol-srl.html 3 -
+/images/upload/semi-auto-slicer-mpt-min.jpg 1 -
+/ua/horeca.html 2 -
+/images/upload/thermoroll3.jpg 1 -
+/ua/kornfeil-thermostar-classic.html 1 -
+/images/upload/gsp45evo.jpg 1 -
+/images/upload/ram-dsa-min.jpg 1 -
+/images/upload/thermostar.jpg 1 -
+/images/item/spiral.png 3 http://go.mail.ru/search_images
+/ua/formovochnie-mashina-fr4cfinox.html 3 -
+/ua/comfit-selmi.html 3 -
+/blog/robots.txt 7 -
+/ua/testomesu-polin.html 12 -
+/images/upload/variant3.jpg 9 http://agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-variant-detail.html
+/wp/wp-includes/wlwmanifest.xml 1 -
+/ua/gsp45evo.html 3 -
+/ua/you-tube-normale.html 2 -
+/ua/work-table-canol.html 2 -
+/images/upload/canolino-big.jpg 1 -
+/style/style.css 23 http://korinf-group.com/stat/dozator-selmi.html
+/assets/modules/evogallery/js/uploadify/uploadify.php 1 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 2 http://korinf-group.com/administrator/components/com_simplephotogallery/lib/uploadFile.php
+/images/upload/sg-big.jpg 1 -
+/images/upload/manuale-classic-600.jpg 1 -
+/images/upload/plit_horizontal5.jpg 2 -
+/files/cat_prosp.pdf 10 -
+/ua/auto-bread-slicer-macpan-self-service-shop.html 2 -
+/index.php 12 -
+/images/forni/roto.png 1 http://go.mail.ru/search_images
+/ua/testodeliteli-ram-model-dss-1020-1530.html 2 -
+/images/upload/round_revent.png 1 http://go.mail.ru/search_images
+/images/logo_min.png 1 http://go.mail.ru/search_images
+/ua/konditerskoe.html 6 -
+/images/upload/md_c.png 1 http://go.mail.ru/search_images
+/ua/makaron.html 28 -
+/ua/canol-line.html 4 -
+/images/upload/dozator_canol.png 1 http://go.mail.ru/search_images
+/images/upload/hlebexpo.png 1 http://go.mail.ru/search_images
+/wordpress/ 4 -
+/admin.php 3 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/images/upload/ram-sp-plus.jpg 1 http://go.mail.ru/search_images
+/test_error_page_url/ 1 http://google.com
+/images/upload/canol.png 4 -
+/images/upload/semi-classic.jpg 1 -
+/images/upload/line.png 1 http://go.mail.ru/search_images
+/images/upload/thermoroll-big1.jpg 1 -
+/images/upload/tank.png 1 http://go.mail.ru/search_images
+/images/upload/ver4-big.jpg 3 -
+/ELOASKh9NJU 1 -
+/images/upload/polin_pel13.jpg 1 http://go.mail.ru/search_images
+/images/upload/thermoroll-big3.jpg 1 -
+/images/upload/classic3.jpg 9 http://korinf-group.com/stat/otsadochnie-mashini-dlya-pechenia-multidrop-classic.html
+/ua/rotacionnaya-pech-revent-725.html 4 -
+/images/upload/kubik.png 1 http://go.mail.ru/search_images
+/ua/trexbunkernaya-mashina-aladin-s-otsadkoy-na-pod.html 5 -
+/images/upload/semi-auto-slicer-mpt-tth.jpg 1 -
+/ua/rotornaya-mashina-dlya-pechenia-seriya-r.html 2 -
+/ua/expositions.html 7 -
+/ua/pizza.html 8 -
+/images/upload/normale-big.jpg 1 -
+/images/upload/ram-sph-dim.jpg 1 -
+/ua/planetarniy-mixer-ram-eco-40-60-80-litrov.html 1 -
+/ua/izdelia-canol.html 4 -
+/images/upload/lam2.jpg 5 https://www.google.ru/
+/images/polin_padovani_min.png 2 -
+/ua/top-selmi.html 2 -
+/ua/agriflex.html 10 -
+/downloader 3 -
+/wp-login.php 6 -
+/.ssh/id_dsa 4 -
+/images/upload/smazka.jpeg 13 -
+/images/canol.jpg 1 https://www.google.kz/
+/images/upload/723.jpg 1 -
+/images/upload/aladin.png 1 http://go.mail.ru/search_images
+/images/upload/oxladitel-revent.jpg 1 -
+/ua/okrugliteli-macpan-model-co1600v.html 2 -
+/images/upload/domitor4.jpg 1 https://go.mail.ru/
+/images/upload/mignon-big.jpg 1 -
+/ua/tunnel-forni.html 6 -
+/images/upload/asm_rb_size.jpeg 1 -
+/ua/deliteli-okrugliteli-ram-model-s.html 2 -
+/images/upload/mf1.jpg 1 -
+/blog/xmlrpc.php 1 -
+/images/upload/table-big.jpg 1 -
+/ua/polin_pel.html 2 -
+/ua/polin.html 2 -
+/images/forni/avant.png 1 http://go.mail.ru/search_images
+/ua/deliteli-okrugliteli.html 3 -
+/ua/pelmeni.html 21 -
+/license.php 1 http://korinf-group.com/wp-admin/
+/ads.txt 8 -
+/ua/pechi-polin.html 10 -
+/id_dsa 4 -
+/images/upload/gsp.png 2 -
+/images/upload/gas-single.png 2 http://go.mail.ru/search_images
+/images/upload/ram-sp-plus-dim.jpg 1 http://go.mail.ru/search_images
+/ua/lamination-line.html 6 -
+/images/upload/variant-big.jpg 1 -
+/images/upload/classic4.jpg 9 http://korinf-group.com/stat/otsadochnie-mashini-dlya-pechenia-multidrop-classic.html
+/images/upload/aladin1.jpg 4 -
+/ua/otsadochnie-mashini-dlya-pechenia-multidrop-classic.html 7 -
+/ua/forum-2012.html 2 -
+/images/upload/rezka-aladin.jpeg 12 -
+/images/upload/ram-sp-dim.jpg 1 -
+/ua/temp-selmi.html 7 -
+/images/upload/spiral4.jpg 1 -
+/images/upload/polin.png 4 -
+/images/upload/qt670.jpg 4 -
+/images/upload/canol.jpg 1 -
+/images/upload/korn.png 2 -
+/ua/sarp.html 2 -
+/ua/testomes-polin-asr.html 3 -
+/ua/testodeliteli-ram-model-dsa-1020-1530.html 3 -
+/ua/rotacionnaya-pech-polin-scooter.html 3 -
+/images/upload/aladin/2.png 18 http://www.mitsubishi34.ru/52/oborudovanie-bu-dla-izgotovlenia-saharnogo-pehena-938.html
+/images/upload/revent_.png 1 -
+/images/upload/plitochnaya.png 2 -
+/images/upload/line.jpg 5 -
+/images/upload/formatrici.png 1 http://go.mail.ru/search_images
+/ua/rotacionnaya-pech-revent-723.html 5 -
+/style/bootstrap.css 23 http://korinf-group.com/stat/dozator-selmi.html
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/images/upload/comfit.png 1 http://go.mail.ru/search_images
+/images/upload/18-hlebopechenie.jpg 3 -
+/wp-content/plugins/revslider/temp/update_extract/conf.php 2 http://www.korinf-group.com/wp-content/plugins/revslider/temp/update_extract/conf.php
+/ua/color-selmi.html 3 -
+/ua/vodoohladiteli.html 3 -
+/ua/croissants-machines-canol.html 8 -
+/ua/rotacionnaya-pech-polin-pocket.html 4 -
+/images/upload/kalibrator-big.jpg 1 -
+/ua/testomes-polin-asm-e.html 3 -
+/ua/dvuhlistovue.html 6 -
+/images/down.png 1 http://go.mail.ru/search_images
+/images/upload/voltaire.png 1 http://go.mail.ru/search_images
+/ua/ovens-electro-tunel-oem.html 7 -
+/ua/canol-manual.html 6 -
+/ua/mukoproseivateli.html 3 -
+/gallery/1/ 3 -
+/ua/tilting-head-oem.html 2 -
+/images/upload/twiny3.jpg 23 https://www.google.co.il/
+/ua/iffip2017.html 1 -
+/ua/revent-oxladitel.html 1 -
+/ua/testomes-polin-start-plus.html 2 -
+/ua/r-200-selmi.html 3 -
+/ua/ldogenerator-chesh.html 4 -
+/images/item/makaron.png 1 http://go.mail.ru/search_images
+/ua/contacts.html 6 -
+/administrator/components/com_joomlaupdate/restore.php 1 -
+/images/upload/signal.png 1 -
+/ua/pack-vertikalnie.html 8 -
+/images/upload/refrigerator-big.jpg 1 -
+/images/upload/sarp2015_2.jpg 1 https://www.google.ru/
+/images/upload/tipoc1.jpg 8 http://korinf-group.com/stat/otsadochnie-mashini-dlya-pechenia-multidrop-c.html
+/images/upload/sarp2015_7.jpg 1 -
+/images/upload/item/596e01432q086.jpg 1 http://korinf-group.com/stat/semiavtomat-testoraskatki.html
+/stat/ 624 https://minharevisao.com/
+/ua/semplice.html 2 -
+/images/upload/mar-scotsman-max.jpg 1 -
+/images/upload/odinlist.jpg 1 https://www.google.fr/
+/images/upload/pocket_size.jpg 1 https://www.google.ru/
+/blog/ 4 -
+/images/upload/galileo-big.jpg 1 -
+/images/upload/twiny6.jpg 13 -
+/ua/hlebexpo2014.html 3 -
+/images/upload/kalibrator.jpg 1 https://www.google.ca/
+/ua/ldogenerator-gran.html 3 -
+/ua/ldogenerator-konus.html 3 -
+/images/upload/avant-roto-big.jpg 1 -
+/ua/conv-forni-polin.html 8 -
+/stat/kornfeil-variant.html%4010 1 http://korinf-group.com/stat/kornfeil-variant.html%4010
+/images/upload/revent_sert_prew.jpg 2 -
+/ua/agriflex-srl.html 3 -
+/images/upload/expo2014.jpg 1 https://go.mail.ru/
+/ua/testomes-polin-asm.html 2 -
+/images/upload/croma-big.jpg 1 -
+/ua/baranki-ns3.html 6 -
+/images/upload/pasta.jpg 1 -
+/images/upload/revent.png 1 -
+/ua/c45.html 6 -
+/images/upload/domitor2.jpg 1 https://go.mail.ru/
+/images/canol_min.png 2 http://go.mail.ru/search_images
+/images/upload/tipoc2.jpg 15 https://www.google.it/
+/ua/kornfeil-fornata.html 1 -
+/ua/c95.html 6 -
+/ua/plitochnaya-zamorozka.html 3 -
+/ua/auto-bread-slicer-macpan-mtp-aut-dual.html 1 -
+/images/upload/avant-big.jpg 1 -
+/images/upload/hv-big.jpg 1 -
+/ua/domitor-oem.html 6 -
+/ua/rotacionnaya-pech-revent-726.html 4 -
+/images/upload/multiextrusion-pod.jpg 1 -
+/ua/avtomat-testoraskatki.html 5 -
+/images/upload/market-big.jpg 1 https://www.google.ru/
+/images/upload/spiral.jpg 3 https://www.google.ru/
+/images/upload/twolist2.jpg 1 -
+/images/upload/fr2cf.jpg 1 -
+/ua/signal.html 3 -
+/ua/fixed-head-testomes-oem.html 3 -
+/images/upload/classic1.jpg 11 https://www.google.bg/
+/images/upload/testoraskatka_pelmeni.png 1 -
+/images/upload/semi-auto-slicer-op-min.jpg 1 -
+/ua/testodeliteli.html 2 -
+/ua/deliteli-okrugliteli-ram-model-sp-plus.html 3 -
+/images/upload/ram-sph-plus.jpg 1 -
+/wpcontent.php 3 -
+/images/upload/seminar2015.jpg 1 http://go.mail.ru/search_images
+/ua/ovens-gas-single-oem.html 3 -
+/images/upload/zagruzchik-big.jpg 1 -
+/ua/inprodmash-2011.html 3 -
+/ua/testodeliteli-ram-model-dss-chiabata.html 3 -
+/ua/podovaya-pech-polin-startos-black.html 3 -
+/images/upload/kubik.jpg 1 -
+/ua/contacts111.html 5 -
+/ua/baranki.html 6 -
+/images/upload/thermostar-big.jpg 3 -
+/images/upload/comfit5-big.jpg 2 -
+/ua/voltaire-oem.html 2 -
+/images/upload/thermostar_classic4.jpg 5 http://www.agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-thermostar-classic-detail.html
+/images/upload/tipoc4.jpg 11 http://korinf-group.com/stat/otsadochnie-mashini-dlya-pechenia-multidrop-c.html
+/ua/testomes-agnelli.html 3 -
+/joomla/administrator/index.php 3 -
+/frontend/web/ 39 http://www.korinf-group.com/frontend/web/
+/images/upload/gsp65evobb.jpg 1 -
+/ua/temp-plus-selmi.html 1 -
+/images/upload/asm_rb-big.jpg 1 -
+/images/upload/plus_tronic.jpg 1 -
+/images/photo.png 1 http://go.mail.ru/search_images
+/ua/kamery-predvaritelnoi-rasstoyki.html 3 -
+/images/upload/aladin/nasadka1.png 1 -
+/images/pa350.png 2 -
+/images/upload/classic-roto-big.jpg 1 -
+/images/upload/mpc.jpg 1 -
+/images/upload/aladin3.jpg 2 -
+/images/upload/pasta-tech.jpg 1 http://go.mail.ru/search_images
+/ua 20 -
+/ua/mf-oem.html 4 -
+/ua/seminar2015.html 2 -
+/images/upload/ramecobig.jpg 1 -
+/images/upload/formatrici-big.jpg 1 -
+/ua/delitel-okruglitel.html 4 -
+/wp-includes/wlwmanifest.xml 1 -
+/ua/multiextrusion-s-otsadkoi-na-pod.html 5 -
+/images/upload/dozator.jpg 1 -
+/images/upload/sg-panel-big.jpg 1 -
+/ua/otsadochnie-mashini-dlya-pechenia-multidrop.html 6 -
+/ua/pechenie-s-nachinkoy.html 2 -
+/ua/c25.html 3 -
+/web/images/admin/edit.png 2 http://korinf-group.com/admin/pages.html
+/mailto:korinf@korinf.com.ua 2 -
+/images/upload/726-prew.png 1 -
+/images/upload/selmi.png 2 -
+/images/upload/polin_pel14.jpg 1 -
+/images/upload/padovani.png 4 http://go.mail.ru/search_images
+/dumper/dumper.php 1 -
+/images/upload/fixed-head.png 2 http://go.mail.ru/search_images
+/images/upload/aladin_cake.jpg 13 https://www.google.com.ua/
+/administrator/index.php 5 -
+/js/revent.js 1 http://korinf-group.com/stat/revent-technology.html
+/images/upload/testookruglitel-ast-big.jpg 1 -
+/ua/horizontal-plitochnue-apparaty.html 4 -
+/images/upload/revent_tcc.jpg 1 -
+/images/upload/ap250.png 2 http://go.mail.ru/search_images
+/images/upload/auto-slicer-mtp-aut-min.jpg 1 -
+/ua/kruglaya-rotacionnaya-pech-revent.html 4 -
+/images/upload/pasta3.jpg 1 -
+/images/upload/ast.png 1 http://go.mail.ru/search_images
+/images/upload/makaron.jpg 42 http://sub-hex.tumblr.com/post/130604974144/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%B4%D0%B5%D0%B9-%D1%81%D1%85%D0%B5%D0%BC%D1%8B37-%D1%81%D0%B0%D0%B1%D0%BB%D1%8F-%D0%BC%D0%B5%D1%87-%D1%82%D0%B8%D0%B3%D1%80%D0%B5%D0%BD%D0%BE%D0%BA
+/images/upload/tun-big.jpg 1 -
+/ua/other-selmi.html 4 -
+/ua/planetarniy-mixer-pl-150-800-litrov.html 7 -
+/images/upload/revent_krug4.jpg 1 http://go.mail.ru/search_images
+/images/upload/vibro.png 2 http://go.mail.ru/search_images
+/images/upload/pocket.jpg 1 -
+/images/upload/zenith.jpg 2 -
+/images/upload/canolino.jpg 1 -
+/images/upload/world.gif 1 -
+/ua/hand-testoraskatki.html 7 -
+/images/upload/classic2.jpg 80 https://www.google.co.il/
+/images/upload/croma4-big.jpg 1 -
+/images/upload/gsp45evo.png 1 -
+/wp-content/themes/project10-theme/style.css 2 http://korinf-group.com/wp-content/themes/project10-theme/style.css
+/images/upload/banko1.jpg 2 -
+/ua/kornfeil-thermostar.html 1 -
+/images/upload/fr4cinox-tth.jpg 1 -
+/ua/rotacionnie-pechi-revent.html 5 -
+/images/upload/agriflex.png 1 -
+/korinf-group.com/stat/ 1 http://porno.simple-image.com.ua/
+/images/upload/thermoroll-big2.jpg 1 -
+/images/upload/ukladchik.png 1 http://go.mail.ru/search_images
+/ua/konvekcionnaya-pech-polin-wind-4060-5-A.html 3 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/modules/mod_artuploader/upload.php 1 http://www.korinf-group.com/modules/mod_artuploader/upload.php
+/images/revent_start_logo.png 1 -
+/ua/rotacionnie-pechi-polin.html 3 -
+/images/upload/revent_krug5.jpg 1 http://go.mail.ru/search_images
+/images/upload/ap2502.jpg 3 http://ppu-saratov.ru/uteplenie-sten-zdanij/forma-dlya-varenikov-recept.html
+/ua/trexbunkernaya-mashina-aladin-600.html 3 -
+/images/packing.jpg 1 -
+/images/upload/thermostar6.jpg 2 http://agroid.ru/oborudovanie/khlebopekarnoe-oborudovanie-konditerskoe-oborudovanie/pechi/pechi-modulnye-konvektsionnye/podovaya-khlebopekarnaya-pech-kornfeil-thermostar-detail.html
+/ua/konvekcionnaya-pech-polin-wind-6040-9.html 5 -
+/images/upload/electro-tunel.png 1 -
+/images/upload/aladin_instrument1.jpeg 12 -
+/images/upload/sarp.png 1 -
+/ua/kruassan-polin-avant-off.html 1 -
+/images/upload/semi-auto-slicer-mpt.jpg 1 -
+/ua/planetarnye-mixers.html 6 -
+/ua/kornfeil.html 4 -
+/ua/podovaya-pech-polin-stratos-crystal.html 2 -
+/86226775 1 http://google.com
+/ua/gsp75evo.html 7 -
+/ua/konvekcionnaya-pech-polin-unico-6040-100.html 5 -
+/images/upload/semi-auto-slicer-mini.jpg 1 -
+/images/upload/polin_pel_art.jpg 1 http://go.mail.ru/search_images
+/images/upload/polin_pel11.jpg 2 http://go.mail.ru/search_images
+/ua/c2p.html 5 -
+/web/images/admin/delete.png 2 http://korinf-group.com/admin/pages.html
+/ua/odnolistivue.html 7 -
+/style/menu.css 23 http://korinf-group.com/stat/dozator-selmi.html
+/ua/semi-auto-bread-slicer-macpan-mini.html 2 -
+/images/upload/ns3line.jpg 2 -
+/images/upload/asm_rs-big.jpg 1 -
+/ua/press-dlya-gear.html 3 -
+/ua/forni-oem.html 10 -
+/images/forni/pocket.png 1 http://go.mail.ru/search_images
+/ua/deliteli-okrugliteli-ram-model-sph-plus.html 3 -
+/images/upload/thermostar_classic.jpg 1 http://go.mail.ru/search_images
+/favicon.png 2 -
+/images/upload/fr4cfinox-min.jpg 1 -
+/images/upload/co1600v.jpg 1 https://go.mail.ru/
+/ua/pack-horizontal.html 9 -
+/images/upload/aladin-pod.jpg 5 https://www.google.com.ua/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1569
+195.78.113.20 1231 10787 227524874 20171031155641
+142.4.215.116 250 250 9263549 20171008050723
+5.39.85.81 250 250 9343156 20171022111740
+95.164.69.24 230 2000 51875010 20171012164257
+37.230.221.40 120 120 3241577 20171031235609
+158.69.228.184 60 186 9403306 20171002080656
+194.44.28.213 45 406 8957377 20171024134821
+31.134.125.8 39 997 22064803 20171005175620
+193.19.84.90 38 551 11662483 20171010135627
+92.112.214.224 36 702 15058259 20171031105114
+46.164.172.70 1 92 1886320 20171009200124
+220.181.132.178 3 33 1247666 20171029233137
+184.22.249.176 2 2 107480 20171022151532
+109.75.249.80 2 36 918806 20171022073121
+185.46.30.251 0 95 2753645 
+212.96.69.135 1 21 507778 20171006072533
+185.170.42.18 1 1 53353 20171002192456
+46.101.127.145 1 1 53740 20171015125147
+106.120.160.119 7 7 272458 20171007054813
+93.73.50.105 1 23 637582 20171022203517
+199.30.24.130 0 1 4579 
+101.199.108.57 2 20 797672 20171007054624
+195.211.23.207 1 1 40354 20171013161608
+176.36.119.223 13 292 5705533 20171031171954
+217.115.85.94 1 22 511123 20171019125023
+195.19.97.0 1 1 36041 20171031111933
+178.172.228.47 2 29 675319 20171001213807
+91.231.198.38 1 25 497516 20171019211517
+217.69.143.217 2 2 107480 20171016230629
+95.158.48.107 1 96 2807161 20171016161024
+144.217.163.23 3 3 160437 20171007181100
+207.182.140.210 4 4 213412 20171003185739
+65.55.210.200 0 3 58927 
+93.73.204.135 2 105 2900715 20171031165511
+65.55.210.3 0 1 25281 
+176.193.132.215 1 21 482844 20171023022143
+77.222.134.12 3 33 505867 20171012132954
+65.55.210.141 0 1 30736 
+91.225.165.149 0 1 16180 
+37.110.66.106 1 96 2807385 20171030213412
+199.30.24.220 0 1 4884 
+90.154.70.170 1 1 53353 20171002074454
+65.55.210.165 0 83 1523800 
+86.111.6.154 4 20 563563 20171004140627
+154.16.123.99 1 1 53740 20171012192516
+128.69.152.114 1 1 176 20171031110720
+93.178.254.146 1 121 1148601 20171005124021
+91.105.236.214 1 1 53353 20171002105755
+95.158.62.174 1 96 2807363 20171019110347
+199.30.25.143 0 6 346615 
+128.68.42.65 1 1 176 20171031110721
+131.253.27.126 0 2 33758 
+37.52.146.13 7 179 3866980 20171010081927
+50.7.124.158 1 1 53629 20171009203427
+37.115.120.44 1 1 53740 20171026060619
+78.111.186.26 3 99 2878987 20171018121051
+115.238.60.124 13 139 3604118 20171007054805
+46.173.41.103 1 22 543209 20171012225834
+188.115.168.236 2 2 352 20171012093401
+89.189.149.24 1 18 459291 20171017085921
+78.111.189.7 4 54 1135515 20171020201827
+106.120.161.66 3 3 122054 20171007054658
+94.180.135.244 1 10 407382 20171008201233
+46.161.9.14 1 1 53479 20171005215145
+199.30.24.145 0 2 34221 
+31.210.210.166 8 147 3693749 20171031154405
+109.173.110.70 1 11 414519 20171026192636
+185.117.152.173 0 1 3680 
+146.88.194.133 1 1 53740 20171011015712
+65.55.210.8 0 1 4579 
+54.235.225.204 1 1 53479 20171009105103
+40.77.179.144 0 91 1836461 
+77.222.97.234 1 18 459515 20171030163927
+117.52.74.170 1 1 36268 20171024145030
+176.193.128.56 0 1 39953 
+65.55.210.111 0 1 44120 
+188.239.9.74 0 1 9634 
+176.38.189.88 2 98 2846118 20171018105314
+46.149.93.58 1 1 53479 20171008130333
+37.214.117.211 3 25 657480 20171002024453
+195.39.196.253 2 2 760 20171003112038
+192.99.10.173 1 1 380 20171004082805
+118.251.51.197 32 32 664603 20171013085509
+199.30.25.200 0 2 52556 
+199.30.24.19 0 1 1254 
+65.55.210.57 0 1 4579 
+199.30.25.157 0 1 2631 
+78.106.68.209 2 30 80708 20171031175811
+37.29.40.85 14 31 541548 20171028164824
+65.55.210.48 0 2 58722 
+109.194.58.37 1 1 53740 20171027043856
+5.188.211.10 13 13 493431 20171019140523
+77.243.183.169 1 1 176 20171020002636
+62.210.138.75 1 7 376306 20171029134042
+52.170.39.71 2 2 53916 20171029093025
+91.200.127.3 0 4 42542 
+66.249.88.79 1 1 176 20171025010049
+199.30.24.174 0 3 25227 
+40.77.178.200 0 8 54166 
+199.30.25.106 0 3 78047 
+77.247.22.104 1 1 53740 20171012162953
+46.211.136.2 2 3 110512 20171010193339
+199.30.24.137 0 2 261378 
+95.25.116.104 2 2 107480 20171016040933
+84.18.118.53 2 28 1279476 20171024192831
+75.84.140.122 1 1 53740 20171011003306
+176.15.179.112 1 1 53740 20171028052553
+176.105.104.102 1 1 53438 20171004173105
+87.144.105.49 1 22 543313 20171018100410
+34.215.130.7 3 3 160214 20171007205556
+5.167.231.11 0 3 29596 
+93.80.34.117 1 21 482844 20171030213410
+131.253.27.6 0 9 329652 
+5.141.21.220 1 25 497538 20171022134628
+52.41.211.72 9 9 482710 20171028143818
+188.239.32.94 2 2 107363 20171013013632
+158.46.163.252 1 1 53740 20171019230629
+199.30.25.20 0 1 4579 
+185.124.230.36 2 32 635434 20171010081322
+106.120.162.109 1 37 1049974 20171020153911
+40.77.177.66 0 10 306165 
+144.217.167.33 1 1 53479 20171007154030
+46.147.98.12 1 10 409149 20171008163554
+94.180.166.16 0 1 8616 
+188.239.6.195 1 95 2800512 20171004000112
+91.216.61.34 2 59 911434 20171004141631
+144.76.153.198 1 1 176 20171017200406
+66.102.8.205 3 156 3776202 20171027004815
+176.214.153.68 1 1 53740 20171012032428
+195.123.209.36 4 4 145072 20171029222032
+185.153.197.46 2 2 107369 20171024192841
+62.225.153.196 3 99 2877671 20171019143922
+91.219.99.235 1 18 459126 20171013112618
+204.12.206.18 2 2 106917 20171006215326
+93.85.32.12 1 1 53740 20171027080340
+199.30.25.131 0 1 10278 
+176.59.142.52 1 17 452721 20171006071504
+199.30.24.191 0 1 21134 
+188.166.84.232 0 1 17727 
+85.26.165.246 2 32 1274580 20171002133901
+52.90.60.206 1 1 53740 20171031133511
+199.30.25.185 0 1 2631 
+213.191.17.115 1 8 369239 20171021223040
+185.22.172.231 3 98 2873482 20171006152404
+164.132.107.90 1 1 53479 20171007003829
+91.200.127.14 0 3 43618 
+176.193.139.164 1 11 415896 20171026171223
+199.30.25.123 0 1 31616 
+195.18.18.150 0 2 20472 
+149.27.75.209 0 2 21092 
+82.200.40.97 1 1 53740 20171023014538
+188.162.167.41 2 24 533381 20171020161124
+91.224.234.196 1 18 459291 20171017091444
+193.138.130.219 1 18 459328 20171019131245
+188.165.196.25 1 1 53740 20171022033957
+130.180.209.115 2 98 2842100 20171026144851
+84.54.114.226 0 1 8800 
+198.23.134.114 0 6 1217 
+91.214.85.240 1 96 2807363 20171019120158
+91.237.164.143 1 23 479132 20171003194706
+46.118.159.224 1 1 53479 20171006134819
+82.241.183.206 2 2 352 20171017003450
+77.40.53.244 0 1 14111 
+104.227.62.221 1 10 2322 20171005103350
+118.113.7.220 1 1 53740 20171030180602
+194.29.62.227 3 30 611039 20171010114018
+23.27.112.183 2 2 107480 20171027104237
+89.28.24.190 1 1 53353 20171001163049
+192.198.127.20 1 8 2082 20171005103351
+212.112.105.219 2 34 899969 20171025055509
+58.64.185.171 1 11 415896 20171020153851
+198.20.179.221 0 5 974 
+199.30.24.62 0 1 18580 
+176.37.94.245 1 92 1886320 20171009203824
+77.243.183.165 1 1 53740 20171020002636
+52.91.192.189 1 1 53740 20171031132145
+217.66.158.58 1 1 47503 20171031225841
+82.146.53.107 1 1 40248 20171006165443
+131.253.25.203 0 1 30736 
+199.30.24.212 0 2 18747 
+193.19.119.107 1 1 43816 20171008130405
+46.98.136.220 2 15 437310 20171021104737
+213.226.231.238 1 24 591903 20171012122951
+5.228.23.152 1 16 430258 20171022124906
+217.182.95.33 27 27 883503 20171026194100
+199.30.24.114 0 1 19458 
+176.193.124.85 1 96 2807385 20171031114928
+46.211.103.81 2 25 802521 20171014005935
+199.30.24.9 0 1 23172 
+40.77.178.185 0 6 50046 
+65.55.210.86 0 6 99868 
+31.197.5.98 1 95 2800512 20171002185305
+199.30.24.105 0 2 5972 
+199.30.24.254 0 2 39181 
+213.87.240.42 1 17 452721 20171007131240
+185.137.18.111 1 9 69308 20171020135619
+193.19.119.54 1 1 37886 20171005101430
+128.68.134.100 1 10 396439 20171029004015
+5.137.50.156 1 16 432760 20171019102303
+95.24.235.80 1 11 403303 20171019055658
+176.193.119.195 1 11 405926 20171020232915
+212.112.126.245 1 22 514452 20171018033102
+188.247.96.117 1 22 490843 20171012113505
+109.195.53.209 1 18 455634 20171009172246
+65.55.210.50 0 4 38559 
+37.53.133.137 1 18 459291 20171017000703
+144.217.163.20 1 1 53479 20171006215014
+117.52.91.248 1 1 36268 20171026152611
+192.42.116.16 1 1 53353 20171001070005
+66.102.8.209 3 163 5166647 20171019020828
+65.55.210.81 0 3 72678 
+199.30.25.163 0 3 23695 
+66.102.9.1 12 167 4282822 20171025122600
+91.200.203.8 6 6 160694 20171025123039
+95.156.91.218 1 17 439607 20171002102921
+35.162.70.167 7 7 374893 20171029133724
+195.211.23.212 0 1 4946 
+199.30.25.58 0 2 51695 
+151.80.203.181 6 6 561812 20171031005029
+89.178.3.52 1 95 2800638 20171007183905
+95.132.246.14 1 16 422170 20171018203427
+176.14.186.41 1 11 402048 20171020165748
+83.102.217.235 1 1 35232 20171018141948
+37.204.148.246 1 11 413092 20171010223747
+109.188.127.242 1 96 2807161 20171012114648
+109.108.88.173 16 331 9097442 20171031124408
+37.59.119.196 1 1 53740 20171016064546
+54.166.226.182 2 12 452902 20171015105828
+198.144.182.55 0 7 1703 
+217.182.92.172 32 32 902067 20171024173550
+88.147.144.73 6 93 1676351 20171031104328
+199.30.24.74 0 2 36965 
+198.154.81.235 0 5 974 
+46.191.130.104 5 72 1626427 20171010102852
+93.171.138.46 1 1 53438 20171005024729
+199.30.24.188 0 2 37337 
+79.111.90.150 1 8 411749 20171027102237
+199.30.24.21 0 5 418502 
+81.1.242.33 25 25 707851 20171018122246
+128.69.211.127 1 18 453524 20171011145557
+93.77.4.126 2 22 506907 20171003234124
+65.55.210.15 0 1 31616 
+130.193.124.220 0 1 13345 
+128.69.154.222 1 1 53740 20171029000410
+213.110.5.12 1 18 457511 20171010123206
+199.30.24.81 0 1 7497 
+173.212.221.32 1 1 53740 20171028101932
+23.94.2.237 0 6 1215 
+206.123.95.204 0 6 1217 
+62.210.138.77 1 7 376306 20171018225227
+199.30.25.65 0 5 93813 
+65.55.210.199 0 1 2631 
+87.250.224.211 1 1 31905 20171007222815
+217.118.81.18 1 96 2807363 20171018152707
+65.55.210.172 0 4 108534 
+95.220.204.172 1 22 562139 20171029165209
+65.55.210.45 0 5 99636 
+109.195.85.122 2 2 80496 20171008210103
+65.55.210.182 0 2 35135 
+94.27.5.90 3 98 2890820 20171003133634
+87.228.25.115 1 1 53353 20171001035525
+185.100.84.82 1 1 53740 20171019195202
+217.107.106.132 5 39 789190 20171005185043
+65.55.210.185 0 1 3920 
+157.55.2.178 0 90 1803733 
+62.244.3.14 0 1 10556 
+46.0.111.160 1 1 53438 20171004235229
+176.120.254.41 1 1 53438 20171004224242
+199.30.24.61 0 2 11141 
+101.199.112.49 1 10 393893 20171007054539
+188.163.107.104 1 15 419337 20171006170129
+65.55.210.23 0 2 28358 
+194.152.36.148 3 23 533118 20171031064642
+176.59.201.153 2 84 1272124 20171017131332
+93.188.39.147 1 1 53629 20171010033700
+78.26.155.149 1 17 439607 20171002132315
+91.200.127.12 0 2 287998 
+78.111.186.127 0 1 8027 
+212.21.12.139 1 1 53479 20171006144742
+95.67.51.21 1 17 452515 20171004202805
+199.30.25.137 0 3 94384 
+77.222.115.74 2 23 503695 20171012180839
+92.37.145.63 0 2 28919 
+46.71.166.40 2 50 908792 20171023105540
+78.132.204.124 2 23 547812 20171003212942
+51.15.134.92 1 1 53740 20171013112141
+65.55.210.143 0 1 19458 
+188.234.118.26 1 1 53740 20171018235747
+95.220.206.50 1 11 398390 20171029232153
+199.30.24.179 0 10 390818 
+90.138.105.37 2 129 3221623 20171026083608
+91.196.159.197 28 616 12727397 20171023112535
+92.47.203.117 5 104 3000083 20171030103750
+176.193.125.171 1 1 53353 20171003021942
+178.168.160.51 1 18 459515 20171030072305
+178.154.148.67 0 1 243 
+131.253.27.97 0 7 303053 
+178.72.186.95 2 19 483310 20171013200014
+199.30.24.111 0 2 53267 
+94.25.229.205 1 16 423788 20171030210452
+194.226.109.150 1 18 459126 20171012164445
+88.119.158.67 7 103 3080803 20171024150323
+95.27.72.150 1 16 421095 20171013145755
+199.30.24.196 0 1 28364 
+78.25.16.176 3 98 2870096 20171003165604
+23.94.154.253 0 6 1215 
+194.67.220.50 8 8 215664 20171030055520
+66.102.6.95 1 1 176 20171013134113
+93.115.95.202 1 1 53353 20171002090235
+37.113.128.107 1 18 459515 20171031125808
+148.251.182.122 1 1 53479 20171008132255
+178.140.117.186 2 27 830119 20171015072224
+199.30.25.3 0 5 287344 
+46.188.29.95 1 11 403325 20171021112741
+88.99.2.220 2 2 107480 20171027080715
+91.247.192.69 1 96 2807385 20171030125745
+95.220.108.93 1 18 453524 20171012062101
+193.19.119.9 1 1 48858 20171008105602
+81.23.100.102 1 15 428204 20171003100029
+87.241.185.26 1 23 554066 20171031164708
+176.36.200.162 3 99 2899754 20171016123451
+176.193.117.190 1 10 391417 20171008044006
+185.202.103.15 1 1 53740 20171022045814
+95.79.115.38 7 49 1103859 20171026131922
+123.126.113.167 1 1 53740 20171012100548
+195.239.5.246 1 16 428052 20171026094517
+213.111.213.2 4 4 214699 20171026104546
+66.102.6.113 1 1 176 20171027095215
+5.227.7.161 1 1 53740 20171022233646
+218.248.73.193 1 1 36268 20171028193125
+176.193.160.222 0 3 38336 
+193.19.119.20 1 1 48858 20171008105731
+128.73.24.245 1 25 493657 20171009230434
+199.30.24.245 0 5 79390 
+199.30.24.226 0 2 23195 
+95.165.131.246 1 11 414295 20171014040058
+145.239.89.245 1 1 53479 20171007151609
+176.37.213.14 1 96 2807161 20171017131641
+37.17.172.122 19 19 782082 20171014204111
+101.199.112.50 1 10 389349 20171007054558
+83.221.171.152 4 115 3108135 20171019225207
+37.214.48.11 1 22 514572 20171022130005
+89.78.213.56 5 5 161572 20171019133741
+93.170.187.48 3 3 160959 20171020205045
+109.63.252.6 1 11 411322 20171020165748
+89.178.231.211 1 18 459515 20171025212744
+176.193.124.71 1 11 403261 20171018141948
+199.30.25.100 0 8 126846 
+46.201.55.98 4 176 3789554 20171019112703
+46.188.71.126 1 11 402510 20171030034154
+79.110.130.238 5 5 265873 20171003042243
+81.177.49.242 1 1 39656 20171015112822
+128.72.221.187 2 30 892122 20171030213413
+77.120.94.232 1 1 36205 20171024144706
+178.73.196.185 1 1 53353 20171002031632
+93.178.246.102 1 96 2807363 20171019095817
+188.166.66.34 1 16 36637 20171030081316
+156.67.106.103 1 1 53353 20171003003945
+87.245.167.75 1 18 459350 20171025151509
+37.113.39.51 2 2 92391 20171022204440
+65.55.210.68 0 1 6751 
+185.62.57.91 1 1 53740 20171012111830
+52.34.24.33 8 8 429533 20171031144221
+94.23.56.95 1 1 36268 20171030062850
+38.131.145.97 1 1 53740 20171011211708
+2.93.94.235 1 1 53740 20171018130929
+195.211.23.209 0 1 14192 
+199.30.25.82 0 1 4579 
+85.237.53.221 1 18 459328 20171019093152
+107.173.241.249 1 8 1833 20171005103350
+213.194.221.130 2 98 2846238 20171030143238
+188.239.21.106 1 96 2807385 20171026160706
+37.145.8.142 1 18 445180 20171021170149
+199.30.24.93 0 2 41092 
+199.30.24.210 0 2 40918 
+66.102.9.149 0 20 903971 
+217.15.28.198 2 27 820438 20171019094710
+65.55.210.52 0 1 10521 
+131.253.27.48 0 1 1254 
+40.77.178.32 0 91 2720060 
+77.222.153.13 4 148 3484266 20171017191441
+46.219.222.191 1 16 422418 20171027095129
+66.249.93.81 2 56 1373052 20171024100129
+93.183.226.174 7 90 1559657 20171003174919
+178.74.216.125 6 62 1309053 20171028122025
+94.153.211.174 2 98 2840449 20171024172206
+109.126.148.200 2 17 463352 20171016122412
+5.59.53.126 2 25 648701 20171011170404
+91.232.188.130 1 23 585333 20171006143740
+138.128.0.251 1 7 1597 20171005103351
+178.136.13.30 3 98 2860421 20171010181425
+188.165.4.128 14 14 734297 20171022221942
+217.182.94.191 16 16 504716 20171024165209
+92.242.127.202 2 108 2957519 20171017110729
+178.163.48.160 1 18 446527 20171026224328
+77.123.92.126 4 36 859871 20171010210448
+103.255.254.123 2 2 107480 20171030071631
+94.51.40.120 1 18 459350 20171030205443
+184.72.208.207 1 1 40248 20171006033946
+95.158.49.68 25 224 4892176 20171002231333
+109.252.90.236 1 8 399071 20171026161606
+95.158.43.223 11 70 1687944 20171005185828
+199.30.24.177 0 3 80749 
+199.30.25.249 0 1 8142 
+95.132.24.81 1 96 2807385 20171023114401
+178.90.150.229 0 1 10014 
+100.35.47.77 18 18 398072 20171008115850
+46.211.67.254 1 1 53406 20171010100323
+65.55.210.105 0 1 257835 
+188.255.23.139 1 11 403365 20171019134611
+138.128.4.121 2 8 1985 20171005103351
+95.237.162.35 5 167 2638051 20171019171037
+131.253.25.225 0 1 1254 
+178.140.62.114 1 11 403387 20171024193106
+37.187.129.166 1 1 53740 20171014180608
+92.255.228.70 1 25 497538 20171028010317
+109.227.79.179 2 96 2853894 20171006113148
+213.87.122.30 3 3 528 20171013120534
+79.165.239.242 6 6 322068 20171027105350
+46.39.228.42 1 21 458784 20171001021626
+87.252.225.144 2 18 462641 20171022211210
+151.80.238.152 1 1 53479 20171005182709
+199.30.24.243 0 1 4579 
+52.4.244.57 1 1 53479 20171007113707
+5.165.182.247 1 21 555345 20171009094250
+51.15.134.120 1 1 53438 20171004141511
+178.213.105.79 4 37 960297 20171014083004
+65.55.210.37 0 1 32504 
+88.135.215.97 12 275 6850154 20171007215419
+65.55.210.9 0 1 1254 
+101.199.112.51 1 10 391253 20171007054516
+176.193.188.12 1 11 399506 20171009164052
+78.137.22.56 0 3 26389 
+66.249.93.214 1 26 727406 20171006162119
+37.182.60.27 1 16 430244 20171027183856
+93.178.204.170 1 20 500157 20171019211110
+199.30.25.180 0 2 25577 
+46.219.208.182 2 185 155376 20171012161038
+199.30.25.191 0 1 21284 
+95.220.102.168 1 10 399484 20171029004015
+92.135.172.245 0 7 0 
+193.201.83.13 1 96 2807363 20171019165007
+93.185.74.86 7 78 1489166 20171022115516
+82.207.100.82 5 101 2953875 20171023115300
+46.42.51.126 1 22 561915 20171011225138
+193.104.149.149 1 25 497314 20171012005937
+188.187.190.59 2 2 53916 20171021041310
+87.240.37.133 1 25 497516 20171019132753
+199.30.25.7 0 1 6694 
+185.158.113.153 1 1 43816 20171008105602
+176.197.163.102 2 13 80708 20171023073249
+46.211.7.166 1 18 459493 20171018172545
+66.249.93.223 2 7 128954 20171001163008
+94.25.171.128 2 100 2875664 20171030135233
+88.99.141.3 1 1 53740 20171023014354
+188.162.73.131 0 5 82178 
+176.193.116.150 1 18 453582 20171029080159
+199.30.25.135 0 1 29559 
+217.182.93.250 26 26 725125 20171026133822
+185.98.91.126 1 95 2800512 20171004073130
+199.30.25.29 0 2 6138 
+188.187.51.177 1 16 423912 20171018155301
+199.30.24.118 1 12 420102 20171024143132
+35.184.194.93 1 1 53517 20171031172554
+109.253.129.235 4 40 833536 20171014210219
+46.174.163.155 8 285 8070957 20171006171824
+31.43.24.193 1 18 459126 20171012143646
+199.30.25.148 0 9 160417 
+34.212.29.249 1 1 380 20171020213852
+66.102.9.4 8 147 3062128 20171027150101
+178.62.30.102 3 3 160959 20171018145848
+66.102.9.153 1 14 245984 20171009075331
+194.79.23.62 2 17 473686 20171027101328
+91.77.87.116 1 17 452042 20171001200500
+188.166.60.118 1 22 194414 20171026142546
+219.147.88.228 1 1 36268 20171024044549
+65.55.210.116 0 10 342689 
+199.30.25.116 0 1 24495 
+172.245.236.123 1 1 53740 20171027080021
+196.19.158.64 1 1 53740 20171030040025
+5.167.255.140 1 1 176 20171017121338
+95.67.79.162 1 96 2807385 20171023111026
+199.30.25.56 0 2 22354 
+83.220.239.48 1 22 514452 20171018124226
+199.30.24.23 0 1 28560 
+199.30.25.175 0 1 56795 
+80.94.229.155 1 17 452721 20171006130709
+104.40.84.61 2 2 106955 20171011103615
+13.93.222.185 1 1 53517 20171012011140
+62.65.199.4 2 26 550511 20171012162026
+195.238.108.89 8 8 215277 20171029163808
+94.153.198.126 0 21 0 
+194.29.63.194 1 18 459328 20171020102003
+65.55.210.66 0 2 25017 
+188.146.129.64 1 17 492063 20171018093353
+54.224.85.18 1 11 415672 20171015105826
+65.55.210.138 0 2 36202 
+52.163.62.13 3 3 108804 20171028064309
+66.102.6.109 1 1 176 20171027004533
+176.193.127.198 1 11 406056 20171012001007
+185.182.81.76 1 95 2437495 20171003151630
+176.124.165.107 5 82 1926119 20171011194715
+199.30.25.69 0 4 56802 
+199.30.24.89 0 1 14568 
+82.200.251.182 0 1 9654 
+13.56.115.4 1 1 53740 20171019140815
+109.63.180.210 1 11 415672 20171017105052
+65.55.210.131 0 1 30736 
+65.55.210.201 0 3 46433 
+128.68.33.239 1 5 46347 20171029080200
+46.229.170.197 4 4 214438 20171025085842
+193.41.4.85 3 98 2891043 20171003141859
+95.191.18.208 0 2 37976 
+66.102.6.211 3 3 528 20171005060603
+91.200.127.4 0 3 37296 
+5.141.0.44 1 18 459515 20171020210938
+89.178.238.219 1 16 426131 20171022124907
+94.181.168.76 1 22 561915 20171013131508
+107.167.107.85 1 25 553371 20171020012850
+46.4.121.182 2 119 3436862 20171010112535
+31.41.89.104 1 18 453582 20171020234227
+85.117.96.168 1 1 40556 20171012195802
+145.239.89.247 1 1 53479 20171007094142
+95.220.79.165 1 22 490582 20171001021229
+35.195.231.211 1 95 2800597 20171004144142
+66.249.88.4 2 2 352 20171017144954
+199.30.24.91 0 1 32504 
+46.72.98.86 1 18 459126 20171014215531
+90.154.70.118 1 1 53740 20171029161731
+37.58.52.81 3 129 3181185 20171011103508
+31.130.2.207 5 5 268700 20171027054111
+37.110.210.251 2 19 499848 20171030152302
+66.249.93.79 4 45 803698 20171024100208
+37.72.43.28 1 1 176 20171008203129
+40.77.177.58 0 4 35787 
+46.161.9.23 3 3 160059 20171004022332
+183.240.200.165 35 35 1490024 20171025105352
+31.129.70.212 4 135 3332531 20171017085442
+195.34.15.134 3 20 459867 20171027190649
+37.157.216.153 1 16 422328 20171028214448
+159.89.14.214 1 1 36268 20171031152717
+176.112.237.121 1 18 458266 20171010223623
+79.172.193.32 1 1 53353 20171001123438
+178.46.208.102 3 19 452908 20171006084706
+192.230.41.36 1 1 53740 20171030072835
+37.110.150.20 0 6 45491 
+40.77.179.11 0 93 2742275 
+38.80.27.184 1 1 53740 20171019144748
+40.77.178.39 0 91 1836461 
+40.77.178.223 0 9 357577 
+65.55.210.39 0 1 17879 
+37.110.97.74 1 11 406280 20171031110721
+5.76.105.65 1 16 428052 20171025061124
+94.100.29.242 1 1 53740 20171013133555
+199.30.24.28 0 2 44912 
+185.163.1.11 1 1 53740 20171012205937
+93.75.165.146 1 1 32869 20171018203523
+179.61.187.119 1 1 53740 20171012031517
+95.153.134.171 1 18 459515 20171027181330
+34.214.255.47 1 1 36268 20171025190142
+165.227.129.191 1 21 464730 20171005141331
+145.255.177.1 1 1 53740 20171031004944
+31.129.244.197 3 3 528 20171022143755
+5.167.116.254 1 11 400728 20171022181919
+199.30.24.224 0 1 15204 
+116.199.2.196 1 1 36268 20171024064507
+13.113.49.68 1 1 53740 20171026090041
+188.226.129.55 1 1 53479 20171005190520
+46.211.204.183 2 4 88302 20171010034553
+65.55.210.0 0 1 30736 
+65.55.210.195 0 1 3648 
+199.30.24.149 0 1 37873 
+185.190.151.44 0 1 13321 
+136.243.95.186 2 2 93256 20171014024239
+95.158.53.189 3 48 806667 20171015125814
+46.62.2.144 10 10 413690 20171023084226
+192.198.124.173 1 8 1850 20171005103351
+86.127.230.111 1 1 53740 20171013072854
+193.19.119.119 1 1 43816 20171008105731
+199.30.24.186 0 1 28364 
+94.41.65.87 1 1 35518 20171005005321
+199.30.24.75 0 2 18972 
+92.62.136.149 3 111 2988051 20171010104515
+46.242.63.61 3 3 161220 20171025175646
+151.249.164.95 1 1 53438 20171004172529
+95.220.80.138 1 1 40923 20171008201235
+213.169.84.167 3 99 2879107 20171028115646
+31.134.120.16 1 15 417851 20171002040959
+88.229.194.207 1 94 2784800 20171012095128
+128.30.52.72 1 1 35542 20171004174505
+91.211.126.49 12 193 4226608 20171013094607
+94.233.127.18 3 19 453032 20171005081328
+185.100.86.128 1 1 53353 20171002175448
+94.25.176.97 1 1 53740 20171027081340
+81.23.5.84 2 98 2846014 20171012082529
+66.102.9.31 11 180 4648469 20171025122952
+185.30.203.132 1 17 452595 20171003084507
+82.193.124.246 1 1 176 20171022211754
+77.243.183.72 1 1 53353 20171003221208
+37.110.211.214 2 17 473686 20171024202948
+128.71.4.203 1 25 497538 20171030083045
+109.251.137.50 1 96 2806301 20171011122910
+91.193.130.172 1 1 53740 20171013162241
+146.185.223.33 1 1 53740 20171014141643
+38.80.23.237 1 1 53740 20171011163527
+8.37.235.19 1 16 429099 20171022154535
+37.144.45.133 2 21 810730 20171010223746
+84.201.148.84 0 1 243 
+178.171.31.144 1 1 53740 20171029081712
+45.32.155.220 1 1 53438 20171004205138
+195.20.97.210 1 23 550185 20171010095352
+176.15.28.91 13 123 4437325 20171026145946
+54.177.186.237 1 1 53740 20171013171244
+94.23.41.139 1 1 176 20171007063418
+178.137.162.105 1 1 53438 20171005000418
+199.30.24.168 0 1 30740 
+212.96.90.124 1 96 2807161 20171016173612
+176.54.143.48 1 22 490843 20171015031031
+218.50.2.102 1 1 36268 20171028214804
+194.88.150.2 13 183 4259297 20171027153605
+66.249.88.77 1 1 176 20171019012013
+199.30.24.98 0 6 141735 
+178.95.20.34 1 95 2800512 20171002215213
+46.188.77.140 1 1 176 20171005170835
+109.105.59.22 2 2 107480 20171026180648
+46.211.5.187 1 18 459291 20171013124401
+109.236.87.212 1 1 53740 20171019220121
+176.9.62.226 1 1 53740 20171011210355
+46.38.126.107 1 1 53740 20171017095118
+65.55.210.19 0 2 12372 
+199.30.24.127 0 1 32738 
+77.243.183.84 2 2 93831 20171006120519
+176.15.198.120 1 1 176 20171005222625
+95.220.198.151 1 11 415874 20171019134604
+5.76.161.17 1 1 53479 20171006142210
+94.158.70.97 3 3 160572 20171010160115
+82.145.222.209 1 19 464296 20171030152751
+178.54.42.186 6 276 7813956 20171026114425
+35.193.95.62 1 1 53740 20171024160457
+199.30.25.192 0 4 48172 
+107.175.79.62 1 8 1853 20171005103350
+95.46.64.18 5 83 2711371 20171017084812
+79.111.132.208 1 1 53479 20171007140549
+213.230.79.35 1 22 514348 20171015211907
+37.57.105.101 0 1 11191 
+37.115.189.113 1 1 53438 20171004162257
+101.199.108.50 1 10 391392 20171007054718
+65.55.210.35 0 1 1846 
+2.94.15.221 1 22 514572 20171025201806
+178.155.5.188 1 1 57021 20171023111859
+178.218.208.194 3 267 7435740 20171005105140
+5.166.105.195 1 25 497538 20171028143342
+65.55.210.44 0 2 36561 
+5.196.189.50 1 1 36268 20171030074606
+77.66.226.66 3 32 655006 20171014202925
+93.78.96.135 0 4 52286 
+213.160.158.86 2 97 2837860 20171004160941
+58.26.10.67 1 1 36268 20171025172958
+81.23.98.178 3 40 692171 20171010162119
+52.71.64.37 1 1 53479 20171007164023
+46.229.61.118 1 11 407560 20171023172846
+199.30.24.77 0 1 1254 
+46.215.85.233 3 99 2898960 20171019114259
+46.56.171.148 1 23 553946 20171017170623
+37.46.134.204 0 1 4946 
+46.133.62.107 1 15 423308 20171006175519
+199.30.25.159 0 2 34325 
+92.60.188.197 1 95 2800638 20171009111515
+88.199.82.214 1 96 2807385 20171031163051
+178.215.190.101 1 26 519170 20171026141248
+199.30.25.85 0 3 74821 
+93.84.164.220 7 97 1768585 20171009212840
+46.167.84.110 1 1 53740 20171028023604
+199.30.25.177 0 1 2028 
+94.76.72.102 18 110 1728622 20171031170053
+46.241.131.93 1 23 585333 20171006123246
+83.69.12.113 2 2 352 20171011182122
+199.30.25.13 0 2 36069 
+193.151.199.200 1 25 497516 20171019015448
+172.82.186.171 1 1 53629 20171009222355
+65.55.210.29 0 1 15204 
+83.102.217.165 1 4 53325 20171014040059
+77.233.196.239 2 2 53916 20171012201037
+176.214.236.247 2 2 106706 20171001120709
+109.202.9.131 1 25 497538 20171027085410
+41.104.247.247 1 15 420139 20171005224349
+31.173.85.144 1 22 762186 20171009075918
+65.55.210.77 0 1 35408 
+78.29.72.5 1 24 490744 20171007230138
+207.154.234.87 1 25 587348 20171026172602
+37.57.177.209 1 1 53740 20171029031032
+62.133.162.135 3 19 500951 20171031180754
+81.20.161.230 2 26 609788 20171019112905
+202.21.116.190 1 1 53740 20171021224609
+176.213.194.39 1 1 53438 20171004131157
+193.19.119.4 1 1 37700 20171005101430
+91.232.188.5 1 1 35576 20171020080714
+37.229.143.60 1 22 514572 20171031005526
+212.90.189.122 1 96 2807363 20171019145946
+195.211.23.210 0 1 24203 
+178.120.77.77 1 22 514572 20171021153256
+66.102.9.151 0 20 950167 
+198.50.219.232 1 1 36268 20171030130123
+213.184.227.92 4 41 1017477 20171027103033
+188.255.20.147 1 11 397812 20171027222146
+46.229.61.25 8 139 3428650 20171022210305
+82.209.251.168 7 155 3780863 20171002120331
+109.252.58.128 2 2 53916 20171016230412
+159.224.243.194 0 10 131656 
+134.249.9.68 0 1 2627 
+213.135.147.113 3 25 644997 20171026164426
+188.255.16.153 1 17 439733 20171009094249
+213.21.30.95 1 1 53740 20171024123218
+199.30.25.99 0 1 4579 
+199.30.24.34 0 2 31901 
+54.36.98.167 1 1 53479 20171007124208
+131.253.27.110 0 1 1254 
+212.90.173.250 2 98 2846238 20171026223225
+199.30.25.60 0 3 32435 
+131.253.25.227 0 1 32504 
+195.22.127.43 5 5 55260 20171026220540
+46.148.21.33 2 2 53529 20171003180118
+199.30.24.198 0 2 275610 
+5.35.24.53 6 6 320414 20171006143424
+65.55.210.134 0 1 25281 
+107.167.109.166 1 22 514572 20171030004301
+65.55.210.208 0 2 40282 
+178.238.18.78 1 16 421297 20171019110958
+128.68.223.155 1 4 331631 20171030034154
+90.143.28.180 2 23 545064 20171012184746
+35.200.45.152 1 1 53629 20171010000735
+176.15.57.196 1 96 2807385 20171022193951
+95.28.166.52 2 22 801541 20171029201927
+178.44.185.101 1 1 53740 20171031223922
+95.46.45.83 1 1 53740 20171022003536
+198.50.219.239 1 1 36268 20171026113155
+199.30.24.166 0 2 50189 
+88.119.49.30 2 42 675171 20171017131621
+37.110.211.144 0 1 13345 
+66.249.93.222 1 8 362777 20171001162749
+95.188.164.160 2 22 516911 20171006125704
+91.242.192.213 0 1 17727 
+217.182.91.132 21 21 658612 20171024171159
+218.30.103.128 1 1 53353 20171002083448
+92.255.236.146 1 18 459328 20171019090930
+91.195.90.99 2 2 36102 20171006152403
+199.30.24.144 0 1 3680 
+83.174.215.245 4 19 529658 20171017102000
+66.102.6.207 1 1 176 20171002040309
+62.210.111.21 1 1 37230 20171012141357
+199.30.24.70 0 1 4057 
+165.227.105.146 1 1 53740 20171030035926
+185.188.182.230 1 1 53740 20171026172331
+95.213.141.126 8 8 429316 20171026065936
+199.30.25.53 0 4 151206 
+37.9.113.51 1 1 31905 20171007222815
+37.145.123.9 1 14 404441 20171027171228
+109.63.207.101 1 15 417977 20171009094250
+78.137.7.154 0 2 12112 
+199.30.25.5 0 5 70553 
+46.49.24.204 2 34 774621 20171021154649
+128.30.52.73 1 1 53438 20171005111540
+211.20.238.33 1 1 36268 20171030185742
+195.234.68.10 0 1 13058 
+106.120.162.108 2 165 4408278 20171028063604
+199.30.25.125 0 1 4057 
+83.171.103.58 3 22 559914 20171018115105
+212.90.60.14 5 143 3384467 20171013075452
+91.244.56.73 1 1 53740 20171025023534
+62.210.80.48 3 3 161220 20171024155526
+37.204.152.229 1 10 395254 20171008044007
+194.247.173.18 0 1 5418 
+95.78.125.169 1 18 455634 20171009152454
+178.159.37.15 1 1 53479 20171009080027
+95.220.198.52 1 18 459350 20171023022144
+176.214.146.107 1 1 53740 20171019234127
+91.195.214.15 18 213 4567760 20171018122804
+199.30.25.169 0 1 257835 
+195.144.14.198 1 17 428507 20171002173553
+194.183.183.82 1 96 2807161 20171011172941
+46.42.130.227 1 1 53740 20171017014241
+136.243.95.154 1 1 46628 20171028084350
+199.30.24.202 0 5 77040 
+83.102.135.147 1 18 446407 20171017181254
+138.197.43.234 1 1 53353 20171003005750
+91.232.158.124 2 2 81574 20171009172904
+199.30.25.107 0 2 74860 
+31.163.84.26 1 17 439607 20171001214520
+178.209.66.172 2 2 352 20171009132944
+77.243.183.164 1 1 53740 20171022121503
+128.72.107.126 1 18 459515 20171029163322
+95.220.85.175 0 1 12611 
+65.55.210.34 0 2 11598 
+199.30.24.13 0 1 47934 
+37.73.195.101 9 116 2212782 20171011133220
+178.90.13.236 1 1 53353 20171001085812
+66.249.88.1 1 1 176 20171006234447
+144.217.163.70 1 1 53479 20171007010219
+46.28.93.163 1 1 53740 20171017040106
+101.199.108.118 1 10 409149 20171007054646
+54.221.189.3 2 12 453126 20171028181757
+45.124.170.229 1 1 36268 20171028233931
+91.232.128.35 0 2 22732 
+176.193.118.164 1 1 53740 20171025044011
+54.245.134.203 1 1 53740 20171027080025
+91.200.127.13 1 5 106007 20171011073104
+65.55.210.160 0 1 3543 
+195.95.211.218 1 96 2807385 20171026120758
+178.150.241.17 22 206 4261407 20171030163444
+213.184.226.167 2 98 2846238 20171025153725
+195.78.113.130 2 22 486666 20171009103527
+91.78.113.54 1 11 399824 20171027142531
+195.22.131.194 10 196 4116974 20171023102018
+199.30.24.79 0 2 19891 
+62.182.124.229 23 548 11861174 20171025212412
+65.55.210.122 0 3 64468 
+195.20.154.138 3 116 3305588 20171031100318
+188.68.213.147 1 1 53479 20171005130714
+128.74.197.102 1 1 53479 20171008062421
+199.30.24.94 0 2 28534 
+91.202.128.12 1 96 2805748 20171010131601
+96.85.35.233 1 1 36268 20171027015516
+67.207.83.58 1 1 53629 20171010055807
+109.86.252.250 3 99 2576965 20171013150905
+5.166.168.43 3 3 107008 20171008205820
+198.240.103.216 1 1 53479 20171006044756
+38.100.21.65 4 5 157732 20171009144534
+95.28.170.176 1 10 382561 20171024235101
+199.30.25.124 0 1 1254 
+13.57.26.12 1 96 2807363 20171019140845
+176.125.107.248 1 25 497538 20171028025228
+188.32.18.237 1 18 469236 20171010223751
+195.230.128.138 8 227 6144752 20171006133043
+188.234.179.101 1 1 53479 20171009020935
+199.30.24.215 0 2 50383 
+185.93.184.62 1 22 543209 20171017133952
+66.249.93.215 0 17 755009 
+65.55.210.129 0 8 100593 
+199.30.24.49 0 6 63122 
+78.106.212.115 1 24 490744 20171008200310
+188.163.30.162 1 17 452721 20171006085833
+62.255.12.3 1 1 36268 20171027051108
+89.234.157.254 1 16 422942 20171025041210
+65.55.210.64 0 7 303542 
+199.30.24.248 0 1 18665 
+176.121.78.149 10 103 2479149 20171011112430
+176.126.252.11 1 1 53353 20171002011217
+82.146.57.46 4 4 107832 20171031210753
+213.184.254.168 2 35 911721 20171013112143
+199.30.24.54 0 1 56795 
+46.219.221.214 5 101 2968515 20171017202930
+65.55.210.175 0 1 257835 
+65.55.210.36 0 2 104729 
+93.84.43.44 1 1 53740 20171010223345
+188.255.50.81 1 19 476226 20171023022144
+178.219.92.77 5 98 1641710 20171020111043
+195.22.126.26 1 1 53438 20171005102830
+184.22.240.167 1 1 53740 20171029124130
+37.139.101.63 1 1 53740 20171031063450
+169.50.62.91 1 1 53740 20171017104150
+199.30.25.78 0 3 34965 
+46.33.245.32 2 97 2837690 20171004091415
+65.55.210.88 0 1 28560 
+107.23.105.215 1 1 53740 20171031132311
+80.137.84.59 1 23 553842 20171011214813
+217.23.93.18 1 18 465863 20171017125318
+203.146.82.253 2 2 72536 20171026215204
+210.242.193.226 1 1 53479 20171008130126
+95.24.1.85 1 11 402255 20171029214534
+80.18.65.162 5 101 2968410 20171020163353
+104.237.242.124 1 1 53740 20171012115005
+37.17.38.196 1 1 53479 20171006142530
+199.30.25.37 0 2 35319 
+199.30.25.129 0 1 20133 
+207.244.83.212 1 16 428475 20171013163637
+23.254.45.191 0 4 730 
+31.130.6.148 6 6 322440 20171030215030
+77.93.43.154 3 29 644033 20171030112059
+54.190.35.48 1 1 53740 20171026113807
+87.229.64.33 0 1 27785 
+80.77.38.50 11 332 7815585 20171025214847
+5.165.148.63 2 2 53916 20171010134559
+65.55.210.73 0 15 453715 
+37.113.27.25 2 2 95496 20171008033712
+177.35.108.77 1 1 53740 20171026081404
+178.141.170.215 1 25 497538 20171021091653
+54.85.62.91 1 1 53740 20171031111449
+178.54.21.111 1 1 37004 20171031205225
+62.210.75.104 1 7 375496 20171008032004
+46.242.60.166 1 11 403303 20171018225351
+178.159.226.72 2 97 2837860 20171004121635
+37.187.78.81 3 3 160959 20171014142703
+91.196.158.242 2 97 2834862 20171003121251
+176.15.179.126 2 12 453943 20171031011541
+199.30.24.104 0 3 40519 
+46.229.61.29 1 18 459291 20171014202536
+199.30.24.69 0 2 273288 
+199.30.25.165 0 8 117643 
+77.112.229.237 2 97 2860902 20171026132032
+65.55.210.49 0 1 33882 
+199.30.24.24 0 2 12621 
+213.109.226.69 4 99 2967936 20171028131431
+5.44.168.164 0 2 37976 
+185.153.197.44 2 2 107480 20171031174015
+95.220.195.188 1 11 401628 20171010223748
+176.193.189.60 1 18 453748 20171027012106
+65.55.210.80 0 1 37873 
+188.25.243.63 1 1 380 20171012093545
+195.211.80.110 2 86 1297825 20171011135134
+217.182.93.87 29 29 805189 20171024172443
+37.220.35.202 2 2 107480 20171013210003
+46.112.133.228 1 17 501247 20171013231109
+212.82.193.54 4 197 5945484 20171024185350
+145.239.89.20 1 1 53479 20171006192621
+46.211.117.171 5 20 331463 20171009190919
+93.175.197.177 1 22 490843 20171017142417
+199.30.24.161 0 2 38865 
+109.63.194.218 1 10 409149 20171008201232
+212.90.62.52 0 41 700516 
+93.72.227.50 2 98 2846014 20171013214514
+45.76.53.88 1 1 36268 20171030161114
+62.80.191.255 1 96 2807385 20171027114351
+176.59.33.245 1 14 404441 20171029052911
+65.55.210.212 0 2 64354 
+199.30.24.4 0 1 4579 
+95.84.250.79 2 12 404545 20171031110715
+185.117.74.84 1 1 53740 20171028022936
+128.72.77.181 1 18 453748 20171023022145
+46.133.244.9 0 2 0 
+217.118.95.99 1 22 514572 20171029104213
+92.249.101.90 1 18 453582 20171024111833
+176.192.198.107 4 115 3286173 20171010102616
+199.30.24.182 0 3 40978 
+93.125.1.164 1 16 426932 20171012143803
+188.231.184.141 3 58 1894006 20171031134535
+79.105.234.177 0 3 33198 
+128.30.52.64 1 1 53438 20171005104124
+146.185.223.111 1 1 53740 20171030022610
+128.74.181.43 0 6 64093 
+101.199.108.59 1 10 388229 20171007054827
+65.55.210.136 0 1 1254 
+199.30.25.156 0 2 33102 
+46.133.69.50 1 23 549899 20171005185028
+83.69.178.2 1 18 459350 20171030081240
+62.133.162.230 1 21 457689 20171003200227
+145.255.2.227 1 1 32253 20171010195702
+199.30.25.239 0 1 23172 
+128.72.45.32 1 11 415672 20171013092311
+109.254.130.3 8 214 5083884 20171031151723
+95.67.121.18 6 163 3686268 20171013103017
+218.30.103.89 1 1 53353 20171002154356
+31.172.136.251 1 96 2807265 20171018120340
+195.78.113.13 2 98 2841876 20171013112232
+89.232.134.150 2 19 500071 20171031053148
+199.30.24.146 0 2 6138 
+128.75.93.202 1 11 402286 20171012173629
+85.140.7.178 1 17 452556 20171008160144
+195.22.126.40 1 1 53438 20171004202525
+193.150.88.1 1 96 2807363 20171019112105
+213.186.117.11 30 30 1609195 20171031042910
+47.90.203.115 2 2 107480 20171014142318
+185.182.81.134 1 51 902931 20171005154800
+172.82.185.210 1 1 53740 20171027173259
+46.174.165.80 4 99 2922932 20171002163734
+199.30.24.239 0 2 5833 
+91.202.144.27 2 96 106260 20171003111940
+207.46.13.124 1 1 40556 20171023143059
+146.120.97.2 1 18 453582 20171023101000
+37.214.0.50 2 35 734220 20171022185736
+95.24.18.154 0 1 2631 
+109.254.1.40 1 1 176 20171003165641
+65.55.210.40 0 2 62502 
+157.55.2.184 0 81 1474305 
+31.148.253.65 2 24 564169 20171020212003
+87.117.13.252 1 25 497314 20171012081934
+185.31.172.234 1 1 53740 20171014152334
+103.255.254.135 1 1 53740 20171029224530
+178.46.215.2 1 18 458266 20171010152726
+93.175.201.115 16 346 7679369 20171013144419
+193.84.22.122 2 98 2845122 20171017173928
+65.55.210.203 0 1 56795 
+178.34.158.23 14 14 551712 20171017001339
+195.123.211.67 1 1 53740 20171028053202
+38.80.27.112 1 1 53740 20171019144222
+199.30.24.20 0 1 20133 
+62.183.127.76 3 99 2879107 20171024214019
+109.63.233.185 1 16 430327 20171023022145
+5.196.1.129 1 1 53479 20171005135501
+199.30.25.102 0 1 5624 
+94.158.90.27 1 1 37303 20171020142819
+93.157.12.243 1 22 467643 20171010094032
+212.90.172.226 8 152 3523095 20171027141849
+95.56.79.64 1 17 452556 20171005163154
+176.36.230.182 2 94 1924916 20171022105817
+104.144.209.45 2 79 1304391 20171005103350
+83.218.214.249 0 1 9241 
+95.104.69.138 1 21 521046 20171006170051
+158.46.200.132 1 1 53740 20171026192430
+122.226.183.77 3 3 161220 20171031143300
+178.159.37.11 3 3 161220 20171019071629
+2.92.197.146 0 1 13628 
+217.67.190.218 1 23 554066 20171030152912
+46.50.152.70 0 1 9873 
+163.172.4.153 5 5 268052 20171027201606
+199.30.24.148 0 5 95852 
+74.208.183.74 1 1 53740 20171031070410
+144.217.167.39 1 1 53479 20171007064617
+89.238.176.111 1 1 53740 20171021045941
+95.221.53.98 1 1 53629 20171010000956
+178.34.140.114 1 16 432497 20171016092336
+109.195.23.178 4 38 958783 20171027101851
+62.80.176.83 3 194 5649037 20171012174130
+5.227.7.216 3 134 3314885 20171001205945
+85.93.45.254 2 36 609787 20171018142502
+169.56.111.130 1 1 36268 20171031222315
+31.173.84.153 1 15 414643 20171012185832
+95.220.110.172 0 1 2877 
+199.30.25.92 0 10 226097 
+79.111.140.79 1 10 409383 20171002110737
+82.117.249.30 1 22 514572 20171031133744
+194.213.107.127 1 96 2807385 20171027210720
+128.72.62.123 1 1 53740 20171015162827
+178.122.197.45 1 16 432782 20171020134130
+144.217.243.95 1 1 53479 20171007213305
+46.109.179.186 1 1 40556 20171020134002
+217.118.79.35 1 16 430103 20171012043015
+66.102.6.111 1 1 176 20171027095218
+46.133.113.124 2 22 499405 20171001183216
+62.122.182.106 10 10 269580 20171029184738
+147.135.137.81 15 15 617325 20171002130738
+178.151.37.137 14 136 3511739 20171012154324
+62.33.232.191 1 18 459515 20171031083634
+176.214.135.100 1 1 53438 20171005042012
+131.253.27.90 0 13 144561 
+199.30.25.146 0 1 28666 
+217.21.54.94 0 15 388083 
+79.111.82.131 1 18 439752 20171019093633
+93.170.111.114 1 1 53740 20171013113331
+193.238.130.165 2 20 483972 20171018190712
+77.245.111.225 2 25 629014 20171018134722
+151.18.139.96 0 4 40496 
+116.199.2.208 1 1 36268 20171025154448
+66.102.8.145 1 1 176 20171012061136
+5.59.53.130 6 6 161361 20171026160913
+131.253.25.245 0 1 3543 
+89.218.94.140 21 277 6878730 20171019124310
+109.95.47.209 2 97 2860901 20171014190812
+199.30.25.245 0 1 18080 
+52.221.244.122 1 1 36268 20171030040459
+156.67.106.30 1 1 53353 20171002173758
+185.220.33.76 1 1 53438 20171004162619
+199.30.24.142 0 3 81116 
+82.196.9.227 2 99 2866113 20171010173424
+87.118.122.50 1 1 53763 20171014014315
+82.200.133.34 1 18 459515 20171020123446
+213.159.240.26 7 148 3531047 20171004123321
+218.30.103.165 1 1 53740 20171014145551
+65.55.210.51 0 1 6237 
+91.231.55.2 1 22 513488 20171011073505
+213.230.76.135 0 3 38006 
+212.96.92.50 1 18 453748 20171025065126
+178.121.6.253 0 1 14121 
+69.58.178.57 10 10 418868 20171021001404
+88.36.176.57 2 24 585398 20171005185300
+65.55.210.69 0 3 64029 
+185.38.14.215 4 4 214291 20171021102731
+65.55.210.98 0 2 22312 
+46.55.19.97 1 1 53740 20171024111123
+158.46.203.201 1 1 53740 20171022132857
+37.230.161.113 1 22 511145 20171026145018
+85.140.1.132 1 17 452515 20171004140024
+92.39.216.77 1 1 53438 20171004171544
+176.99.70.198 1 1 53479 20171006142432
+80.90.228.172 1 19 493259 20171004005337
+65.55.210.190 0 4 281068 
+46.133.46.66 0 28 624663 
+91.231.229.33 1 1 46274 20171006122005
+149.56.133.142 1 1 53479 20171006221239
+104.45.18.178 3 3 127746 20171012142759
+95.163.107.74 1 1 53740 20171021121627
+199.30.24.185 0 1 6620 
+199.30.25.208 0 1 2631 
+65.55.210.82 0 3 42457 
+199.30.25.71 0 1 8142 
+46.133.236.44 1 95 2800512 20171003194033
+88.229.140.158 0 1 8772 
+145.239.89.22 1 1 53479 20171007183425
+199.30.25.57 0 2 49597 
+91.201.55.134 1 1 176 20171017153848
+212.104.69.147 0 1 7766 
+88.151.189.213 1 17 452721 20171005141439
+144.217.66.151 12 12 512464 20171001172602
+46.56.186.26 1 23 553946 20171018113805
+199.30.24.159 0 4 59236 
+176.36.237.117 2 97 2837983 20171005184801
+193.27.208.134 1 95 2800638 20171007183723
+95.108.133.197 1 18 446527 20171030011425
+85.93.57.21 2 25 500071 20171026113514
+79.140.21.37 1 18 459515 20171031123045
+93.171.200.4 1 1 53353 20171003070353
+91.214.19.5 5 37 573417 20171017114359
+213.133.168.199 6 192 5456519 20171030111044
+178.44.15.143 0 1 7793 
+79.165.137.223 1 11 400538 20171017052721
+78.140.61.174 1 22 510921 20171012214447
+91.200.232.95 3 193 5641703 20171010092803
+95.47.144.20 1 1 53353 20171002132501
+5.228.47.161 2 15 738289 20171031110725
+212.3.128.41 1 15 415243 20171004212956
+86.127.228.243 1 1 37230 20171017083708
+178.140.124.234 1 11 400542 20171031143024
+195.177.73.93 1 95 2800512 20171003144108
+176.193.167.246 1 96 2807385 20171023022143
+46.188.22.112 1 96 2807161 20171012062100
+46.56.190.173 3 43 855846 20171009115056
+178.239.229.31 2 2 94094 20171025212407
+131.253.27.96 0 1 1254 
+104.40.93.105 1 1 53438 20171004120551
+178.159.37.105 2 2 53916 20171026064110
+95.28.207.126 1 1 176 20171020203246
+188.162.245.113 0 1 14121 
+62.133.162.232 0 1 9241 
+178.137.16.167 1 1 53353 20171002100256
+138.128.6.39 2 7 54803 20171005103351
+69.171.216.111 1 1 53353 20171003074905
+46.98.71.119 1 22 493093 20171024162834
+131.253.27.136 0 6 66375 
+217.182.88.168 19 19 675184 20171024173023
+176.77.6.142 1 11 398390 20171021134220
+85.175.118.10 2 4 86609 20171025184042
+199.30.24.87 0 1 14568 
+85.159.0.215 1 95 2800512 20171003103154
+109.75.48.251 1 23 553842 20171016110859
+109.195.33.136 1 25 497314 20171016023655
+199.30.24.2 0 14 425249 
+195.68.202.201 7 175 3811412 20171002162145
+199.30.25.154 0 1 10748 
+195.206.47.26 1 1 53740 20171020173252
+77.243.183.168 1 1 176 20171022121503
+93.171.80.76 0 1 12805 
+128.72.152.242 1 8 360153 20171028082708
+91.214.85.197 1 95 2800638 20171005173802
+65.55.210.196 0 1 4884 
+91.197.48.216 1 90 2772633 20171017162927
+201.184.252.42 1 1 36268 20171028035926
+194.186.62.146 1 97 2807924 20171010221846
+66.102.6.67 1 1 176 20171017153007
+37.53.246.66 1 18 458266 20171010210343
+13.93.221.51 2 2 107034 20171014085151
+192.160.102.168 1 1 53740 20171018161713
+46.211.102.178 7 100 1668501 20171016192801
+46.182.81.174 2 98 2846238 20171031093952
+65.55.210.78 0 2 275714 
+104.237.242.13 1 1 53740 20171018133828
+66.249.93.77 4 61 1139576 20171024095927
+185.30.90.238 1 15 423464 20171006001250
+185.182.81.27 1 95 2437621 20171009094038
+74.208.121.187 1 1 53740 20171021144106
+193.0.217.132 1 1 53740 20171025015613
+193.110.106.238 9 117 3236447 20171017140358
+199.30.25.111 0 2 50847 
+198.46.226.125 0 6 1217 
+90.154.93.131 1 11 399386 20171029214534
+80.246.242.126 1 18 453341 20171031085203
+34.211.192.183 1 11 415672 20171014090324
+65.55.210.132 0 3 37102 
+199.30.25.241 0 2 40485 
+194.187.170.141 1 1 176 20171009195500
+193.201.224.32 6 6 321657 20171029222334
+178.155.6.7 1 25 497538 20171028110850
+77.37.223.12 1 19 476002 20171012062100
+128.69.234.200 0 7 66933 
+199.30.24.157 0 11 146090 
+83.174.204.214 3 18 487752 20171020130109
+131.253.27.76 0 1 2631 
+95.30.219.228 1 27 1230309 20171012091636
+46.211.200.205 1 22 562139 20171024133920
+87.251.126.151 1 1 53479 20171006153617
+46.164.179.64 2 19 502804 20171022232424
+87.244.149.233 1 1 53740 20171018150849
+91.244.170.249 2 24 564004 20171020142647
+54.36.98.168 2 2 106958 20171007035148
+65.55.210.154 0 1 5817 
+5.228.8.4 1 11 397388 20171028165842
+46.188.24.65 1 11 415896 20171026192638
+85.140.3.239 1 17 452515 20171004135702
+146.241.54.46 2 98 2845242 20171031120029
+128.69.225.24 1 11 415896 20171023073305
+91.122.183.65 1 1 53479 20171006063907
+188.166.84.177 1 15 430968 20171019140111
+185.117.146.228 8 75 1186569 20171031155121
+217.118.79.24 1 16 432558 20171017073048
+65.55.210.76 0 12 77037 
+156.67.106.95 1 1 53353 20171004083856
+213.7.219.162 1 19 476226 20171020215135
+199.30.24.171 0 3 39715 
+91.244.54.103 12 78 1781083 20171025161655
+13.84.216.200 11 11 465423 20171020195810
+93.175.208.198 1 95 2800512 20171003214018
+163.172.93.129 1 1 53740 20171013153221
+212.32.219.130 4 110 3079658 20171011155726
+93.72.182.31 10 10 483053 20171021014325
+178.161.236.32 0 2 28919 
+91.246.81.49 1 6 112007 20171029085050
+5.135.195.166 1 1 36268 20171030193426
+178.46.211.196 1 18 459350 20171028073446
+23.250.105.24 0 2 244 
+5.164.115.138 0 3 7428 
+199.30.25.24 0 2 15162 
+94.228.245.106 2 97 2837690 20171003165201
+85.12.212.51 1 25 497538 20171031054526
+37.73.230.162 1 92 1889977 20171017114058
+199.30.25.109 0 1 29559 
+107.175.68.249 2 9 2233 20171005103350
+65.55.210.178 0 2 31985 
+217.56.84.125 7 54 1796337 20171022170810
+5.228.17.199 1 18 459350 20171030145208
+46.211.126.178 1 17 452721 20171008051444
+109.126.230.17 1 1 37209 20171002234248
+199.30.24.150 0 1 31185 
+37.46.243.41 1 18 466087 20171022174818
+195.225.231.214 2 2 107480 20171012091750
+65.55.210.187 0 1 1254 
+91.192.67.153 0 1 17727 
+46.229.61.92 1 16 428699 20171029154308
+65.55.210.147 0 2 18071 
+145.239.89.244 1 1 53479 20171007121642
+40.77.177.251 0 7 78571 
+176.120.38.254 1 1 53740 20171026094351
+65.55.210.25 0 22 411666 
+80.91.16.199 1 16 430037 20171019083307
+94.124.199.244 1 25 497538 20171025165953
+184.22.248.84 1 1 53479 20171007134620
+95.73.253.188 1 25 497516 20171018223135
+159.224.47.200 1 96 2807161 20171011172018
+95.24.93.85 5 55 1985245 20171025230125
+31.130.18.58 3 3 161220 20171022001159
+109.230.94.1 1 1 53740 20171028110010
+178.205.152.48 2 2 352 20171010145641
+199.30.24.211 0 2 57054 
+192.241.119.91 1 7 1838 20171005103352
+176.213.245.219 1 1 176 20171002111701
+5.228.17.245 0 32 722006 
+5.141.202.221 0 1 35408 
+212.76.162.88 1 25 497314 20171013044604
+37.145.8.144 1 1 176 20171031110719
+65.55.210.95 0 4 89645 
+91.142.170.113 2 98 2846238 20171024143250
+83.102.217.225 0 5 299832 
+106.120.162.107 1 96 2807385 20171029233207
+109.61.224.105 21 130 2419847 20171027223048
+199.30.25.46 0 2 46559 
+212.28.71.231 2 21 501086 20171027220840
+77.52.200.190 0 2 22319 
+46.48.155.208 0 2 28919 
+217.118.90.182 1 18 459350 20171024075239
+91.204.176.17 1 25 497314 20171016124306
+46.133.253.251 1 17 492183 20171027073556
+188.64.173.3 1 1 53479 20171007072016
+77.222.114.125 1 17 439733 20171009050934
+89.250.18.4 1 27 1230309 20171017060222
+84.53.198.211 1 1 53353 20171001203647
+185.154.13.7 2 2 53916 20171026025956
+40.77.178.186 0 3 31550 
+178.89.70.203 2 12 128334 20171025073805
+144.217.243.211 1 1 53479 20171007062213
+194.247.173.66 1 18 446527 20171028173501
+199.30.25.128 0 1 3661 
+193.106.175.23 2 2 106876 20171004175605
+37.214.6.109 1 22 514229 20171017192210
+65.55.210.13 0 1 4889 
+84.38.134.82 1 1 53740 20171031205414
+34.240.168.31 2 2 106958 20171007102535
+199.30.24.169 0 2 43128 
+176.56.0.180 5 75 1783823 20171026152307
+199.30.24.208 0 2 23578 
+94.255.78.173 1 16 424444 20171027143211
+178.124.81.59 1 16 512622 20171006142525
+185.158.113.169 1 1 48858 20171008130405
+199.30.24.140 0 3 525018 
+199.30.25.44 0 3 47594 
+199.30.24.183 0 2 37561 
+195.154.173.103 1 1 53479 20171005195433
+95.84.183.224 2 22 793138 20171029201927
+46.242.29.155 1 10 391536 20171009120427
+45.32.157.71 1 1 53740 20171019170058
+46.133.67.209 1 23 553842 20171014180405
+104.144.21.247 1 8 2080 20171005103350
+195.22.127.175 1 1 53629 20171009222654
+54.241.144.30 1 1 53740 20171021185940
+37.221.205.98 1 18 459291 20171017115251
+37.110.153.206 1 16 421854 20171015072223
+216.189.148.184 1 16 426131 20171021011653
+38.80.23.120 1 1 53740 20171030094619
+185.29.255.27 1 1 53740 20171023032537
+109.63.207.21 1 16 422545 20171030213410
+144.217.161.119 1 1 53740 20171011003750
+95.153.130.66 1 25 497538 20171027193611
+109.173.58.115 0 2 21387 
+23.101.61.176 8 8 347505 20171031115847
+199.30.24.101 0 2 28275 
+199.30.25.145 0 1 10278 
+82.209.229.58 1 19 453957 20171009082941
+46.151.7.253 2 2 53916 20171028035818
+193.161.12.4 0 13 371125 
+95.132.129.74 1 22 465865 20171012165651
+199.30.25.33 0 1 270566 
+199.30.25.12 0 1 21134 
+199.30.24.86 0 1 32504 
+185.182.81.43 1 45 1950963 20171005154548
+88.99.194.48 5 5 235905 20171010143758
+79.126.115.99 0 1 9306 
+182.16.68.58 1 1 36268 20171027121210
+91.214.85.235 1 96 2807161 20171011225751
+200.42.45.211 1 1 53438 20171005000043
+157.55.2.187 0 84 2530650 
+178.251.77.228 1 96 2807161 20171011165557
+62.111.142.202 2 98 2846238 20171030115419
+199.30.24.52 0 3 50425 
+213.160.158.192 7 120 3280085 20171011143918
+37.55.153.165 2 102 2885380 20171012145342
+188.32.79.137 1 11 398192 20171018141948
+95.56.83.130 1 22 543209 20171016183138
+147.30.85.30 2 32 843453 20171011123750
+83.149.21.234 1 26 1463211 20171006114939
+217.12.96.251 2 100 2853838 20171025165207
+178.207.12.149 1 27 1230533 20171023090212
+31.13.144.17 1 17 452721 20171005124510
+178.92.55.157 1 96 2807265 20171018075257
+109.63.175.39 1 14 408579 20171025200010
+220.181.132.198 1 10 393043 20171007054536
+188.186.231.49 1 18 459291 20171014160751
+165.227.57.91 1 1 53353 20171003092911
+66.102.6.65 3 3 528 20171022060156
+37.53.129.186 4 109 3061376 20171020162907
+83.217.214.72 1 18 459291 20171017145153
+91.142.170.71 1 96 2806301 20171011130249
+201.16.197.149 2 2 72536 20171027095656
+40.77.170.88 1 1 53740 20171024131732
+185.51.246.155 1 1 53740 20171028115633
+66.102.8.207 6 162 4803533 20171025014434
+31.173.242.35 1 20 463792 20171031084837
+199.30.25.45 0 1 4057 
+109.63.245.195 1 18 446527 20171021170149
+46.149.48.92 2 97 2837983 20171006144556
+85.192.184.106 1 15 418430 20171006135940
+212.90.61.203 1 95 2800512 20171003140049
+46.133.198.107 3 17 458741 20171006174614
+95.163.107.73 1 1 38975 20171024171056
+93.75.2.232 11 178 4073337 20171027183603
+199.249.223.69 1 1 53740 20171021102721
+178.62.7.178 1 1 53740 20171027080024
+5.228.129.60 1 1 53740 20171026054749
+95.28.217.158 1 11 400771 20171026192636
+199.30.24.152 0 4 60014 
+199.30.24.197 0 5 83758 
+37.73.196.106 2 17 460378 20171011210835
+217.76.207.10 22 267 5161492 20171018091952
+185.182.81.17 1 1 40354 20171026205617
+146.185.223.245 2 2 53861 20171010120448
+195.211.23.211 0 1 4306 
+95.27.255.47 1 11 396822 20171024193106
+65.55.213.31 0 1 1254 
+65.55.210.38 0 5 336039 
+95.27.238.255 2 107 3223057 20171022003703
+46.211.121.128 14 20 578016 20171011141243
+46.133.36.51 1 7 318706 20171031095529
+195.114.136.250 1 1 53740 20171028114959
+217.182.91.28 19 19 574767 20171026194038
+188.32.144.193 1 26 1223698 20171005081954
+95.220.213.129 2 12 469636 20171030211425
+62.245.90.147 1 16 424281 20171026091208
+146.185.223.167 2 2 107480 20171031141203
+109.63.203.102 1 11 415896 20171031110737
+181.214.161.95 1 1 53353 20171003053454
+192.241.80.24 0 7 1702 
+92.135.47.23 2 97 2807337 20171013183656
+38.80.27.240 1 1 53685 20171010123843
+65.55.210.126 0 1 7497 
+213.109.235.114 29 602 7552765 20171031123423
+217.118.78.98 1 17 452595 20171002175123
+5.141.231.128 1 22 562117 20171018202909
+199.30.25.48 0 1 19509 
+94.153.241.90 2 2 107480 20171027193947
+128.68.136.179 1 1 53740 20171027041630
+112.111.191.139 1 1 53740 20171017172635
+178.161.145.122 1 25 497538 20171031225716
+178.172.189.9 1 23 554066 20171029172232
+62.64.105.218 1 96 2803504 20171009170228
+65.55.210.133 0 8 329373 
+90.154.79.251 1 18 446527 20171022211823
+188.163.3.150 0 1 10923 
+46.118.156.168 2 2 107257 20171022150018
+27.117.198.241 0 2 21106 
+13.57.50.249 16 16 348159 20171019140850
+195.91.224.113 0 1 10074 
+194.28.29.169 1 18 444074 20171025130912
+93.79.193.7 0 1 17775 
+86.57.237.222 1 18 444480 20171012093505
+88.80.48.158 1 1 53353 20171003165447
+104.42.229.64 1 1 53353 20171003133343
+46.219.216.65 4 100 2932400 20171017132002
+46.133.207.208 6 60 1390905 20171031132128
+157.55.12.92 0 10 303880 
+193.19.84.89 13 141 2836745 20171010135559
+46.160.78.87 1 16 427156 20171028163156
+199.30.24.143 0 1 7046 
+80.77.163.133 6 6 161487 20171024170817
+31.173.84.16 1 19 713469 20171009161204
+77.47.169.16 1 92 1886320 20171010084535
+65.55.210.176 0 3 83507 
+199.30.25.75 0 1 1254 
+40.77.179.162 0 9 327885 
+46.242.29.178 1 11 415776 20171017214137
+95.167.116.116 1 1 36268 20171024084745
+46.61.113.152 1 24 490744 20171009015132
+199.30.25.113 0 1 28479 
+46.0.9.136 3 3 107656 20171017165558
+65.55.210.205 0 1 6237 
+94.180.158.10 1 11 402286 20171014040059
+77.123.7.205 0 1 7793 
+139.59.231.198 1 1 36268 20171027163536
+106.120.162.97 1 29 531895 20171018174449
+199.30.24.205 0 1 1846 
+62.197.243.97 2 25 533279 20171005213057
+176.37.4.118 10 112 2802019 20171025133628
+54.213.157.170 1 1 380 20171021012118
+95.221.156.255 1 1 176 20171012223914
+93.177.60.9 1 24 490744 20171008135609
+54.160.73.16 1 11 415896 20171028101548
+185.84.148.4 1 17 40122 20171002170529
+66.249.93.213 0 24 693560 
+158.46.16.205 4 46 999408 20171022092223
+199.30.25.93 0 1 47934 
+5.76.129.238 1 17 452595 20171004060656
+123.126.113.157 1 1 53740 20171017211443
+199.30.24.139 0 6 108602 
+5.189.133.231 3 3 108804 20171030043804
+66.249.93.221 0 4 40093 
+176.215.87.206 1 20 468378 20171017100229
+95.135.61.155 1 20 475707 20171008083334
+163.172.102.118 1 1 38890 20171002050922
+188.65.130.174 2 2 88940 20171009235410
+95.27.44.236 1 20 500179 20171021170347
+37.147.108.24 1 1 53740 20171030160011
+176.111.58.89 3 206 6022903 20171026160007
+199.30.24.242 0 2 28036 
+199.30.24.31 0 2 268356 
+65.55.210.194 0 6 137833 
+188.163.109.0 1 1 53740 20171025190607
+37.52.204.46 1 1 53623 20171009114721
+46.229.61.57 1 17 452680 20171005110303
+93.175.201.163 10 27 413567 20171017173710
+199.30.25.0 0 4 64102 
+199.30.24.88 0 6 310243 
+93.73.48.41 5 115 2244182 20171017220537
+220.181.132.180 1 10 409149 20171007054501
+188.166.31.68 1 21 142422 20171005121105
+178.120.8.253 1 17 438258 20171005205911
+80.255.94.124 1 17 452595 20171002054556
+165.227.30.203 1 1 36268 20171026130138
+185.11.31.185 2 44 1094688 20171009125807
+185.59.56.144 1 1 53479 20171005161434
+212.67.3.226 12 198 4532416 20171011120644
+94.158.59.44 0 1 8800 
+88.200.136.105 1 17 439692 20171004233838
+194.48.218.78 1 25 497538 20171029221957
+31.31.109.59 2 2 352 20171013062724
+46.164.137.51 17 164 3507974 20171017171327
+104.227.106.186 1 9 2325 20171005103350
+65.55.210.2 0 2 30654 
+131.253.27.4 0 18 599063 
+199.30.24.249 0 5 77568 
+86.57.248.155 2 23 525854 20171004181108
+95.133.97.161 2 98 2846118 20171017203126
+37.214.4.104 0 1 12292 
+199.30.24.181 0 2 11597 
+111.56.5.42 1 1 36268 20171028103522
+178.165.56.235 2 2 74088 20171005212438
+95.73.6.21 1 25 496454 20171010191125
+134.249.51.228 2 2 106958 20171006121811
+185.20.184.92 1 1 53740 20171014010350
+95.213.193.51 1 1 53740 20171025153808
+104.237.243.19 1 1 53740 20171012115234
+95.27.141.229 1 18 446693 20171025212743
+213.159.38.90 1 1 53353 20171004055109
+185.18.22.233 1 95 2772783 20171030213408
+199.30.24.253 0 1 24192 
+82.194.246.22 1 17 432880 20171018154154
+199.30.24.244 0 2 20510 
+46.219.215.38 0 1 3341 
+31.134.121.113 3 99 2899754 20171017105806
+95.139.23.218 1 1 53740 20171024191446
+65.55.210.149 0 1 4579 
+77.41.30.194 1 11 414497 20171019134603
+95.220.66.7 1 18 459291 20171012062102
+176.12.249.188 1 17 452595 20171001152545
+87.241.188.162 0 2 30816 
+195.78.113.129 2 97 2837592 20171002102537
+156.67.106.101 1 1 53740 20171031105336
+199.30.25.133 0 13 201798 
+93.175.200.161 5 162 3635345 20171025124427
+95.134.58.198 1 16 428052 20171025155952
+199.30.25.253 0 86 2396373 
+194.1.193.50 14 345 8066258 20171031132111
+85.248.227.163 1 1 53740 20171019053802
+101.199.112.54 1 10 397232 20171007054629
+37.214.76.199 2 33 735127 20171026233350
+199.30.25.42 0 1 32738 
+131.253.25.152 0 24 594117 
+46.0.190.82 2 2 53916 20171022114316
+176.110.129.2 2 2 107480 20171027073142
+93.76.21.120 1 95 2800512 20171002090009
+38.80.27.88 1 1 53479 20171006160358
+176.195.78.111 0 1 4579 
+80.82.49.84 1 18 459126 20171017163703
+199.30.25.10 0 4 30760 
+188.186.217.132 1 18 459291 20171012155525
+176.36.162.30 1 95 2800512 20171002180905
+65.55.210.168 0 1 15453 
+45.32.130.173 1 1 53479 20171005130740
+46.0.206.123 1 22 561915 20171016101225
+176.36.220.104 5 134 3338991 20171004002736
+154.66.122.130 1 1 36268 20171025115300
+178.127.219.95 2 2 53916 20171014045912
+14.141.162.161 1 1 36268 20171028052237
+199.30.25.158 0 1 4057 
+213.169.66.121 1 96 2807385 20171031200344
+54.198.202.54 1 1 53740 20171031113533
+91.124.18.172 1 29 578623 20171010122358
+65.55.210.184 0 1 32504 
+199.30.25.225 0 3 96665 
+213.109.226.106 2 19 490755 20171023095805
+212.26.144.82 8 197 5799479 20171024144523
+123.126.113.110 1 1 53629 20171010023624
+199.30.24.58 0 1 33882 
+164.132.107.59 1 1 53479 20171007210627
+188.32.246.251 1 64 2085379 20171029080159
+65.55.210.74 0 4 52793 
+38.80.27.15 1 1 53740 20171027152435
+176.214.133.4 1 1 53740 20171029201151
+66.70.148.40 1 1 53438 20171004185458
+107.173.3.122 1 8 1877 20171005103350
+199.101.134.197 1 1 53740 20171029104627
+94.254.144.236 1 18 459291 20171017164136
+91.149.143.252 1 21 458784 20171002131053
+95.135.197.41 1 15 416357 20171008130208
+213.160.141.210 4 145 3419594 20171013151324
+199.30.24.48 0 1 4057 
+197.45.184.3 2 100 2871513 20171005104904
+199.30.24.229 0 5 93202 
+65.55.210.10 0 1 3543 
+62.80.183.217 1 96 2807363 20171019145708
+156.67.106.97 1 1 53353 20171003164837
+80.83.235.22 1 18 459127 20171031134417
+178.155.4.214 1 36 767530 20171015154746
+218.30.103.105 1 1 53740 20171023081105
+176.212.191.12 3 22 508734 20171019111819
+5.199.232.9 0 1 22443 
+217.182.88.191 31 31 1168842 20171024170446
+199.30.25.36 0 1 7497 
+65.55.210.56 0 6 143687 
+91.200.127.2 0 6 35521 
+106.38.241.107 1 1 53740 20171025104133
+66.249.88.31 3 3 528 20171017153014
+65.55.210.103 0 1 7793 
+199.30.24.40 0 6 172402 
+157.55.2.189 0 2 36424 
+190.14.213.26 1 1 53740 20171016202521
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20171001 60 512 13168715 32
+20171002 211 2611 72472685 60
+20171003 155 2663 64832819 54
+20171004 235 2458 63225112 55
+20171005 272 3582 86435613 84
+20171006 140 2045 53247953 71
+20171007 90 892 26502045 59
+20171008 326 743 22649834 43
+20171009 152 2705 71215420 57
+20171010 224 3749 92929952 67
+20171011 131 2121 53201155 53
+20171012 202 2125 47206721 90
+20171013 153 2056 49211071 50
+20171014 70 541 15027626 36
+20171015 24 220 5052682 20
+20171016 40 594 14977935 27
+20171017 280 3221 78399830 69
+20171018 395 2918 71161622 56
+20171019 286 3961 86399266 67
+20171020 200 1646 34367468 49
+20171021 51 314 8444478 34
+20171022 356 1244 34964490 59
+20171023 155 1451 37327403 50
+20171024 190 2067 52476969 60
+20171025 124 1734 42467108 67
+20171026 112 1896 46871371 76
+20171027 134 1312 32031307 68
+20171028 101 1143 27085964 48
+20171029 50 493 14770063 44
+20171030 86 1723 45985814 61
+20171031 222 2385 58054813 79
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 41
+5mn-15mn 42
+15mn-30mn 32
+30s-2mn 94
+2mn-5mn 48
+0s-30s 1447
+30mn-1h 41
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 458
+/ 1313 65760014 869 748
+/equipment.html 251 9002544 21 21
+/contacts.html 188 6716822 17 87
+/search.html 142 5640481 12 23
+/equipment/oborudovanie-dlya-horeca.html 113 3832271 6 19
+/stat/rotacionnaya-pech-revent-724.html 88 3557627 76 65
+/equipment/pechi-polin.html 85 4052133 3 15
+/stat/rotacionnaya-pech-revent-725.html 76 3057644 59 57
+/equipment/hlebopekarnoe.html 75 3558606 3 14
+/vacancies.html 65 2073171 8 16
+/stat/konf-forms-selmi.html 4 144289 0 0
+/equipment/otsadka.html 5 198367 3 1
+/stat/pech-parokonvekcionnaja-resto-line-bravo-m.html 3 106815 0 0
+/stat/pech-na-drevesnom-ugle-josper-hjx25m.html 2 72326 0 0
+/stat/testomes-oem.html 1 176 0 0
+/stat/dozator-selmi.html 6 216532 3 1
+/stat/pech-parokonvekcionnaja-resto-line-l12.html 12 388172 3 3
+/equipment/form-pelmeni-dvuhlistovie.html 3 102866 1 1
+/page/vacancies.html 3 98117 0 0
+/stat/color-selmi.html 8 284271 3 2
+/stat/rotacionnaya-pech-revent-723.html 13 533129 4 5
+/stat/stol-holodilnyiy-resto-line-ect704al.html 1 36516 1 0
+/stat/bread-slicer.html 1 176 0 0
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77eft7lr.html 1 36089 0 0
+/equipment/testomes-pelmeni.html 4 137339 0 0
+/stat/plita-elektricheskaya-resto-line-d77e2apq.html 2 72800 0 0
+/stat/frityurnitsa-electro-resto-line-d77ef42v.html 1 35629 0 0
+/equipment/testoraskatki-dlja-pizza.html 3 107458 0 0
+/stat/ap250.html 8 1408 5 6
+/stat/frityurnitsa-gaz-resto-line-d77gf4.html 1 35469 0 0
+/stat/makaronovarka-el-resto-line-d77ec4-sc.html 2 71694 0 1
+/equipment/pechi-na-drevesnom-ugle-josper.html 12 527616 1 0
+/equipment/steam-tubes-ovens.html 3 111539 0 0
+/stat/rotacionnaya-pech-polin-avant.html 18 881785 13 12
+/equipment/mukoproseivateli.html 3 103377 0 0
+/equipment/croissants-machines-canol.html 2 71194 1 0
+/stat/ledogenerator-resto-line-sl-35-a.html 1 35320 1 0
+/stat/contacts.html 27 4752 20 10
+/stat/press-dlya-gear.html 10 361611 4 4
+/stat/planetarnye-mixers.html 6 1056 5 5
+/stat/plita-elektricheskaya-resto-line-d77etf.html 2 73354 0 0
+/stat/conv-forni-polin.html 1 176 0 1
+/stat/pack-horizontal.html 24 4224 22 2
+/stat/page/revent-technology.html 23 4048 0 6
+/stat/pech-parokonvekcionnaja-resto-line-bravo-d.html 2 73382 0 0
+/stat/ldogeneratoru.html 1 176 0 0
+/stat/apparat-shokovoy-zamorozki-resto-line-bc511.html 3 108342 0 0
+/equipment/vakuum-oxladitel.html 6 205048 1 2
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77efta7lr.html 1 36123 0 0
+/stat/tv-synt.html 5 241221 0 0
+/equipment/apparaty-shokovoj-zamorozki.html 8 348512 0 0
+/stat/trexbunkernaya-mashina-aladin-s-otsadkoy-na-pod.html 1 38064 0 0
+/stat/plita-elektricheskaya-resto-line-d77e6a.html 1 36395 0 0
+/equipment/kontaktnyj-gril.html 4 142508 0 0
+/stat/plita-gazovaya-resto-line-d77g4xl.html 2 72218 0 0
+/stat/other-selmi.html 2 352 1 1
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-twiny.html 13 502449 6 7
+/stat/kornfeil-thermostar.html 16 910086 11 9
+/stat/plita-elektricheskaya-resto-line-d77e4apq.html 3 109603 3 3
+/equipment/kuttery.html 7 248871 0 0
+/stat/poverhnost-zharochnaya-gazovaya-resto-line-d77gfta4r.html 1 35990 0 0
+/equipment/ledogeneratoru.html 1 44734 0 1
+/stat/trexbunkernaya-mashina-aladin-600.html 12 492770 10 8
+/stat/equipment.html 8 1408 4 1
+/stat/drago-890-twin.html 4 157220 2 1
+/stat/pech-parokonvekcionnaja-resto-line-7d.html 7 249527 0 0
+/stat/pech-parokonvekcionnaja-resto-line-12A.html 5 177783 0 0
+/equipment/indukcionnye-nastolnye-plity.html 4 141692 0 0
+/equipment/plityi-induktsionnyie-serie-700.html 1 38730 1 1
+/stat/gsp75evo.html 5 185899 1 1
+/equipment/gas-oven-oem.html 2 72642 0 0
+/equipment/slajsera.html 6 213225 0 0
+/stat/poverhnost-zharochnaya-gazovaya-resto-line-d77gft4l.html 1 35940 0 0
+/stat/plita-elektricheskaya-resto-line-d77e4aq.html 3 109299 0 1
+/stat/rotacionnaya-pech-polin-pocket.html 2 352 2 2
+/stat/formovochnie-mashina-fr4cfinox.html 3 108172 1 1
+/stat/gril-el-resto-line-d77aqe4.html 2 70782 1 0
+/stat/shkaf-rasstoechnyiy-resto-line-l9.html 6 212358 0 0
+/stat/deliteli-okrugliteli.html 1 176 1 1
+/stat/apparat-shokovoy-zamorozki-resto-line-bc311.html 4 144418 0 0
+/equipment/mjasorubki.html 5 176200 0 0
+/stat/ledogenerator-resto-line-sl-90-a.html 1 35756 1 1
+/stat/kamery-predvaritelnoi-rasstoyki-macpan.html 4 147789 0 1
+/stat/frityurnitsa-electro-resto-line-d77ef7.html 1 35617 0 0
+/stat/apparat-shokovoy-zamorozki-resto-line-bc5116490.html 3 108529 0 0
+/stat/shkaf-rasstoechnyiy-resto-line-l8.html 9 318022 0 0
+/equipment/rotacionnie-pechi-polin.html 4 150767 0 1
+/stat/plita-elektricheskaya-resto-line-d77et.html 1 35564 0 0
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77eft4l.html 1 36040 0 0
+/stat/pech-parokonvekcionnaja-resto-line-20mc.html 9 320160 0 0
+/stat/apparat-shokovoy-zamorozki-resto-line-bc5116470.html 3 108638 0 0
+/equipment/ledokroshiteli.html 10 343033 1 1
+/stat/semi-auto-bread-slicer-macpan-mpt.html 5 180494 2 3
+/equipment/ovens-loader.html 2 69667 0 0
+/stat/vodoohladiteli.html 1 176 0 0
+/stat/plita-gazovaya-resto-line-d77g6faxl.html 1 36202 0 0
+/stat/c25.html 4 157952 2 0
+/stat/canol-line.html 11 413286 6 7
+/stat/formovochnie-mashina-fr4cinox.html 4 143029 0 0
+/stat/deliteli-okrugliteli-ram-model-sp.html 3 108547 0 0
+/stat/deliteli-okrugliteli-ram-model-s.html 4 143305 1 1
+/equipment/rotacionnie-pechi-revent.html 21 1092960 11 12
+/stat/tv-synt-ax.html 4 158244 0 1
+/stat/plita-gazovaya-resto-line-d77g6axl.html 3 108264 0 0
+/stat/domitor-oem.html 1 176 1 1
+/stat/testomes-polin-start-plus.html 5 187019 0 0
+/stat/baza-resto-line.html 2 73350 0 0
+/stat/plita-elektricheskaya-resto-line-d77eta.html 5 182928 1 1
+/stat/testomes-agnelli.html 25 870914 20 19
+/stat/kornfeil-k-market.html 4 149398 0 1
+/stat/deliteli-okrugliteli-ram-model-sph-plus.html 4 146045 1 0
+/stat/pech-parokonvekcionnaja-resto-line-16MC.html 5 177713 0 0
+/stat/delitel-okruglitel.html 3 528 1 1
+/stat/rotacionnaya-pech-revent-726.html 20 821447 14 12
+/stat/plita-elektricheskaya-resto-line-d99e4a8q.html 1 35441 0 0
+/stat/pech-parokonvekcionnaja-resto-line-6d.html 4 142406 0 0
+/stat/plita-gazovaya-resto-line-d77g6xl.html 1 36110 0 0
+/stat/gril-lavovyiy-gaz-resto-line-d99gpla98.html 2 71108 0 1
+/stat/planetarniy-mixer-s-aeraciey-mr-150-800-litrov.html 6 228536 1 1
+/stat/table-selmi.html 8 287246 2 3
+/stat/konvekcionnaya-pech-polin-wind-4080-16.html 17 632400 1 0
+/stat/posudomoechnaya-mashina-resto-line-jolly-50-t.html 6 210990 0 1
+/stat/pack-vertikalnie.html 3 528 2 2
+/stat/gril-lavovyiy-gaz-resto-line-d77gpla8g.html 1 35878 0 0
+/stat/temp-selmi.html 2 352 0 0
+/stat/rotacionnaya-pech-polin-classic.html 29 1271977 15 15
+/stat/planetarniy-mixer-ap.html 6 216184 0 1
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77efta4l.html 1 36078 0 0
+/stat/testoraskatki-dlja-pizza-roll.html 4 145220 0 0
+/equipment/bread-slicer.html 11 423017 6 7
+/stat/planetarniy-mixer-c-line.html 3 118486 1 0
+/stat/okrugliteli-macpan-model-mpc.html 4 141177 0 0
+/stat/plita-induktsionnaya-resto-line-d77ea7i.html 1 36389 0 0
+/stat/pa250-signal.html 2 352 2 2
+/stat/dvuhlistovue.html 1 176 1 0
+/equipment/fritjurnicy-nastolnye.html 2 71886 0 0
+/stat/molochnye-miksery-fp.html 11 400662 0 0
+/stat/plita-gazovaya-resto-line-d77g6feaxl.html 1 36305 0 0
+/stat/polin.html 1 176 1 1
+/stat/tv-drago-ax.html 3 112474 0 1
+/stat/testodeliteli.html 1 176 1 0
+/stat/gsp55evo.html 5 185056 0 0
+/stat/formovochnie-mashinu.html 4 704 3 3
+/equipment/selmi.html 29 1059810 1 3
+/stat/ukladchiki-canol.html 6 216040 2 4
+/stat/konvekcionnaya-pech-polin-wind-4060-5-a.html 1 37276 0 0
+/stat/packing.html 2 352 0 0
+/equipment/forni-oem.html 18 676721 0 2
+/stat/drago-896.html 5 187680 0 0
+/equipment/conv-forni-polin.html 3 109752 1 0
+/stat/pech-parokonvekcionnaja-resto-line-523a.html 8 284426 0 0
+/stat/pech-parokonvekcionnaja-resto-line-5a.html 6 213252 0 0
+/stat/canol-manual.html 2 352 2 2
+/equipment/mashini-dlya-krekerov-i-galet.html 3 102036 0 1
+/stat/shkaf-morozilnyiy-resto-line-ecc1400bt.html 2 72757 1 1
+/stat/plus-selmi.html 4 144136 1 1
+/equipment/rotornie-mashini-dlya-pechenia.html 3 106974 0 0
+/equipment/electro-mehanicheskoe-oborudovanie.html 53 2165617 0 3
+/stat/plita-induktsionnaya-resto-line-d77ea4l.html 1 36388 0 0
+/equipment/holod.html 34 1071875 1 1
+/stat/electrical-oven-oem-hv45e.html 8 306190 2 1
+/stat/blenderyi-fr150.html 15 531546 0 0
+/stat/c2p.html 11 424692 2 2
+/equipment/canol-manual.html 9 325300 3 2
+/stat/kornfeil-fornata.html 5 189927 3 2
+/stat/vibro-selmi.html 5 179477 2 2
+/stat/pech-na-drevesnom-ugle-josper-hjx45m.html 1 36165 0 1
+/stat/pasta-technology.html 1 176 0 0
+/equipment/pack-vertikalnie.html 5 182318 0 1
+/stat/plita-elektricheskaya-resto-line-d77e6aq.html 1 36407 0 0
+/stat/pech-parokonvekcionnaja-resto-line-4d.html 8 284634 0 0
+/stat/gril-lavovyiy-gaz-resto-line-d99gpla48.html 1 35645 0 0
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77eft7l.html 1 36043 0 0
+/stat/croissants-machines-canol.html 2 352 0 1
+/stat/futura-selmi.html 3 107581 0 0
+/stat/stolyi-neytralnyie-resto-line-bez-baz.html 2 71910 0 0
+/equipment/molochnye-miksery.html 8 279355 0 0
+/stat/gsp65evobb.html 4 154428 0 1
+/stat/plita-elektricheskaya-resto-line-d77e2aq.html 2 72784 0 0
+/stat/semi-auto-bread-slicer-macpan-mini.html 4 143873 0 0
+/stat/plita-elektricheskaya-resto-line-d77e6faq.html 1 36558 0 0
+/stat/pocket-6065-4666.html 4 147192 1 1
+/equipment/svch.html 3 105378 0 0
+/stat/vakuum-oxladitel.html 1 176 1 0
+/stat/comfit-selmi.html 7 247663 2 2
+/stat/selmi.html 1 176 1 1
+/equipment/testoraskatki-dlja-sloyki.html 13 459634 0 0
+/equipment/testomesy.html 12 426616 0 0
+/stat/plita-gazovaya-resto-line-d77g4fexl.html 2 72592 0 0
+/stat/poverhnost-zharochnaya-gazovaya-resto-line-d77gft4r.html 1 35948 0 0
+/stat/pizza.html 2 352 2 2
+/stat/testomesy-sn.html 10 377370 0 0
+/stat/formovochnie-mashina-macpanfr2c.html 4 144388 2 1
+/stat/posudomoechnaya-mashina-resto-line-jolly-61-p.html 6 211064 1 0
+/stat/forni-pod.html 3 528 0 0
+/equipment/planetarnye-mixers-polin.html 2 71336 2 0
+/stat/rotacionnaya-pech-polin-bravo.html 10 365168 3 4
+/equipment/electric-oven-pizza.html 6 223876 0 0
+/stat/pech-parokonvekcionnaja-resto-line-superiore-d.html 5 183763 0 0
+/stat/pech-parokonvekcionnaja-resto-line-4a.html 5 177403 0 0
+/stat/lava-vulkanicheskaya-resto-line-a800100.html 1 35531 0 1
+/stat/electrical-oven-oem-tl.html 5 191840 0 0
+/stat/stolyi-neytralnyie-resto-line.html 3 109372 1 0
+/stat/posudomoechnaya-mashina-resto-line-jolly-a35.html 5 176173 0 0
+/equipment/canol.html 36 1308210 6 5
+/equipment/pelmeni.html 48 1558679 10 11
+/events.html 62 1923116 3 7
+/equipment/forni-pod.html 16 736022 0 2
+/stat/poverhnost-zharochnaya-gazovaya-resto-line-d77gfta4l.html 1 35982 0 0
+/stat/vacuum-packing-fast.html 6 219603 1 0
+/equipment/temp-selmi.html 6 230476 1 2
+/stat/tun300-selmi.html 5 183097 2 0
+/stat/plita-elektricheskaya-resto-line-d77e4fpq.html 2 73092 0 0
+/stat/gsp55evobb.html 4 147348 1 1
+/stat/vertikal-plitochnue-apparaty.html 1 176 1 1
+/stat/podovaya-pech-polin-stratos-crystal.html 3 528 1 1
+/stat/show.html 1 176 0 1
+/stat/multiextrusion-s-otsadkoi-na-protivni.html 8 325900 3 5
+/stat/posudomoechnaya-mashina-resto-line-elite-503.html 2 70358 0 0
+/stat/planetarniy-mixer-ram-evo-40-60-80-litrov.html 6 224782 2 3
+/stat/spiral.html 14 560632 7 7
+/stat/kontaktnyj-gril-pg.html 2 72523 0 0
+/stat/oborudovanie-dlya-pechenia-multiextrusion.html 2 352 0 0
+/equipment/smesiteli.html 3 103470 0 0
+/stat/auto-bread-slicer-macpan-self-service-shop.html 5 173825 0 2
+/stat/apparat-shokovoy-zamorozki-resto-line-bc15116490.html 3 108700 0 0
+/equipment/teplovoe-oborudovanie.html 42 2785660 1 3
+/equipment/forni-pod-polin.html 6 240612 3 1
+/admin 4 26416 1 0
+/stat/pech-parokonvekcionnaja-resto-line-20ac.html 6 213552 0 0
+/stat/kornfeil-variant.html 43 2158749 29 22
+/stat/plita-elektricheskaya-resto-line-d99e4ap8q.html 1 35439 0 0
+/stat/tv-synt-840.html 5 196002 0 1
+/stat/ovoshherezki-tv-2500-3000.html 5 184994 0 0
+/stat/auto-bread-slicer-macpan-mtp-aut-dual.html 3 104713 0 0
+/page/expo-iffip-2017.html 11 393726 2 3
+/stat/semi-auto-bread-slicer-macpan-op.html 4 142184 1 0
+/stat/partners.html 2 352 2 1
+/equipment/mikser-planetarnyj.html 8 285863 0 1
+/stat/plita-induktsionnaya-wok-resto-line-d77ewa.html 1 36360 0 0
+/equipment/pechi-dlja-vypechki.html 10 448629 0 0
+/equipment/holodilnoe-oborudovanie-horeca.html 15 910291 2 3
+/stat/rotacionnaya-pech-revent-703.html 25 1057472 5 5
+/equipment/sokovyzhimalki.html 6 209439 0 0
+/stat/konvekcionnaya-pech-polin-unico-6040-100.html 3 116398 0 0
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77eft4r.html 1 36063 0 0
+/equipment/plityi-gazovyie-serie-900.html 1 39792 0 0
+/equipment/deliteli-okrugliteli.html 8 301532 0 2
+/stat/testomes-polin-asm-e.html 15 581147 6 6
+/equipment/tun-selmi.html 3 103833 0 0
+/stat/pech-na-drevesnom-ugle-josper-hjx50lacxp.html 1 36387 1 1
+/stat/konvekcionnaya-pech-polin-wind-4060-5-A.html 5 184884 1 2
+/stat/rotornaya-mashina-dlya-pechenia-seriya-rfn.html 4 141446 0 1
+/stat/vodoohladiteli-macpan.html 4 150197 0 0
+/equipment/ovoshherezki.html 5 178320 0 0
+/equipment/pack-horizontal.html 7 262775 1 2
+/equipment/plityi-elektricheskie.html 2 105736 0 0
+/stat/semi-auto-bread-slicer-macpan-mpta.html 3 107815 1 1
+/equipment/shock-freezing.html 3 103068 0 0
+/stat/deliteli-okrugliteli-ram-model-sph.html 3 108826 0 0
+/equipment/barnoe-oborudovanie.html 44 1561856 1 2
+/equipment/parokonvekcionnye-pechi.html 16 861904 0 0
+/stat/lamination-line.html 21 834192 17 16
+/stat/kornfeil-thermostar-classic.html 6 284138 2 3
+/stat/konvekcionnaya-pech-polin-wind-gas-4060-8.html 4 147111 1 1
+/stat/plita-elektricheskaya-resto-line-d77e2.html 1 36343 0 0
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77eft7r.html 2 72102 0 1
+/stat/posudomoechnaya-mashina-resto-line-jolly-50.html 4 140628 0 0
+/stat/hand-testoraskatki.html 24 1023857 7 6
+/stat/testomes-polin-start.html 6 226491 1 2
+/stat/makaronovarka-gaz-resto-line-d77gc7-sc.html 1 35654 1 1
+/stat/drago-895.html 7 269354 2 2
+/stat/posudomoechnaya-mashina-resto-line-jolly-35.html 3 105669 0 0
+/stat/elettrodrago-elektros-f.html 7 281663 1 4
+/stat/rotornaya-mashina-dlya-pechenia-seriya-rdz.html 5 213543 3 2
+/stat/kuttery-ct.html 7 252000 0 1
+/stat/padovani.html 1 176 1 1
+/stat/scooter-4060.html 3 124996 0 1
+/stat/apparat-shokovoy-zamorozki-resto-line-bc10116470.html 3 109645 0 0
+/stat/canolino.html 13 486174 8 8
+/stat/formovochnie-mashina-mba.html 5 172798 0 1
+/stat/plita-elektricheskaya-resto-line-d77e4a.html 1 36393 0 0
+/stat/plita-gazovaya-resto-line-d77g4fevxl.html 2 72624 0 0
+/stat/horeca.html 1 176 1 0
+/stat/gas-oven-oem-hv75g.html 2 76776 0 0
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77efta4r.html 1 36086 0 0
+/stat/apparat-shokovoy-zamorozki-resto-line-bc10116490.html 4 146187 0 0
+/stat/pech-parokonvekcionnaja-resto-line-5m.html 6 213156 0 0
+/equipment/konditerskoe.html 52 2084618 7 8
+/stat/semiavtomat-testoraskatki.html 9 359661 3 3
+/stat/polin_pel.html 1 176 1 1
+/stat/deliteli-okrugliteli-ram-model-sp-plus.html 3 109513 0 1
+/stat/oborudovanie-dlya-trexcvetnogo-pechenia-aladin.html 1 176 0 0
+/equipment/izdelia-canol.html 3 112020 0 0
+/stat/you-tube-mignon.html 14 521673 8 9
+/stat/tv-syncron.html 4 165564 0 0
+/stat/posudomoechnaya-mashina-resto-line-4000-st.html 3 105543 0 0
+/stat/posudomoechnaya-mashina-resto-line-3500-st.html 7 246020 0 1
+/stat/plita-elektricheskaya-resto-line-d77e4.html 1 36355 0 0
+/stat/plita-gazovaya-resto-line-d77g4axl.html 5 180881 2 1
+/stat/stol-holodilnyiy-resto-line-ect704.html 1 36713 1 0
+/equipment/kamery-predvaritelnoi-rasstoyki.html 7 243289 1 0
+/equipment/vakuumnye-upakovshhiki.html 13 472900 0 0
+/equipment/testomesu-polin.html 13 494240 2 2
+/stat/plita-gazovaya-resto-line-d77g6fmxl.html 3 108606 0 0
+/stat/testomes-polin-asr.html 5 192499 1 1
+/stat/rotornaya-mashina-dlya-pechenia-seriya-r.html 5 193568 2 2
+/equipment/form-pelmeni-odnolistovie.html 1 34103 0 0
+/equipment/posudomoechnoe-oborudovanie.html 45 1843875 1 0
+/page/news-expo-iffip-2017.html 7 250770 1 0
+/stat/apparat-shokovoy-zamorozki-resto-line-bc323.html 4 144426 0 1
+/stat/gril-lavovyiy-gaz-resto-line-d77gpla4g.html 1 36199 0 0
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77efta7r.html 8 288584 2 2
+/stat/tank-selmi.html 4 141996 1 1
+/stat/poverhnost-zharochnaya-gazovaya-resto-line-d77gfta7lr.html 1 36012 0 0
+/equipment/electrical-oven-oem.html 1 37059 1 1
+/stat/plita-elektricheskaya-resto-line-d99e2ap8q.html 1 35438 0 0
+/equipment/other-selmi.html 5 176562 1 0
+/admin/pages.html 2 15090 0 0
+/equipment/pechi-dlja-gastronomii.html 12 550560 0 0
+/stat/posudomoechnaya-mashina-resto-line-jolly-40.html 4 140904 0 0
+/equipment/conv-forni.html 12 442255 0 0
+/stat/auto-bread-slicer-macpan-mtp-aut.html 3 105520 0 1
+/stat/plita-elektricheskaya-resto-line-d77e4q.html 1 36396 0 0
+/admin/equipment.html 3 823843 0 0
+/stat/pech-parokonvekcionnaja-resto-line-10a.html 6 212910 0 0
+/stat/rotacionnaya-pech-polin-4676.html 6 217126 1 3
+/stat/elettrodrago-avant.html 4 208972 1 1
+/stat/plita-gazovaya-resto-line-d99g2a8xl.html 1 35427 0 0
+/admin/additem.html 3 133220 0 0
+/stat/pech-na-drevesnom-ugle-josper-hjx25l.html 2 72348 0 0
+/stat/plita-elektricheskaya-resto-line-d77e2q.html 1 36367 0 0
+/stat/pech-parokonvekcionnaja-resto-line-20dc.html 7 249618 0 0
+/stat/testomes-polin-asm-rs.html 5 194526 0 0
+/stat/round-oven-revent.html 3 528 1 0
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-junior.html 5 189588 3 3
+/stat/pech-parokonvekcionnaja-resto-line-10d.html 7 249187 0 0
+/equipment/sterilizator-nozhej.html 6 215358 0 0
+/equipment/pechi-konvekcionnye.html 5 203472 1 0
+/stat/dosators-canol.html 8 287070 2 3
+/equipment/tunnel-forni.html 10 339286 1 1
+/stat/gsp45evo.html 5 185329 1 2
+/stat/plita-gazovaya-resto-line-d77g2xl.html 4 144436 1 0
+/stat/smesiteli.html 3 528 1 1
+/stat/shkaf-holodilnyiy-resto-line-ecc700tn.html 1 36790 1 1
+/stat/sterilizator-nozhej-sc14b-sc20b.html 6 213865 1 0
+/equipment/vodoohladiteli.html 3 103191 1 0
+/stat/gril-lavovyiy-gaz-resto-line-d77gpl8g.html 1 35840 0 0
+/equipment/testoraskatki-dlja-sloyki-manual.html 2 70126 0 0
+/stat/planetarniy-mixer-ram-40-60-80-100-litrov.html 10 401897 7 4
+/stat/baranki-ns3.html 5 880 5 2
+/stat/posudomoechnaya-mashina-resto-line-elite-62-p.html 11 386407 7 9
+/stat/pech-parokonvekcionnaja-resto-line-523m.html 8 284290 0 0
+/equipment/otsadka-dlya-dvuhcvetnogo-pechenya.html 1 36067 0 1
+/equipment/cyclotermic-ovens.html 7 256145 3 3
+/equipment/vafelnica.html 6 215280 0 0
+/equipment/packing.html 44 1617885 10 17
+/stat/top-selmi.html 48 1740556 44 43
+/equipment/forni-pod-kornfeil.html 4 147054 1 0
+/stat/sokovyzhimalki-spl-spm.html 12 393506 0 1
+/stat/pech-parokonvekcionnaja-resto-line-12m.html 9 320095 0 0
+/stat/planetarniy-mixer-tekno.html 5 198473 2 2
+/stat/pocket-4060.html 7 264048 3 3
+/stat/pech-parokonvekcionnaja-resto-line-6a.html 5 177388 0 0
+/stat/signal.html 1 176 1 1
+/stat/stol-holodilnyiy-resto-line-ect702.html 1 36279 0 1
+/stat/testomesu-polin.html 3 528 2 2
+/stat/smesiteli-macpan.html 3 108856 1 0
+/stat/drago-890.html 8 310748 1 1
+/stat/pech-parokonvekcionnaja-resto-line-12d.html 7 249177 0 0
+/stat/pech-parokonvekcionnaja-resto-line-superiore-m.html 4 142686 0 2
+/equipment/planetarnye-mixers.html 6 226557 1 1
+/stat/rotornie-mashini-dlya-pechenia.html 3 528 2 3
+/equipment/electric-ovens.html 2 72105 0 0
+/stat/poverhnost-zharochnaya-gazovaya-resto-line-d77gft7lr.html 1 35975 0 0
+/stat/revent-oxladitel.html 15 679066 8 8
+/stat/fritjurnicy-nastolnye-fe.html 2 74322 0 0
+/stat/miniforni-revent-s-rasstoikoi.html 5 192005 0 0
+/stat/gsp65evo.html 5 192741 0 0
+/stat/pech-parokonvekcionnaja-resto-line-16dc.html 5 178263 0 0
+/stat/tv-drago.html 6 238602 1 2
+/frontend/web/index.php 1 53364 0 0
+/equipment/roto-forni.html 24 1114223 2 3
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-classic.html 12 454951 4 5
+/stat/article.html 1 176 0 0
+/stat/pech-parokonvekcionnaja-resto-line-16AC.html 5 177673 0 0
+/equipment/blenderyi.html 5 172818 0 0
+/stat/zagruzchik-selmi.html 3 108070 0 0
+/stat/gril-el-resto-line-d77aqe7.html 1 35921 1 1
+/stat/planetarniy-mixer-pl-150-800-litrov.html 9 348921 4 3
+/admin/addcategory.html 3 122344 0 0
+/stat/apparat-shokovoy-zamorozki-resto-line-bc15116470.html 2 72462 0 0
+/stat/pech-na-drevesnom-ugle-josper-hjx25lbc.html 2 72700 0 0
+/stat/pech-na-drevesnom-ugle-josper-hjx25mbc.html 2 72684 0 0
+/stat/tunnel-forni.html 2 352 0 0
+/stat/hlebopekarnoe.html 3 528 2 2
+/stat/revent-technology.html 3 528 3 0
+/stat/ledogenerator-resto-line-sm-1750-a.html 1 35518 1 1
+/stat/multiextrusion-s-otsadkoi-na-pod.html 4 168645 0 2
+/stat/c95.html 4 162049 0 0
+/stat/plita-gazovaya-resto-line-d77g4fxl.html 1 36235 0 0
+/stat/gas-oven-oem-hv50g.html 2 76776 0 0
+/stat/roto-forni-polin.html 7 1232 3 0
+/stat/expositions.html 3 528 2 1
+/stat/vafelnica-pg-25.html 2 70478 0 0
+/stat/pech-na-drevesnom-ugle-josper-hjx45mbc.html 1 36448 0 0
+/stat/konditerskoe.html 2 352 2 2
+/stat/plita-elektricheskaya-resto-line-d99e4f8q.html 1 35587 0 0
+/stat/kornfeil-thermoline.html 3 114337 0 1
+/stat/formatrici.html 1 176 0 0
+/stat/pech-parokonvekcionnaja-resto-line-4m.html 6 212904 0 0
+/stat/tun-selmi.html 1 176 0 1
+/stat/plita-elektricheskaya-resto-line-d77e2a.html 1 36381 0 0
+/stat/plita-elektricheskaya-resto-line-d77e4f.html 2 73054 0 0
+/stat/plitochnaya-zamorozka.html 1 176 1 1
+/stat/pech-parokonvekcionnaja-resto-line-7m.html 5 177643 0 0
+/stat/baranki.html 2 352 0 1
+/stat/plita-gazovaya-resto-line-d77g2axl.html 5 180435 0 0
+/equipment/tehnologicheskie-linii.html 6 623292 0 0
+/stat/trexbunkernaya-mashina-mini-aladin.html 1 39656 1 1
+/equipment/plityi-gazovyie.html 2 92814 0 0
+/stat/c45.html 5 198596 0 1
+/stat/plita-elektricheskaya-resto-line-d77e4fvpq.html 1 36562 0 0
+/equipment/form-pelmeni.html 7 236821 0 1
+/stat/r-200-selmi.html 4 144401 1 0
+/stat/pech-parokonvekcionnaja-resto-line-5d.html 6 213904 0 0
+/stat/posudomoechnaya-mashina-resto-line-5000-st.html 3 105654 0 1
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop.html 6 1056 6 5
+/stat/okrugliteli-macpan-model-co1600v.html 4 138717 0 0
+/stat/mukoproseivateli-macpan.html 4 140761 0 1
+/stat/testomes-polin-asm.html 10 386749 1 2
+/stat/pech-parokonvekcionnaja-resto-line-7a.html 6 213240 0 0
+/stat/gril-lavovyiy-gaz-resto-line-d77gpl4g.html 1 35847 0 0
+/equipment/testoraskatki-pelmeni.html 3 103605 0 0
+/stat/otsadochnie-mashini-dlya-pechenia-multidrop-c.html 9 337523 5 5
+/stat/testoraskatka-agnelli.html 9 337970 1 2
+/stat/testomes-polin-asm-rb.html 8 312880 1 0
+/equipment/conv-forni-revent.html 3 104372 0 0
+/stat/formovochnie-mashina-macpanfr2cf.html 7 245967 4 5
+/stat/pech-na-drevesnom-ugle-josper-hjx38sp.html 6 217036 0 2
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d99efta98lr.html 1 36249 0 0
+/stat/pech-parokonvekcionnaja-resto-line-523d.html 15 536703 0 0
+/stat/avtomat-testoraskatki.html 56 2381931 33 36
+/stat/posudomoechnaya-mashina-resto-line-elite-400.html 3 105627 0 0
+/stat/pech-parokonvekcionnaja-resto-line-10M.html 4 142250 0 0
+/stat/kalibrators-canol.html 6 217832 2 3
+/stat/plita-elektricheskaya-resto-line-d77e4fq.html 2 73132 0 0
+/stat/vacuum-packing-cve.html 6 222024 1 2
+/stat/elettrodrago-elektros.html 4 162545 0 0
+/stat/you-tube-normale.html 6 218027 1 2
+/equipment/formatrici.html 5 182838 0 0
+/stat/frityurnitsa-gaz-resto-line-d77gf42v.html 1 35479 0 0
+/stat/slajsera-lusso-22gl-25gl-275a-300sl.html 8 292710 0 1
+/stat/poverhnost-zharochnaya-elektricheskaya-resto-line-d77efta7l.html 3 108430 0 0
+/stat/kamery-predvaritelnoi-rasstoyki.html 5 880 4 4
+/stat/pech-parokonvekcionnaja-resto-line-6M.html 5 177718 0 0
+/stat/electrical-oven-oem-hv50e.html 1 38068 0 0
+/stat/kornfeil-tunnel-forni.html 41 1905680 25 27
+END_SIDER

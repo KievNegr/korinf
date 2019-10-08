@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin
+Disallow: /index.html
+Disallow: /index.php
+Allow: /images
+Allow: /style
+Allow: /js
+Crawl-delay: 10
+host: korinf-group.com
